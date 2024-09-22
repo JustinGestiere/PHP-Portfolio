@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+
+.info_section .container .row {
+    justify-content: space-between;
+}
+
+.reseaux {
+    padding-left: 5%;
+}
