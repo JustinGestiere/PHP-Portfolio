@@ -1101,6 +1101,14 @@ pre {
   height: auto;
   fill: #00204a;
 }
+
+.why_section .boxe .ligne-boxe a p {
+  text-decoration: none;
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+}
+
 /************************************************** fin template page php ************************************************************/
 
 /*# sourceMappingURL=style.css.map */

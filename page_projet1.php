@@ -118,19 +118,15 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/CV Word Justin Gestière 2023.pdf"><img src="images/w4.png" alt=""></a>
+              <a href="https://justingestiere.github.io/projet1/"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <p>ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok o extraordianaire anticont</p>
+            <a href="https://justingestiere.github.io/projet1/"><p>Adresse du site web</p></a>
           </div>
-          <div>
+          <div class="ligne-boxe">
             <div class="img-boxe">
-              <img src="images/w4.png" alt="">
+              <a href="https://github.com/JustinGestiere/projet1"><img src="images/logo_git.png" alt=""></a>
             </div>
-          </div>
-          <div>
-            <div class="img-boxe">
-              <img src="images/w4.png" alt="">
-            </div>
+            <a href="https://github.com/JustinGestiere/projet1"><p>Repository GitHub</p></a>
           </div>
         </div>
       </div>
