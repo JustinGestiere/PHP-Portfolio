@@ -57,7 +57,7 @@
               <a class="active" href="mentions_légales.php">
                  Mentions Légales
               </a>
-              <a class="active" href="index.php">
+              <a class="active" href="conditions_utilisations.php">
                 Conditions d'utilisation
               </a>
             </div>
