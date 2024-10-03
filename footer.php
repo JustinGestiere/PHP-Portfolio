@@ -54,10 +54,10 @@
               Informations
             </h4>
             <div class="info_links">
-              <a class="active" href="index.html">
+              <a class="active" href="mentions_légales.php">
                  Mentions Légales
               </a>
-              <a class="active" href="index.html">
+              <a class="active" href="index.php">
                 Conditions d'utilisation
               </a>
             </div>

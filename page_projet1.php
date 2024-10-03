@@ -28,6 +28,38 @@
           </div>
           <div class="detail-box">
             <h5>
+              Compétences mises en oeuvre 
+            </h5>
+            <p>
+              <pre>
+- Étude de la maquette Figma
+- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
+- Réalisation de la partie JavaScript pour rendre la page dynamique
+- Mise en place d'un bouton PDF
+- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+              </pre>
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <!-- <div class="img-box-page">
+            <img src="images/projet1.png" alt="">
+          </div> -->
+          <div class="detail-box">
+            <h5>
+              Contexte  
+            </h5>
+            <p>
+              L'objectif était de créer une calculatrice immobilière à partir de zéro, en utilisant des langages de programmation tels que HTML, CSS et JavaScript.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <!-- <div class="img-box-page">
+            <img src="images/projet1.png" alt="">
+          </div> -->
+          <div class="detail-box">
+            <h5>
               Description des différentes tâches  
             </h5>
             <p>
@@ -94,19 +126,6 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div> -->
           <div class="detail-box">
             <h5>
-              Note
-            </h5>
-            <p>
-              L'objectif était de créer une calculatrice immobilière à partir de zéro, en utilisant des langages de programmation tels que HTML, CSS et JavaScript.
-            </p>
-          </div>
-        </div>
-        <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
-          <div class="detail-box">
-            <h5>
               Documents
             </h5>
             <!-- <p>
@@ -118,15 +137,15 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/projet1/"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://justingestiere.github.io/projet1/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/projet1/"><p>Adresse du site web</p></a>
+            <a href="https://justingestiere.github.io/projet1/" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/projet1"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/projet1" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/projet1"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/projet1" target="_blank"><p>Repository GitHub</p></a>
           </div>
         </div>
       </div>
