@@ -8,7 +8,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Mentions Légales<span></span>
+          Conditions Utilisations<span></span>
         </h2>
       </div>
       <div class="why_container">
