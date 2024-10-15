@@ -1110,5 +1110,43 @@ pre {
 }
 
 /************************************************** fin template page php ************************************************************/
+/*************************************************************************************************************************************/
+/************************************************** debut page competence ************************************************************/
+.competence{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.detail-competence {
+  display: flex;
+  align-items: start;
+}
+
+details {
+  border: solid 3px #00204a;
+  border-radius: 20px;
+  margin: 20px 25px ;
+}
+
+details summary {
+  font-size: large;
+  font-weight: bold;
+  height: 150px;
+  width: 170px;
+  align-content: center;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+details p {
+  width: 90%;
+  border: solid 2px #00204a;
+  border-radius: 20px;
+  margin: 20px 10px;
+  padding: 8px;
+}
+
 
 /*# sourceMappingURL=style.css.map */

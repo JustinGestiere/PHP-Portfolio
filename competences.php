@@ -2,11 +2,9 @@
   include "header.php";
 ?>
 
-  <!-- service section -->
-
-  <section class="service_section layout_padding">
+<section class="service_section layout_padding">
     <div class="service_container">
-      <div class="container ">
+      <div>
         <div class="heading_container heading_center">
           <h2>
             Mes <span>Compétences</span>
@@ -15,114 +13,33 @@
             There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
           </p> -->
         </div>
-        <div class="row">
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/html-5_3661390.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  HTML
-                </h5>
-                <p>
-                  Texte Html
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/css-3.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  CSS
-                </h5>
-                <p>
-                  Texte CSS
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/java-script_721791.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  JavaScript
-                </h5>
-                <p>
-                  Texte JS
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/web_14195585.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  PHP
-                </h5>
-                <p>
-                  Texte PHP
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/sql-server_3161115.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  SQL
-                </h5>
-                <p>
-                  Texte SQL
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/snakes_359079.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Python
-                </h5>
-                <p>
-                  Texte python
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
+        <div class="row_competence">
+          <div class="competence">
+              <div class="detail-competence">
+              <details>
+                    <summary>Gérer le patrimoine informatique</summary>
+                    <p>anticonstitutionnellement</p>
+                </details>
+                <details>
+                    <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
+                    <p>Bonsoir paris comment aller vous ce soir</p>
+                </details>
+                <details>
+                    <summary>Développer la présence en ligne de l'organisation</summary>
+                    <p>Bonsoir paris comment aller vous ce soir</p>
+                </details>
+                <details>
+                    <summary>Travailler en mode projet</summary>
+                    <p>Bonsoir paris comment aller vous ce soir</p>
+                </details>
+                <details>
+                    <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                    <p>Bonsoir paris comment aller vous ce soir</p>
+                </details>
+                <details>
+                    <summary>Organiser son développement professionnel</summary>
+                    <p>Bonsoir</p>
+                </details>
               </div>
             </div>
           </div>
@@ -130,9 +47,6 @@
       </div>
     </div>
   </section>
-
-  <!-- end service section -->
-
 <?php
   include "footer.php";
 ?>
