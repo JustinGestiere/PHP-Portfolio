@@ -44,7 +44,7 @@
                   Projet 2
                 </h5>
                 <p>
-                  Texte 2
+                  WEB FORMATION
                 </p>
                 <a href="">
                   Voir Plus
