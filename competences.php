@@ -15,32 +15,31 @@
         </div>
         <div class="row_competence">
           <div class="competence">
-              <div class="detail-competence">
+            <div class="detail-competence">
               <details>
-                    <summary>Gérer le patrimoine informatique</summary>
-                    <p>anticonstitutionnellement</p>
-                </details>
-                <details>
-                    <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
-                    <p>Bonsoir paris comment aller vous ce soir</p>
-                </details>
-                <details>
-                    <summary>Développer la présence en ligne de l'organisation</summary>
-                    <p>Bonsoir paris comment aller vous ce soir</p>
-                </details>
-                <details>
-                    <summary>Travailler en mode projet</summary>
-                    <p>Bonsoir paris comment aller vous ce soir</p>
-                </details>
-                <details>
-                    <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                    <p>Bonsoir paris comment aller vous ce soir</p>
-                </details>
-                <details>
-                    <summary>Organiser son développement professionnel</summary>
-                    <p>Bonsoir</p>
-                </details>
-              </div>
+                <summary>Gérer le patrimoine informatique</summary>
+                <p>anticonstitutionnellement</p>
+              </details>
+              <details>
+                <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
+                <p>Bonsoir paris comment aller vous ce soir</p>
+              </details>
+              <details>
+                <summary>Développer la présence en ligne de l'organisation</summary>
+                <p>Bonsoir paris comment aller vous ce soir</p>
+              </details>
+              <details>
+                <summary>Travailler en mode projet</summary>
+                <p>Bonsoir paris comment aller vous ce soir</p>
+              </details>
+              <details>
+                <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                <p>Bonsoir paris comment aller vous ce soir</p>
+              </details>
+              <details>
+                <summary>Organiser son développement professionnel</summary>
+                <p>Bonsoir</p>
+              </details>
             </div>
           </div>
         </div>
