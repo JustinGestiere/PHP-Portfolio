@@ -1141,7 +1141,7 @@ details summary {
 }
 
 details p {
-  width: 90%;
+  width: 150px;
   border: solid 2px #00204a;
   border-radius: 20px;
   margin: 20px 10px;
