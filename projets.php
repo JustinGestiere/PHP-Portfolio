@@ -19,7 +19,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/immobilier.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -37,7 +37,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/web_formation.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
