@@ -19,7 +19,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/netflix.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -37,7 +37,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/plus_ou_moins.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -55,7 +55,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/sapin.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -75,7 +75,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/apple.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -93,7 +93,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/calculatrice_matrice.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -111,7 +111,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/calculatrice_js.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -131,7 +131,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/snake.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -149,7 +149,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/hanoi.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -167,7 +167,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/calculatrice_python.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -187,7 +187,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/adn.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -205,7 +205,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/train.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -223,7 +223,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/bar.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -243,7 +243,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/dropdown.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -261,7 +261,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/accordeon.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -279,7 +279,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/snackbar.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
