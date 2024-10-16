@@ -22,11 +22,12 @@
               </details>
               <details>
                 <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
-                <p>Bonsoir paris comment aller vous ce soir</p>
+                <p>Calculette immobiliere</p>
               </details>
               <details>
                 <summary>Développer la présence en ligne de l'organisation</summary>
-                <p>Bonsoir paris comment aller vous ce soir</p>
+                <p>Calculette immobiliere</p>
+                <p>Web Formation</p>
               </details>
               <details>
                 <summary>Travailler en mode projet</summary>
