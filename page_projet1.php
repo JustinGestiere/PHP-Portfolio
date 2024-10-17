@@ -70,15 +70,13 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <h5>
               Description des différentes tâches  
             </h5>
-            <p>
-              <pre>
+            <pre>
 - Étude de la maquette Figma
 - Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
 - Réalisation de la partie JavaScript pour rendre la page dynamique
 - Mise en place d'un bouton PDF
 - Rendre la page responsive pour que les appareils portables puissent avoir accès au site
-              </pre>
-            </p>
+            </pre>
           </div>
         </div>
         <div class="box">
