@@ -26,7 +26,7 @@
                   Intégration Netflix
                 </h5>
                 <p>
-                  Texte Netflix
+                  Mission 1
                 </p>
                 <a href="">
                   Voir Plus
@@ -44,7 +44,7 @@
                   Jeu plus ou moins
                 </h5>
                 <p>
-                  Texte jeu plus ou moins
+                  Mission 2
                 </p>
                 <a href="">
                   Voir Plus
@@ -62,7 +62,7 @@
                   Sapin PHP
                 </h5>
                 <p>
-                  Texte sapin
+                  Mission 3
                 </p>
                 <a href="">
                   Voir Plus
@@ -82,7 +82,7 @@
                   Intégration Apple
                 </h5>
                 <p>
-                  Texte Apple
+                  Mission 4
                 </p>
                 <a href="">
                   Voir Plus
@@ -100,7 +100,7 @@
                   Calculateur de matrices
                 </h5>
                 <p>
-                  Texte calculateur matrices
+                  Mission 5
                 </p>
                 <a href="">
                   Voir Plus
@@ -118,7 +118,7 @@
                   Calculatrice JavaScript
                 </h5>
                 <p>
-                  Texte calculatrice js
+                  Mission 6
                 </p>
                 <a href="">
                   Voir Plus
@@ -138,7 +138,7 @@
                   Snake
                 </h5>
                 <p>
-                  Texte Snake
+                  Mission 7
                 </p>
                 <a href="">
                   Voir Plus
@@ -156,7 +156,7 @@
                   Jeu Hanoï
                 </h5>
                 <p>
-                  Texte jeu hanoi
+                  Mission 8
                 </p>
                 <a href="">
                   Voir Plus
@@ -174,7 +174,7 @@
                   Calculatrice Python
                 </h5>
                 <p>
-                  Texte calculatrice python
+                  Mission 9
                 </p>
                 <a href="">
                   Voir Plus
@@ -194,7 +194,7 @@
                   Jeu de la vie
                 </h5>
                 <p>
-                  Texte jeu de la vie
+                  Mission 10
                 </p>
                 <a href="">
                   Voir Plus
@@ -212,7 +212,7 @@
                   Train JavaScript
                 </h5>
                 <p>
-                  Texte train
+                  Mission 11
                 </p>
                 <a href="">
                   Voir Plus
@@ -230,7 +230,7 @@
                   Bar PHP
                 </h5>
                 <p>
-                  Texte Bar
+                  Mission 12
                 </p>
                 <a href="">
                   Voir Plus
@@ -250,7 +250,7 @@
                   Dropdown JavaScript
                 </h5>
                 <p>
-                  Texte dropdown
+                  Mission 13
                 </p>
                 <a href="">
                   Voir Plus
@@ -268,7 +268,7 @@
                   Accordéon JavaScript
                 </h5>
                 <p>
-                  Texte accordeon
+                  Mission 14
                 </p>
                 <a href="">
                   Voir Plus
@@ -286,7 +286,7 @@
                   Snackbar JavaScript
                 </h5>
                 <p>
-                  Texte Snackbar
+                  Mission 15
                 </p>
                 <a href="">
                   Voir Plus

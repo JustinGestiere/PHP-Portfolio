@@ -23,10 +23,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 1
+                  Calculette prêt immobilier
                 </h5>
                 <p>
-                  Calculette prêt immobilier
+                  Projet 1
                 </p>
                 <a href="page_projet1.php">
                   Voir Plus
@@ -41,10 +41,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 2
+                  WEB FORMATION
                 </h5>
                 <p>
-                  WEB FORMATION
+                  Projet 2
                 </p>
                 <a href="">
                   Voir Plus
@@ -59,10 +59,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet3
+                  Texte 3
                 </h5>
                 <p>
-                  Texte 3
+                  Projet 3
                 </p>
                 <a href="">
                   Voir Plus
