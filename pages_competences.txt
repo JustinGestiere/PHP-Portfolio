@@ -1,3 +1,6 @@
+ <!-- ATTENTION NE PAS PRENDRE -->
+
+
 <?php
   include "header.php";
 ?>
