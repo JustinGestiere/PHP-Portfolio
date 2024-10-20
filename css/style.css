@@ -865,7 +865,7 @@ h3 {
           align-items: center;
   color: #ffffff;
   border-radius: 100%;
-  /* margin-right: 10px; */
+  margin-right: 10px;
 }
 
 .info_section .info_social a:hover {
