@@ -865,7 +865,7 @@ h3 {
           align-items: center;
   color: #ffffff;
   border-radius: 100%;
-  margin-right: 10px;
+  /* margin-right: 10px; */
 }
 
 .info_section .info_social a:hover {
@@ -1112,7 +1112,7 @@ pre {
 /************************************************** fin template page php ************************************************************/
 /*************************************************************************************************************************************/
 /************************************************** debut page competence ************************************************************/
-.competence{
+.competence {
   display: flex;
   justify-content: center;
   margin-top: 40px;
@@ -1121,33 +1121,79 @@ pre {
 
 .detail-competence {
   display: flex;
-  align-items: start;
+  flex-wrap: nowrap; /* Empêche le retour à la ligne */
+  justify-content: space-around; /* Aligne les éléments horizontalement */
+  overflow-x: auto; /* Ajoute un défilement horizontal si nécessaire */
 }
 
 details {
   border: solid 3px #00204a;
   border-radius: 20px;
-  margin: 20px 25px ;
+  margin: 20px;
+  width: 300px; /* Largeur fixe */
+  flex-shrink: 0; /* Empêche les éléments de rétrécir */
 }
 
 details summary {
+  display: flex;
   font-size: large;
   font-weight: bold;
   height: 150px;
-  width: 170px;
-  align-content: center;
+  width: 100%;
   text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
 }
 
 details p {
-  width: 150px;
+  width: 100%;
   border: solid 2px #00204a;
   border-radius: 20px;
   margin: 20px 10px;
   padding: 8px;
   word-break: break-word;
-  overflow-wrap: break-word;
   text-align: center;
 }
+
+/* MEDIA QUERIES */
+
+/* Pour les écrans de 1020px et plus */
+@media (min-width: 1020px) {
+  .detail-competence {
+    flex-wrap: nowrap; /* Tous les éléments sur une seule ligne */
+    justify-content: space-between;
+  }
+
+  details {
+    width: 15%; /* Ajuste la largeur pour permettre à tous les éléments de tenir en ligne */
+  }
+}
+
+/* Pour les tablettes (entre 768px et 1020px) */
+@media (max-width: 1019px) and (min-width: 768px) {
+  .detail-competence {
+    flex-direction: row;
+    flex-wrap: wrap; /* Permet d'avoir deux éléments par ligne */
+  }
+
+  details {
+    width: 45%; /* Deux éléments par ligne */
+  }
+}
+
+/* Pour les petits écrans (téléphones) */
+@media (max-width: 767px) {
+  .detail-competence {
+    flex-direction: column; /* Colonne pour les petits écrans */
+    align-items: center;
+  }
+
+  details {
+    width: 100%; /* Chaque élément prend toute la largeur disponible */
+  }
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
