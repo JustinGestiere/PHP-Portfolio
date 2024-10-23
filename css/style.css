@@ -1116,14 +1116,14 @@ pre {
   display: flex;
   justify-content: center;
   margin-top: 40px;
-  padding: 20px;
+  padding: 25px;
 }
 
 .detail-competence {
   display: flex;
   flex-wrap: nowrap; /* Empêche le retour à la ligne */
   justify-content: space-around; /* Aligne les éléments horizontalement */
-  overflow-x: auto; /* Ajoute un défilement horizontal si nécessaire */
+  align-items: flex-start;
 }
 
 details {
