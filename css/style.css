@@ -1147,7 +1147,7 @@ details summary {
 }
 
 details p {
-  width: 100%;
+  /* width: 100%; */
   border: solid 2px #00204a;
   border-radius: 20px;
   margin: 20px 10px;
@@ -1159,14 +1159,15 @@ details p {
 /* MEDIA QUERIES */
 
 /* Pour les écrans de 1020px et plus */
+
 @media (min-width: 1020px) {
   .detail-competence {
-    flex-wrap: nowrap; /* Tous les éléments sur une seule ligne */
+    flex-wrap: wrap; /* Tous les éléments sur plusieurs lignes */
     justify-content: space-between;
   }
 
   details {
-    width: 15%; /* Ajuste la largeur pour permettre à tous les éléments de tenir en ligne */
+    width: 28%; /* Ajuste la largeur pour permettre à tous les éléments de tenir en ligne */
   }
 }
 
@@ -1178,7 +1179,7 @@ details p {
   }
 
   details {
-    width: 45%; /* Deux éléments par ligne */
+    width: 28%; /* Deux éléments par ligne */
   }
 }
 
