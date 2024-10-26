@@ -25,12 +25,12 @@
                 Qu'est ce qu'une veille ?  
               </h5>
               <p>
-                L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
-                des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-                notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-                Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-                Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-                les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+                La veille consiste à surveiller activement les évolutions dans un domaine donné, qu'il s'agisse de technologie, de marché, 
+                de réglementation, ou de concurrence. Son objectif est de récupérer des informations stratégiques pour anticiper les changements 
+                et prendre des décisions. Elle se décline en plusieurs types (technologique, concurrentielle, juridique, etc.) 
+                selon les besoins. Grâce aux outils numériques, il est possible d'automatiser en partie cette collecte d'informations, 
+                mais leur analyse et l'interprétation restent des tâches humaines cruciales pour en tirer des actions utiles.
+                Pour conclure, la veille est un levier essentiel pour rester compétitif et agile face aux évolutions constantes de l'environnement.
               </p>
             </div>
           </div>
@@ -43,12 +43,12 @@
                 Outils utilisés pour réaliser ma veille
               </h5>
               <p>
-                L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
-                des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-                notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-                Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-                Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-                les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              Pour ma veille, j'utilise une sélection d'outils qui m'aident à rester informé de manière efficace. Google Alerts est essentiel, 
+              car il m'envoie par email les dernières actualités pertinentes sur mes thématiques. De plus, Mention suit en temps réel les 
+              discussions et les mentions de mes sujets d'intérêt sur les réseaux sociaux et les forums. J'utilise également Twitter et LinkedIn 
+              pour suivre les experts dans mon domaine. Ces réseaux sociaux me permettent de voir les tendances 
+              et les échanges actuels. Grâce à cette combinaison d'outils, je peux facilement suivre les évolutions, m'adapter rapidement 
+              et intégrer les meilleures pratiques à mes projets. Cela me permet de rester informé et réactif face aux changements.
               </p>
             </div>
           </div>
@@ -61,12 +61,12 @@
                 Sujet choisi pour ma veille
               </h5>
               <p>
-                L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
-                des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-                notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-                Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-                Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-                les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+                Pour ma veille, j'ai choisi de me concentrer sur les langages de programmation essentiels au développement web, notamment HTML, 
+                CSS et JavaScript, qui forment la base des sites internet. J'explore également des langages côté serveur comme PHP et Python, 
+                cruciaux pour la gestion des données. Le SQL est aussi fondamental pour interroger les bases de données. En suivant les tendances 
+                et évolutions de ces langages, je peux m'assurer que mes compétences restent à jour, ce qui est essentiel dans un environnement 
+                technologique en constante évolution. Cette veille m'aide à comprendre les meilleures pratiques et à appliquer des solutions 
+                efficaces dans mes projets.
               </p>
             </div>
           </div>
