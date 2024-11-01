@@ -13,153 +13,63 @@
       </div>
       <div class="why_container">
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h1>
-                Calculette prêt immobilier
+                HTML et le rendu côté client avec l'API Paint Timing
             </h1>
           </div>
         </div>
         <div class="box">
-          <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
-          </div>
           <div class="detail-box">
-            <h5>
-              Compétences mises en oeuvre 
-            </h5>
             <p>
-              <pre>
-
-<strong>- Travailler en mode projet</strong>
-Analyser les objectifs et les modalités d'organisation d'un projet
-Planifier les activités
-<strong>- Mettre à disposition des utilisateurs un service informatique</strong>
-Réaliser les tests d'intégration et d'acceptation d'un service
-Déployer un service
-Accompagner les utilisateurs dans la mise en place d'un service
-              </pre>
+                <strong>Contexte :</strong> La Paint Timing API est une initiative de Google qui vise à optimiser le chargement des pages 
+                en identifiant les moments clés de rendu, comme le "First Paint" (FP) et le "First Contentful Paint" (FCP), afin 
+                d'améliorer l'expérience utilisateur en fournissant des données précises pour analyser et améliorer les temps de chargement.
             </p>
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
-              Contexte  
+                Détails Techniques
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+                La Paint Timing API fait partie des performances APIs de HTML et offre aux développeurs des mesures précises sur la 
+                manière dont les éléments sont rendus sur la page. Le "First Paint" signale le premier pixel rendu par le navigateur, 
+                tandis que le "First Contentful Paint" indique le premier contenu visuel. Cette distinction permet de mieux cerner les 
+                goulots d'étranglement et d'ajuster le contenu pour des chargements plus rapides et fluides.
             </p>
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
-              Description des différentes tâches  
-            </h5>
-            <pre>
-- Étude de la maquette Figma
-- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-- Réalisation de la partie JavaScript pour rendre la page dynamique
-- Mise en place d'un bouton PDF
-- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
-            </pre>
-          </div>
-        </div>
-        <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w3.png" alt="">
-          </div> -->
-          <div class="detail-box">
-            <h5>
-              Outils utilisés
+                Avantages et Applications Pratiques
             </h5>
             <p>
-              <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML, CSS et JavaScript
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
-              </pre>
+                Cette API améliore significativement l'expérience utilisateur en identifiant les ralentissements éventuels qui nuisent 
+                à la première impression de la page. Cela aide les développeurs à prioriser le rendu des éléments essentiels, améliorant 
+                ainsi l'engagement utilisateur. Par exemple, dans des applications e-commerce, une meilleure performance de chargement 
+                peut se traduire par un taux de conversion plus élevé.
             </p>
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
-          <div class="detail-box">
-            <h5>
-              Collaborateurs
-            </h5>
-            <p>
-              Travail réalisé individuellement avec l'assistance de notre professeur.
-            </p>
-          </div>
-        </div>
-        <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
-          <div class="detail-box">
-            <h5>
-              Informations supplémentaires
-            </h5>
-            <p>
-              <pre>
-Effectué au sein de l'établissement : My Digital School à Angers
-Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
-              </pre>
-            </p>
-          </div>
-        </div>
-        <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Documents
             </h5>
-            <!-- <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, anticonstitutionnellementanticonstitutionnellement nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
-            </p> -->
           </div>
         </div>
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/projet1/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://www.developer-tech.com/categories/developer-languages/developer-languages-html/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/projet1/" target="_blank"><p>Adresse du site web</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/projet1" target="_blank"><img src="images/logo_git.png" alt=""></a>
-            </div>
-            <a href="https://github.com/JustinGestiere/projet1" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://www.developer-tech.com/categories/developer-languages/developer-languages-html/" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
       </div>
-      <!-- <div class="btn-box">
-        <a href=""> 
-          Read More
-        </a>
-      </div> -->
     </div>
   </section>
 

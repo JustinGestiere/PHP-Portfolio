@@ -149,7 +149,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  SQL et la sécurité pour les bases de données
+                  SQL et la transition vers le stockage sans schéma
                 </h5>
                 <p>
                  
