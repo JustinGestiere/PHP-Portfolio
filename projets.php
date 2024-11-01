@@ -59,7 +59,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Texte 3
+                  Projet Laravel
                 </h5>
                 <p>
                   Projet 3

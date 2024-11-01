@@ -73,16 +73,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/veille1.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 1
+                  HTML et Google avec l'API Paint Timing
                 </h5>
                 <p>
-                  Calculette prêt immobilier
+                  
                 </p>
-                <a href="">
+                <a href="page_veille1.php">
                   Voir Plus
                 </a>
               </div>
@@ -91,16 +91,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/veille2.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 2
+                  CSS et l'utilisation d'animations avancées
                 </h5>
                 <p>
-                  Texte 2
+                  
                 </p>
-                <a href="">
+                <a href="page_veille2.php">
                   Voir Plus
                 </a>
               </div>
@@ -109,16 +109,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/veille3.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet3
+                  JavaScript et l'arrivé de TypeScript
                 </h5>
                 <p>
-                  Texte 3
+                  
                 </p>
-                <a href="">
+                <a href="page_veille3.php">
                   Voir Plus
                 </a>
               </div>
@@ -127,16 +127,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/veille4.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 1
+                  PHP 8.4 et ses améliorations pour le développement
                 </h5>
                 <p>
-                  Calculette prêt immobilier
+                 
                 </p>
-                <a href="">
+                <a href="page_veille4.php">
                   Voir Plus
                 </a>
               </div>
@@ -145,16 +145,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/veille5.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 2
+                  SQL et la sécurité pour les bases de données
                 </h5>
                 <p>
-                  Texte 2
+                 
                 </p>
-                <a href="">
+                <a href="page_veille5.php">
                   Voir Plus
                 </a>
               </div>
@@ -163,16 +163,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/veille6.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet3
+                  CSS et les designs réactifs et accessibles
                 </h5>
                 <p>
-                  Texte 3
+                
                 </p>
-                <a href="">
+                <a href="page_veille6.php">
                   Voir Plus
                 </a>
               </div>
@@ -181,16 +181,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s1.png" alt="">
+                <img src="images/veille7.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 1
+                  JavaScript et l’API-First Design
                 </h5>
                 <p>
-                  Calculette prêt immobilier
+             
                 </p>
-                <a href="">
+                <a href="page_veille7.php">
                   Voir Plus
                 </a>
               </div>
@@ -199,16 +199,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s2.png" alt="">
+                <img src="images/veille8.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet 2
+                  PHP et l'intégration des CMS (Headless)
                 </h5>
                 <p>
-                  Texte 2
+             
                 </p>
-                <a href="">
+                <a href="page_veille8.php">
                   Voir Plus
                 </a>
               </div>
@@ -217,16 +217,16 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/veille9.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet3
+                  HTML5 et l'intégration blockchain dans les jeux
                 </h5>
                 <p>
-                  Texte 3
+             
                 </p>
-                <a href="">
+                <a href="page_veille9.php">
                   Voir Plus
                 </a>
               </div>
