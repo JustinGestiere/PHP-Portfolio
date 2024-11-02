@@ -8,7 +8,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          PROJET 1<span></span>
+          PROJET 2<span></span>
         </h2>
       </div>
       <div class="why_container">
@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Calculette prêt immobilier
+                Web Formation
             </h1>
           </div>
         </div>

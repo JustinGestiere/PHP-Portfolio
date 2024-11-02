@@ -46,7 +46,7 @@
                 <p>
                   Projet 2
                 </p>
-                <a href="">
+                <a href="page_projet2.php">
                   Voir Plus
                 </a>
               </div>
