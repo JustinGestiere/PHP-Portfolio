@@ -13,9 +13,6 @@
       </div>
       <div class="why_container">
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h1>
                 Centre de traitement informatique
@@ -24,7 +21,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/entreprise.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -45,9 +42,6 @@ Accompagner les utilisateurs dans la mise en place d'un service
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Contexte  
@@ -63,9 +57,6 @@ Accompagner les utilisateurs dans la mise en place d'un service
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Description des différentes tâches  
@@ -80,9 +71,6 @@ Accompagner les utilisateurs dans la mise en place d'un service
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w3.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Outils utilisés
@@ -97,9 +85,6 @@ Accompagner les utilisateurs dans la mise en place d'un service
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Collaborateurs
@@ -110,9 +95,6 @@ Accompagner les utilisateurs dans la mise en place d'un service
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Informations supplémentaires
@@ -127,39 +109,21 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
           <div class="detail-box">
             <h5>
               Documents
             </h5>
-            <!-- <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, anticonstitutionnellementanticonstitutionnellement nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
-            </p> -->
           </div>
         </div>
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/projet1/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/projet1/" target="_blank"><p>Adresse du site web</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/projet1" target="_blank"><img src="images/logo_git.png" alt=""></a>
-            </div>
-            <a href="https://github.com/JustinGestiere/projet1" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
       </div>
-      <!-- <div class="btn-box">
-        <a href=""> 
-          Read More
-        </a>
-      </div> -->
     </div>
   </section>
 
