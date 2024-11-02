@@ -1040,7 +1040,7 @@ pre {
 
 @media screen and (min-width: 768px) {
   .why_section .box .img-box-page img {
-    width: 100%;
+    /* width: 100%; */
     max-width: 1000px;
     height: 100%;
     max-height: 600px;
