@@ -143,15 +143,15 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/projet1/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/projet1/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/projet1" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/projet1" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><p>Repository GitHub</p></a>
           </div>
         </div>
       </div>
