@@ -35,7 +35,7 @@
                 </h3>
                 <p class="presentation">
                   Après avoir réalisé une première année de BTS Comptabilité, je me suis réorienté vers l'informatique.
-                  Car développer des sites webs ou applications tout en apportant ma touche personnelle m'attire. 
+                  Développer des sites webs ou applications tout en apportant ma touche personnelle m'attire. 
                   Le monde de l'informatique est vaste et son évolution ne s'arrête jamais. 
                   Le BTS SIO option SLAM permet d'améliorer mes compétences sur ce secteur. 
                   Vous pouvez avoir plus d'information sur mon parcours en consultant mon <span><a href="images/CV Word Justin Gestière 2024.pdf" target="_blank">C.V !</a></span>

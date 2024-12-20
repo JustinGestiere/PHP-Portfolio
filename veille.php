@@ -43,9 +43,9 @@
                 Outils utilisés pour réaliser ma veille
               </h5>
               <p>
-              Pour ma veille, j'utilise une sélection d'outils qui m'aident à rester informé de manière efficace. Google Alerts est essentiel, 
-              car il m'envoie par email les dernières actualités pertinentes sur mes thématiques. De plus, Mention suit en temps réel les 
-              discussions et les mentions de mes sujets d'intérêt sur les réseaux sociaux et les forums. J'utilise également Twitter et LinkedIn 
+              Pour ma veille, j'utilise une sélection d'outils qui m'aident à rester informé de manière efficace. <strong>Google Alerts</strong> est essentiel, 
+              car il m'envoie par email les dernières actualités pertinentes sur mes thématiques. De plus, <strong>Mention</strong> suit en temps réel les 
+              discussions et les mentions de mes sujets d'intérêt sur les réseaux sociaux et les forums. J'utilise également <strong>Twitter</strong> et <strong>LinkedIn</strong>
               pour suivre les experts dans mon domaine. Ces réseaux sociaux me permettent de voir les tendances 
               et les échanges actuels. Grâce à cette combinaison d'outils, je peux facilement suivre les évolutions, m'adapter rapidement 
               et intégrer les meilleures pratiques à mes projets. Cela me permet de rester informé et réactif face aux changements.
@@ -61,9 +61,9 @@
                 Sujet choisi pour ma veille
               </h5>
               <p>
-                Pour ma veille, j'ai choisi de me concentrer sur les langages de programmation essentiels au développement web, notamment HTML, 
-                CSS et JavaScript, qui forment la base des sites internet. J'explore également des langages côté serveur comme PHP et Python, 
-                cruciaux pour la gestion des données. Le SQL est aussi fondamental pour interroger les bases de données. En suivant les tendances 
+                Pour ma veille, j'ai choisi de me concentrer sur les langages de programmation essentiels au développement web, notamment <strong>HTML</strong>, 
+                <strong>CSS</strong> et <strong>JavaScript</strong>, qui forment la base des sites internet. J'explore également des langages côté serveur comme <strong>PHP</strong> et <strong>Python</strong>, 
+                cruciaux pour la gestion des données. Le <strong>SQL</strong> est aussi fondamental pour interroger les bases de données. En suivant les tendances 
                 et évolutions de ces langages, je peux m'assurer que mes compétences restent à jour, ce qui est essentiel dans un environnement 
                 technologique en constante évolution. Cette veille m'aide à comprendre les meilleures pratiques et à appliquer des solutions 
                 efficaces dans mes projets.
