@@ -44,8 +44,9 @@
               </h5>
               <p>
               Pour ma veille, j'utilise une sélection d'outils qui m'aident à rester informé de manière efficace. <strong>Google Alerts</strong> est essentiel, 
-              car il m'envoie par email les dernières actualités pertinentes sur mes thématiques. De plus, <strong>Mention</strong> suit en temps réel les 
-              discussions et les mentions de mes sujets d'intérêt sur les réseaux sociaux et les forums. J'utilise également <strong>Twitter</strong> et <strong>LinkedIn</strong>
+              car il m'envoie par email les dernières actualités pertinentes sur mes thématiques. De plus, <strong>Leptidigital</strong> suit les 
+              tendances et les actualités du digital et des nouvelles technologies, offrant des analyses et des conseils sur mes sujets. 
+              J'utilise également <strong>Twitter</strong> et <strong>LinkedIn</strong>
               pour suivre les experts dans mon domaine. Ces réseaux sociaux me permettent de voir les tendances 
               et les échanges actuels. Grâce à cette combinaison d'outils, je peux facilement suivre les évolutions, m'adapter rapidement 
               et intégrer les meilleures pratiques à mes projets. Cela me permet de rester informé et réactif face aux changements.
