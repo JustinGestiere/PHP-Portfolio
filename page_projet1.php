@@ -53,7 +53,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
+              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
               des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
               notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
               Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 

@@ -63,8 +63,8 @@
               </h5>
               <p>
                 Pour ma veille, j'ai choisi de me concentrer sur les langages de programmation essentiels au développement web, notamment <strong>HTML</strong>, 
-                <strong>CSS</strong> et <strong>JavaScript</strong>, qui forment la base des sites internet. J'explore également des langages côté serveur comme <strong>PHP</strong> et <strong>Python</strong>, 
-                cruciaux pour la gestion des données. Le <strong>SQL</strong> est aussi fondamental pour interroger les bases de données. En suivant les tendances 
+                <strong>CSS</strong> et <strong>JavaScript</strong>, qui forment la base des sites internet. J'explore également des langages côté serveur comme <strong>PHP</strong>, 
+                crucial pour la gestion des données. Le <strong>SQL</strong> est aussi fondamental pour interroger les bases de données. En suivant les tendances 
                 et évolutions de ces langages, je peux m'assurer que mes compétences restent à jour, ce qui est essentiel dans un environnement 
                 technologique en constante évolution. Cette veille m'aide à comprendre les meilleures pratiques et à appliquer des solutions 
                 efficaces dans mes projets.

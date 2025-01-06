@@ -64,9 +64,9 @@
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://web.dev/articles/animations-examples?hl=fr" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://www.smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://web.dev/articles/animations-examples?hl=fr" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://www.smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
       </div>

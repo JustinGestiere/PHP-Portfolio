@@ -64,9 +64,9 @@
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://www.developer-tech.com/categories/developer-languages/developer-languages-html/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://w3c.github.io/paint-timing/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://www.developer-tech.com/categories/developer-languages/developer-languages-html/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://w3c.github.io/paint-timing/" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
       </div>
