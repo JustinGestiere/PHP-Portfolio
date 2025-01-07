@@ -153,6 +153,12 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
             </div>
             <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
           </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="gantt_projet1.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+            </div>
+            <a href="gantt_projet1.php" target=""><p>GANTT</p></a>
+          </div>
         </div>
       </div>
       <!-- <div class="btn-box">
