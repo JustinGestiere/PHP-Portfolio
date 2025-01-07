@@ -64,7 +64,15 @@
             <div class="img-boxe">
               <a href="https://php.watch/versions/8.4" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://php.watch/versions/8.4" target="_blank"><p>Adresse du site web</p></a>
+              <a href="https://php.watch/versions/8.4" target="_blank"><p>Adresse du site (PHP.watch)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://semihtekin.medium.com/php-8-4-whats-new-and-improved-2f04411707ea" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+              <a href="https://semihtekin.medium.com/php-8-4-whats-new-and-improved-2f04411707ea" target="_blank"><p>Adresse de l'article de (Medium)</p></a>
           </div>
         </div>
       </div>

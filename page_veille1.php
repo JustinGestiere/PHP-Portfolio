@@ -66,7 +66,7 @@
             <div class="img-boxe">
               <a href="https://w3c.github.io/paint-timing/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://w3c.github.io/paint-timing/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://w3c.github.io/paint-timing/" target="_blank"><p>Adresse de l'article de (W3C)</p></a>
           </div>
         </div>
       </div>

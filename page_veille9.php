@@ -66,7 +66,15 @@
             <div class="img-boxe">
               <a href="https://lerepairedessciences.fr/2024/la-programmation-et-la-mise-en-place-dun-site-de-casino-en-ligne/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://lerepairedessciences.fr/2024/la-programmation-et-la-mise-en-place-dun-site-de-casino-en-ligne/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://lerepairedessciences.fr/2024/la-programmation-et-la-mise-en-place-dun-site-de-casino-en-ligne/" target="_blank"><p>Adresse du site (Le repaire des sciences)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://medium.com/@mytchall.b/using-games-with-nfts-and-web3-js-610fd5fbd562" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://medium.com/@mytchall.b/using-games-with-nfts-and-web3-js-610fd5fbd562" target="_blank"><p>Adresse de l'article du site (Medium)</p></a>
           </div>
         </div>
       </div>

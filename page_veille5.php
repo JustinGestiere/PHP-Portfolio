@@ -64,7 +64,15 @@
             <div class="img-boxe">
               <a href="https://www.ibm.com/fr-fr/topics/nosql-databases" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://www.ibm.com/fr-fr/topics/nosql-databases" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://www.ibm.com/fr-fr/topics/nosql-databases" target="_blank"><p>Adresse du site (IBM)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://stackoverflow.com/questions/3564024/storing-data-in-mysql-as-json?utm_source=chatgpt.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://stackoverflow.com/questions/3564024/storing-data-in-mysql-as-json?utm_source=chatgpt.com" target="_blank"><p>Adresse du site (Stack Overflow)</p></a>
           </div>
         </div>
       </div>

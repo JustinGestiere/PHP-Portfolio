@@ -66,7 +66,15 @@
             <div class="img-boxe">
               <a href="https://thecodingmachine.com/cms-headless-statamic/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://thecodingmachine.com/cms-headless-statamic/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://thecodingmachine.com/cms-headless-statamic/" target="_blank"><p>Adresse du site (TCM)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://medium.com/@satabdirath/integrating-a-headless-cms-with-laravel-a-step-by-step-guide-e06a4702d53e" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://medium.com/@satabdirath/integrating-a-headless-cms-with-laravel-a-step-by-step-guide-e06a4702d53e" target="_blank"><p>Adresse du site (Medium)</p></a>
           </div>
         </div>
       </div>

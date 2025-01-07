@@ -66,7 +66,15 @@
             <div class="img-boxe">
               <a href="https://www.infoq.com/fr/articles/design-first-api-development/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://www.infoq.com/fr/articles/design-first-api-development/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://www.infoq.com/fr/articles/design-first-api-development/" target="_blank"><p>Adresse du site (InfoQ)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://www.postman.com/api-first/?utm_source=chatgpt.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://www.postman.com/api-first/?utm_source=chatgpt.com" target="_blank"><p>Adresse du site (Postman)</p></a>
           </div>
         </div>
       </div>

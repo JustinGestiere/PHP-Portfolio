@@ -64,7 +64,15 @@
             <div class="img-boxe">
               <a href="https://prismic.io/blog/what-is-typescript" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://prismic.io/blog/what-is-typescript" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://prismic.io/blog/what-is-typescript" target="_blank"><p>Adresse du premier article (PRISMIC Blog)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://medium.com/@vitaliykorzenkoua/typescript-vs-javascript-advantages-of-using-typescript-b585ff0a74ec" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://medium.com/@vitaliykorzenkoua/typescript-vs-javascript-advantages-of-using-typescript-b585ff0a74ec" target="_blank"><p>Adresse du deuxième article (Medium)</p></a>
           </div>
         </div>
       </div>

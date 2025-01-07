@@ -68,7 +68,15 @@
             <div class="img-boxe">
               <a href="https://developers.google.com/web/fundamentals/design-and-ux/responsive" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://developers.google.com/web/fundamentals/design-and-ux/responsive" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://developers.google.com/web/fundamentals/design-and-ux/responsive" target="_blank"><p>Adresse du premier article du site (Web.dev)</p></a>
+          </div>
+        </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://web.dev/articles/accessible-responsive-design?utm_source=chatgpt.com&hl=fr" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://web.dev/articles/accessible-responsive-design?utm_source=chatgpt.com&hl=fr" target="_blank"><p>Adresse du deuxième article du site (Web.dev)</p></a>
           </div>
         </div>
       </div>
