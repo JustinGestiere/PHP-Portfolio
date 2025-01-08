@@ -59,12 +59,30 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet Laravel
+                  React API Meteo 
                 </h5>
                 <p>
                   Projet 3
                 </p>
-                <a href="">
+                <a href="page_projet3.php">
+                  Voir Plus
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s3.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Projet Laravel
+                </h5>
+                <p>
+                  Projet 4
+                </p>
+                <a href="page_projet4.php">
                   Voir Plus
                 </a>
               </div>
