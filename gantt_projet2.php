@@ -14,7 +14,7 @@
     <div class="why_container">
       <div class="box">
         <div class="img-box-page">
-          <img src="images/gantt_projet1.png" alt="Tableau de Gantt">
+          <img src="images/gantt_projet2.png" alt="Tableau de Gantt">
         </div>
       </div>
     </div>
