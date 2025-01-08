@@ -55,7 +55,7 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/icone_meteo.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
