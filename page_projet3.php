@@ -155,9 +155,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="gantt_projet1.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+              <a href="gantt_projet3.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
-            <a href="gantt_projet1.php" target=""><p>GANTT</p></a>
+            <a href="gantt_projet3.php" target=""><p>GANTT</p></a>
           </div>
         </div>
       </div>
