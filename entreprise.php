@@ -118,6 +118,14 @@ Développer son projet professionnel
             <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
+        <div class="boxe">
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://www.linkedin.com/company/cti-angers/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://www.linkedin.com/company/cti-angers/" target="_blank"><p>Linkedin</p></a>
+          </div>
+        </div>
       </div>
     </div>
   </section>
