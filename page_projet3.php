@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/projet3.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -143,15 +143,15 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://justingestiere.github.io/REACT-API-METEO/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://justingestiere.github.io/REACT-API-METEO/" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
