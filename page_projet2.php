@@ -149,15 +149,21 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/projet1" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/Web_Formation" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/projet1" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/Web_Formation" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="gantt_projet2.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet2.php" target=""><p>GANTT</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md" target="_blank"><img src="images/logo_git.png" alt=""></a>
+            </div>
+            <a href="https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md" target="_blank"><p>ReadMe GitHub pour le cahier des charges</p></a>
           </div>
         </div>
       </div>

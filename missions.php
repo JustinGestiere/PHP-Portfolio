@@ -187,62 +187,6 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/adn.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Jeu de la vie
-                </h5>
-                <p>
-                  Mission 10
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/train.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Train JavaScript
-                </h5>
-                <p>
-                  Mission 11
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/bar.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Bar PHP
-                </h5>
-                <p>
-                  Mission 12
-                </p>
-                <a href="">
-                  Voir Plus
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
                 <img src="images/dropdown.jpg" alt="">
               </div>
               <div class="detail-box">
@@ -250,7 +194,7 @@
                   Dropdown JavaScript
                 </h5>
                 <p>
-                  Mission 13
+                  Mission 10
                 </p>
                 <a href="">
                   Voir Plus
@@ -268,7 +212,7 @@
                   Accordéon JavaScript
                 </h5>
                 <p>
-                  Mission 14
+                  Mission 11
                 </p>
                 <a href="">
                   Voir Plus
@@ -286,7 +230,7 @@
                   Snackbar JavaScript
                 </h5>
                 <p>
-                  Mission 15
+                  Mission 12
                 </p>
                 <a href="">
                   Voir Plus

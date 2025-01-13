@@ -31,10 +31,12 @@
               <details>
                 <summary>Travailler en mode projet</summary>
                 <p><a href="page_projet1.php">Calculette immobiliere</a></p>
+                <p><a href="page_projet3.php">React API Meteo</a></p>
               </details>
               <details>
                 <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                 <p><a href="page_projet1.php">Calculette immobiliere</a></p>
+                <p><a href="page_projet3.php">React API Meteo</a></p>
               </details>
               <details>
                 <summary>Organiser son développement professionnel</summary>

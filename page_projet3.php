@@ -52,14 +52,22 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <h5>
               Contexte  
             </h5>
-            <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
-            </p>
+            <pre>
+              L'idée de départ était de développer une API météo entièrement opérationnelle et intégrée dans une application React. 
+              Le projet a nécessité l'utilisation de plusieurs langages, 
+              chacun jouant un rôle spécifique dans la construction et l'intégration des fonctionnalités :
+
+              - React a été utilisé comme librairie pour créer une interface réactive, facilitant l'affichage des données météo 
+              et leur mise à jour en fonction des requêtes des utilisateurs.
+              - JavaScript a permis de réaliser les appels vers l'API météo, de manipuler les données et de gérer les interactions utilisateur, 
+              comme la recherche par ville ou l'affichage des prévisions.
+              - CSS a servi à donner vie à l'application en définissant un design clair, fluide et adapté à différents écrans pour garantir 
+              une expérience utilisateur optimale.
+              
+              L'application s'appuie sur une API météo externe (OpenWeather) pour récupérer des informations telles que la température, 
+              l'humidité, les prévisions à court terme et les conditions climatiques actuelles. Le résultat final est une application 
+              dynamique et intuitive, permettant à l'utilisateur d'accéder facilement aux données météo en fonction de ses recherches.
+            </pre>
           </div>
         </div>
         <div class="box">
@@ -71,11 +79,14 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
-- Étude de la maquette Figma
-- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-- Réalisation de la partie JavaScript pour rendre la page dynamique
-- Mise en place d'un bouton PDF
-- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+- Installer NodeJS
+- Initialiser REACT
+- Création des composants
+ . Composant Jour
+        . Composant Semaine
+          . Composant Compteur
+- Affichage graphique
+- Mise en page de Mypages sur GitHub
             </pre>
           </div>
         </div>
@@ -90,8 +101,8 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <p>
               <pre>
 - Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML, CSS et JavaScript
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
+- Site internet Microlead pour les cours REACT et JavaScript
+- ReadMe GitHub de notre professeur avec le cahier des charges.
               </pre>
             </p>
           </div>
@@ -121,7 +132,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : Du 06 Janvier 2025 au 09 Janvier 2025
               </pre>
             </p>
           </div>
@@ -143,12 +154,6 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/REACT-API-METEO/" target="_blank"><img src="images/lien_site.png" alt=""></a>
-            </div>
-            <a href="https://justingestiere.github.io/REACT-API-METEO/" target="_blank"><p>Adresse du site web</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
               <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
             <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><p>Repository GitHub</p></a>
@@ -158,6 +163,12 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
               <a href="gantt_projet3.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet3.php" target=""><p>GANTT</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://github.com/kevinniel/2425-MDS-BTSSIO2-REACT-METEO/blob/main/readme.md" target="_blank"><img src="images/logo_git.png" alt=""></a>
+            </div>
+            <a href="https://github.com/kevinniel/2425-MDS-BTSSIO2-REACT-METEO/blob/main/readme.md" target="_blank"><p>ReadMe GitHub pour le cahier des charges</p></a>
           </div>
         </div>
       </div>

@@ -27,6 +27,9 @@
             <img src="images/projet1.png" alt="">
           </div>
           <div class="detail-box">
+            <pre>
+              
+            </pre>
             <h5>
               Compétences mises en oeuvre 
             </h5>
@@ -158,6 +161,12 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
               <a href="gantt_projet1.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet1.php" target=""><p>GANTT</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><img src="images/figma.png" alt=""></a>
+            </div>
+            <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><p>Maquette Figma</p></a>
           </div>
         </div>
       </div>
