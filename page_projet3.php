@@ -102,7 +102,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               <pre>
 - Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
 - Site internet Microlead pour les cours REACT et JavaScript
-- ReadMe GitHub de notre professeur avec le cahier des charges.
+- ReadMe GitHub de notre professeur avec le cahier des charges
               </pre>
             </p>
           </div>

@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/projet2.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -53,12 +53,16 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, bâtie de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              L'objectif du projet Web Formation était de développer une application web dédiée à la gestion des formations. 
+              L'application a été conçue pour permettre aux utilisateurs de consulter, gérer et organiser des formations de manière intuitive 
+              et efficace. Pour réaliser ce projet, plusieurs langages de programmation et outils ont été mobilisés. HTML a servi à structurer 
+              les différentes pages et fonctionnalités, définissant les formulaires, tableaux et sections essentielles. CSS a permis d'apporter 
+              un design attrayant. JavaScript a été utilisé pour ajouter de l'interactivité, notamment la gestion des validations de formulaires.
+              En complément, PHP et MySQL ont joué un rôle crucial côté serveur, avec PHP assurant la logique métier et les interactions avec 
+              la base de données MySQL. Celle-ci a été structurée pour stocker les informations des utilisateurs, comme leur identité, leurs rôles,
+              et les formations associées. L'utilisation de PDO a permis de sécuriser les échanges entre l'application et la base de données.
+              Le projet s'inscrit également dans une démarche de perfectionnement professionnel, visant à maîtriser les bonnes pratiques de 
+              développement tout en répondant aux besoins spécifiques d'une application de gestion de formations.
             </p>
           </div>
         </div>
@@ -71,11 +75,16 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
-- Étude de la maquette Figma
-- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-- Réalisation de la partie JavaScript pour rendre la page dynamique
-- Mise en place d'un bouton PDF
-- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+- Recherche du projet et mise en place du cahier des charges
+- Création des fichiers de base pour la structure
+- Mise en place de la page de connexion et d'inscription
+- Conception de la base de données
+- Gestion des utilisateurs pour les différentes pages
+- Planification d'un CRUD pour la gestion des utilisateurs, cours, classes et matières
+- Élaboration de l'emploi du temps
+- Mise en place des signatures
+- Tests et débogage
+- Mise à disposition sut GitHub
             </pre>
           </div>
         </div>
@@ -90,8 +99,8 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <p>
               <pre>
 - Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML, CSS et JavaScript
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
+- Site internet Microlead pour les cours PHP, CSS, JavaScript et SQL
+- ReadMe GitHub pour le cahier des charges
               </pre>
             </p>
           </div>
@@ -121,7 +130,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : Du 15 Octobre 2024 au 31 Décembre 2024
               </pre>
             </p>
           </div>
@@ -143,9 +152,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/projet1/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://justingestiere.github.io/Web_Formation/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/projet1/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://justingestiere.github.io/Web_Formation/" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
