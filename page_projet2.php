@@ -33,6 +33,11 @@
             <p>
               <pre>
 
+<strong><a href="competences.php">- Gérer le patrimoine informatique</a></strong>
+Mettre en place et vérifier les niveaux d'habilitation associés à un service
+Gérer des sauvegardes
+<strong><a href="competences.php">- Développer la présence en ligne de l'organisation</a></strong>
+Participer à l'évolution d'un site Web exploitant les données de l'organisation
 <strong><a href="competences.php">- Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
@@ -77,14 +82,14 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <pre>
 - Recherche du projet et mise en place du cahier des charges
 - Création des fichiers de base pour la structure
-- Mise en place de la page de connexion et d'inscription
+- Mise en place des pages de connexion et d'inscription
 - Conception de la base de données
-- Gestion des utilisateurs pour les différentes pages
-- Planification d'un CRUD pour la gestion des utilisateurs, cours, classes et matières
+- Gestion des utilisateurs sur les différentes pages
+- Planification d'un CRUD pour la gestion des utilisateurs, des cours, des classes et des matières
 - Élaboration de l'emploi du temps
 - Mise en place des signatures
 - Tests et débogage
-- Mise à disposition sut GitHub
+- Mise à disposition sur GitHub
             </pre>
           </div>
         </div>

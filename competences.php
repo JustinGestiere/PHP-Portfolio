@@ -18,7 +18,7 @@
             <div class="detail-competence">
               <details>
                 <summary>Gérer le patrimoine informatique</summary>
-                <p>En cours de développement</p>
+                <p><a href="page_projet2.php">Web Formation</a></p>
               </details>
               <details>
                 <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
@@ -26,16 +26,18 @@
               </details>
               <details>
                 <summary>Développer la présence en ligne de l'organisation</summary>
-                <p>En cours de développement</p>
+                <p><a href="page_projet2.php">Web Formation</a></p>
               </details>
               <details>
                 <summary>Travailler en mode projet</summary>
                 <p><a href="page_projet1.php">Calculette immobiliere</a></p>
+                <p><a href="page_projet2.php">Web Formation</a></p>
                 <p><a href="page_projet3.php">React API Meteo</a></p>
               </details>
               <details>
                 <summary>Mettre à disposition des utilisateurs un service informatique</summary>
                 <p><a href="page_projet1.php">Calculette immobiliere</a></p>
+                <p><a href="page_projet2.php">Web Formation</a></p>
                 <p><a href="page_projet3.php">React API Meteo</a></p>
               </details>
               <details>
