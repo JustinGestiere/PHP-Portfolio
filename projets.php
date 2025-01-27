@@ -26,7 +26,7 @@
                   Calculette prêt immobilier
                 </h5>
                 <p>
-                  Projet 1
+                  Projet 1 MyDigitalSchool
                 </p>
                 <a href="page_projet1.php">
                   Voir Plus
@@ -44,7 +44,7 @@
                   WEB FORMATION
                 </h5>
                 <p>
-                  Projet 2
+                  Projet 2 MyDigitalSchool
                 </p>
                 <a href="page_projet2.php">
                   Voir Plus
@@ -62,7 +62,7 @@
                   React API Meteo 
                 </h5>
                 <p>
-                  Projet 3
+                  Projet 3 MyDigitalSchool
                 </p>
                 <a href="page_projet3.php">
                   Voir Plus
@@ -80,7 +80,7 @@
                   Projet Laravel
                 </h5>
                 <p>
-                  Projet 4
+                  Projet 4 MyDigitalSchool
                 </p>
                 <a href="page_projet4.php">
                   Voir Plus

@@ -45,6 +45,8 @@ Planifier les activités
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>
           </div>
@@ -80,6 +82,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
+- Apprentissage des bases du langage SQL pour connecter le site à la BDD.
 - Recherche du projet et mise en place du cahier des charges
 - Création des fichiers de base pour la structure
 - Mise en place des pages de connexion et d'inscription

@@ -43,6 +43,8 @@ Planifier les activités
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>
           </div>
@@ -74,6 +76,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
+- Apprentissage de nouvelle méthode du langage JavaScript pour répondre au attente du projet
 - Étude de la maquette Figma
 - Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
 - Réalisation de la partie JavaScript pour rendre la page dynamique

@@ -40,6 +40,8 @@ Planifier les activités
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>
           </div>
@@ -81,6 +83,7 @@ Accompagner les utilisateurs dans la mise en place d'un service
             <pre>
 - Installer NodeJS
 - Initialiser REACT
+- Apprentissage des bases du langage React, de sa syntaxe et de ses spécificités
 - Création des composants
  . Composant Jour
         . Composant Semaine

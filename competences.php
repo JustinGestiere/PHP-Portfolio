@@ -42,7 +42,9 @@
               </details>
               <details>
                 <summary>Organiser son développement professionnel</summary>
-                <p>En cours de développement</p>
+                <p><a href="page_projet1.php">Calculette immobiliere</a></p>
+                <p><a href="page_projet2.php">Web Formation</a></p>
+                <p><a href="page_projet3.php">React API Meteo</a></p>
               </details>
             </div>
           </div>
