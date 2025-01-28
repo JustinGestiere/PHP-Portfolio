@@ -83,6 +83,7 @@ Mettre en place son environnement d'apprentissage personnel
               <pre>
 - Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
 - Site internet Microlead pour les cours de Python.
+- Cours de Python en mathématiques
               </pre>
             </p>
           </div>
