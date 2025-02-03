@@ -21,7 +21,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/mission5.png" alt="">
+            <img src="images/mission7.png" alt="">
           </div>
           <div class="detail-box">
             <pre>
@@ -46,11 +46,11 @@ Planifier les activités
               Contexte  
             </h5>
             <p>
-            L'objectif de cette mission était de développer un script Python capable de calculer automatiquement des matrices. 
-            Ce script devait permettre de réaliser différentes opérations, telles que l'addition, la soustraction, la multiplication de matrices.
-            Grâce à l'automatisation, l'utilisateur peut fournir les matrices en entrée, à l'aide de différent input, 
-            et obtenir directement les résultats souhaités. Cette solution vise à simplifier les calculs complexes tout en réduisant les erreurs 
-            humaines, particulièrement dans des contextes éducatifs impliquant l'algèbre linéaire.
+            L'objectif de cette mission était de développer un script Python capable d'effectuer automatiquement des calculs arithmétiques.
+            Ce script devait permettre de réaliser différentes opérations, telles que l'addition, la soustraction, la multiplication et 
+            la division de nombres. Grâce à cette automatisation, l'utilisateur peut saisir ses valeurs via différents types d'input et obtenir 
+            instantanément le résultat souhaité. Cette solution vise à simplifier les calculs, à améliorer l'efficacité et à réduire les erreurs 
+            humaines, en particulier dans des contextes éducatifs ou professionnels nécessitant des opérations mathématiques.
             </p>
           </div>
         </div>
@@ -60,9 +60,8 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage des matrices et de leur fonctionnement
-- Réalisation d'un script permettant le calcul de matrice
-- Puis mise en place du graphisme pour rendre le calcul plus agréable visuellement
+- Réalisation d'un script permettant les différents calculs
+- Puis mise en place du graphisme pour rendre les calculs plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -99,7 +98,7 @@ Planifier les activités
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 26 Février 2024 au 29 Février 2024
+Période : Du 30 Avril 2024 au 08 Mai 2024
               </pre>
             </p>
           </div>
@@ -114,9 +113,9 @@ Période : Du 26 Février 2024 au 29 Février 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Python-Calculateur_de_matrice/" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/Calculatrice_Python" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Python-Calculateur_de_matrice/" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/Calculatrice_Python" target="_blank"><p>Repository GitHub</p></a>
           </div>
         </div>
       </div>

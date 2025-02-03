@@ -187,11 +187,11 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/snackbar.jpg" alt="">
+                <img src="images/calculatrice_js.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Snackbar JavaScript
+                  Calculatrice JavaScript
                 </h5>
                 <p>
                   Mission 10
@@ -205,11 +205,11 @@
           <!-- <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/image11.jpg" alt="">
+                <img src="images/calculatrice_js.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Titre 11
+                  Calculatrice JavaScript
                 </h5>
                 <p>
                   Mission 11
