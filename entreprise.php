@@ -63,15 +63,15 @@
               Mon rôle au sein du CTI Angers
             </h5>
             <p>
-              Le CTI Angers compte différent groupe et type de métier. Au sein de mon entreprise je fais parti des intégrateurs 
-              d'exploitation au sein d'un Centre de Traitement Informatique (CTI) veille à l'intégration et au bon fonctionnement des 
-              systèmes informatiques utilisés pour traiter et gérer les données. Il assure l'intégration des différentes applications et 
-              plateformes, garantissant leur communication fluide. Responsable de l'infrastructure, il s'assure que les serveurs, bases de 
-              données et réseaux sont configurés correctement et fonctionnent efficacement. Il met en place des protocoles de sécurité pour 
-              protéger les données sensibles et veille à la conformité avec les réglementations. Il effectue la maintenance des systèmes, 
-              résout les pannes et fournit un support technique. L'intégrateur d'exploitation optimise également les performances des 
-              systèmes, cherchant à améliorer les processus et garantir une gestion efficace des données traitées. Il est essentiel au bon 
-              fonctionnement des services informatiques du CTI.
+            Le CTI Angers compte différents groupes et types de métiers. Au sein de notre entreprise, je fais partie des intégrateurs 
+            d'exploitation. Notre objectif est de veiller à l'intégration et au bon fonctionnement des systèmes informatiques utilisés pour 
+            traiter et gérer les données. Nous assurons l'intégration des différentes applications et plateformes, garantissant leur 
+            communication fluide. Responsables de l'infrastructure, nous nous assurons que les serveurs, bases de données et réseaux sont 
+            configurés correctement et fonctionnent efficacement. Nous mettons en place des protocoles de sécurité pour protéger les données 
+            sensibles et veillons à la conformité avec les réglementations. Nous effectuons la maintenance des systèmes, résolvons les 
+            pannes et fournissons un support technique. En outre, nous optimisons les performances des systèmes, cherchant à améliorer les 
+            processus et à garantir une gestion efficace des données traitées. Nous sommes essentiels au bon fonctionnement des services 
+            informatiques de la sécurité sociale.
             </p>
           </div>
         </div>
