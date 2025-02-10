@@ -42,14 +42,18 @@
               Qu'est-ce qu'un Centre de Traitement Informatique (CTI) ?
             </h5>
             <p>
-              Un Centre de Traitement Informatique (CTI) est une structure dédiée à la gestion et au traitement des données dans le 
-              secteur de la santé. Il joue un rôle crucial dans la mise en œuvre des systèmes d'information liés à la Sécurité Sociale. 
-              Les CTI sont responsables du traitement des dossiers médicaux, de la gestion des remboursements de soins, et de l'analyse 
-              des données de santé. Les CTI assurent la centralisation et l'intégration des informations provenant de divers acteurs de 
-              la santé, tels que les hôpitaux, les médecins, et les établissements de soins. Leur mission inclut également la sécurité 
-              des données et le respect de la confidentialité des informations médicales. En collaborant avec les caisses de sécurité 
-              sociale et d'autres institutions, les CTI facilitent l'accès aux données, améliorent la qualité des soins, et contribuent 
-              à une gestion efficace des ressources de santé.
+            Un Centre de Traitement Informatique (CTI) est une structure spécialisée dans la gestion, le traitement et l'analyse des données 
+            informatiques dans différents secteurs, y compris celui de la santé. Il s'agit d'un centre où sont traitées de grandes quantités 
+            de données provenant de diverses sources, souvent dans le but d'améliorer les processus administratifs, opérationnels et 
+            décisionnels. Les CTI sont responsables de l'intégration de systèmes d'information complexes, en assurant la cohérence et la 
+            fluidité des échanges de données entre les différentes plateformes utilisées. Cela inclut la gestion des infrastructures 
+            informatiques, la mise en place de solutions de stockage de données, ainsi que la gestion de la sécurité et de la confidentialité 
+            des informations. Dans le secteur de la santé, par exemple, un CTI peut être responsable de la centralisation des dossiers 
+            médicaux électroniques, de la gestion des remboursements de soins, ou encore de l'analyse des données statistiques pour améliorer 
+            les services de santé. Ces centres peuvent aussi être chargés de la maintenance des systèmes informatiques, de la gestion des 
+            incidents et des pannes, et de la mise à jour des logiciels pour garantir un fonctionnement optimal des systèmes utilisés.
+            En résumé, un CTI assure la gestion technique, la maintenance et la sécurité des données au sein d'un environnement informatique, 
+            en facilitant l'intégration entre différents systèmes et en garantissant la performance des services.
             </p>
           </div>
         </div>
@@ -60,13 +64,14 @@
             </h5>
             <p>
               Le CTI Angers compte différent groupe et type de métier. Au sein de mon entreprise je fais parti des intégrateurs 
-              d'exploitation qui jouent un rôle clé dans l'optimisation et la gestion des systèmes d'information au sein 
-              de l'assurance maladie. Ils sont chargés d'intégrer divers systèmes, logiciels et équipements afin de garantir une 
-              communication fluide et d'améliorer l'efficacité des différents outils.
-              En somme, les intégrateurs d'exploitation sont en capacité à concevoir, intégrer et maintenir des systèmes d'information 
-              performants ce qui est cruciale pour garantir la compétitivité et l'agilité des organisations dans un monde de plus en plus 
-              axé sur la technologie. Ils contribuent à créer un écosystème numérique harmonieux qui soutient les objectifs stratégiques 
-              de l'entreprise et améliore l'expérience utilisateur globale.
+              d'exploitation au sein d'un Centre de Traitement Informatique (CTI) veille à l'intégration et au bon fonctionnement des 
+              systèmes informatiques utilisés pour traiter et gérer les données. Il assure l'intégration des différentes applications et 
+              plateformes, garantissant leur communication fluide. Responsable de l'infrastructure, il s'assure que les serveurs, bases de 
+              données et réseaux sont configurés correctement et fonctionnent efficacement. Il met en place des protocoles de sécurité pour 
+              protéger les données sensibles et veille à la conformité avec les réglementations. Il effectue la maintenance des systèmes, 
+              résout les pannes et fournit un support technique. L'intégrateur d'exploitation optimise également les performances des 
+              systèmes, cherchant à améliorer les processus et garantir une gestion efficace des données traitées. Il est essentiel au bon 
+              fonctionnement des services informatiques du CTI.
             </p>
           </div>
         </div>
