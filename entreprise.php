@@ -28,32 +28,33 @@
               La Sécurité Sociale en France est un système de protection sociale qui a été créé après la Seconde Guerre mondiale 
               pour garantir aux citoyens un accès à des soins de santé, des prestations familiales, des allocations chômage et des 
               pensions de retraite. Elle est divisée en plusieurs branches dont l'Assurance maladie : C'est l'une des branches principales,
-              couvrant les frais de santé. Elle rembourse une partie des dépenses de santé et est divisée également en plusieurs organismes
+              couvrant les frais de santé. Elle rembourse une partie des dépenses de santé et est divisée également en plusieurs organismes,
               dont les CTI (Centre de Traitement Informatique).
             </p>
           </div>
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/entreprise.png" alt="">
+            <img src="images/schema_securite_sociale.png" alt="">
+          </div>
+          <div class="img-box-page">
+            <img src="images/schema_assurance_maladie.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
-              Qu'est-ce qu'un Centre de Traitement Informatique (CTI) ?
+              Qu'est-ce que le Centre de Traitement Informatique (CTI) Angers à l'assurance maladie ?
             </h5>
             <p>
-            Un Centre de Traitement Informatique (CTI) est une structure spécialisée dans la gestion, le traitement et l'analyse des données 
-            informatiques dans différents secteurs, y compris celui de la santé. Il s'agit d'un centre où sont traitées de grandes quantités 
-            de données provenant de diverses sources, souvent dans le but d'améliorer les processus administratifs, opérationnels et 
-            décisionnels. Les CTI sont responsables de l'intégration de systèmes d'information complexes, en assurant la cohérence et la 
-            fluidité des échanges de données entre les différentes plateformes utilisées. Cela inclut la gestion des infrastructures 
-            informatiques, la mise en place de solutions de stockage de données, ainsi que la gestion de la sécurité et de la confidentialité 
-            des informations. Dans le secteur de la santé, par exemple, un CTI peut être responsable de la centralisation des dossiers 
-            médicaux électroniques, de la gestion des remboursements de soins, ou encore de l'analyse des données statistiques pour améliorer 
-            les services de santé. Ces centres peuvent aussi être chargés de la maintenance des systèmes informatiques, de la gestion des 
-            incidents et des pannes, et de la mise à jour des logiciels pour garantir un fonctionnement optimal des systèmes utilisés.
-            En résumé, un CTI assure la gestion technique, la maintenance et la sécurité des données au sein d'un environnement informatique, 
-            en facilitant l'intégration entre différents systèmes et en garantissant la performance des services.
+            Le CTI d'Angers est un pôle technique essentiel de l'Assurance Maladie, spécialisé dans la gestion et l'évolution des applications 
+            informatiques dédiées aux domaines comptable et des ressources humaines. Il assure le développement, le déploiement et la maintenance 
+            des outils indispensables à la gestion financière et administrative, tout en garantissant leur performance et leur compatibilité 
+            avec les autres systèmes d'information. Ses missions incluent l'optimisation des processus de traitement des données comptables et RH, 
+            l'intégration de nouvelles fonctionnalités pour répondre aux évolutions réglementaires et métiers, ainsi que la gestion des flux de 
+            données entre les différentes plateformes de l'Assurance Maladie. Il est également en charge du support technique des applications, 
+            assurant leur stabilité et leur disponibilité. Le CTI d'Angers intervient sur la mise en production des évolutions applicatives en 
+            coordonnant les phases de tests, de validation et de déploiement. Il joue un rôle clé dans l'automatisation des traitements et 
+            l'amélioration continue des performances des applications. En résumé, le CTI d'Angers est un centre technique qui garantit le bon 
+            fonctionnement et l'évolution des systèmes informatiques dédiés à la comptabilité et aux ressources humaines de l'Assurance Maladie.
             </p>
           </div>
         </div>
@@ -63,15 +64,16 @@
               Mon rôle au sein du CTI Angers
             </h5>
             <p>
-            Le CTI Angers compte différents groupes et types de métiers. Au sein de notre entreprise, je fais partie des intégrateurs 
-            d'exploitation. Notre objectif est de veiller à l'intégration et au bon fonctionnement des systèmes informatiques utilisés pour 
-            traiter et gérer les données. Nous assurons l'intégration des différentes applications et plateformes, garantissant leur 
-            communication fluide. Responsables de l'infrastructure, nous nous assurons que les serveurs, bases de données et réseaux sont 
-            configurés correctement et fonctionnent efficacement. Nous mettons en place des protocoles de sécurité pour protéger les données 
-            sensibles et veillons à la conformité avec les réglementations. Nous effectuons la maintenance des systèmes, résolvons les 
-            pannes et fournissons un support technique. En outre, nous optimisons les performances des systèmes, cherchant à améliorer les 
-            processus et à garantir une gestion efficace des données traitées. Nous sommes essentiels au bon fonctionnement des services 
-            informatiques de la sécurité sociale.
+            Au sein du CTI d'Angers, je fais partie des intégrateurs d'exploitation, un maillon essentiel dans le fonctionnement et l'évolution 
+            des systèmes informatiques de l'Assurance Maladie. Notre mission principale est d'assurer l'intégration et l'exploitation des 
+            applications dédiées aux domaines comptables et RH, en veillant à leur compatibilité avec l'ensemble du SI. Nous sommes responsables 
+            de la mise en production des nouvelles versions applicatives, en coordonnant les phases de validation, de tests et de déploiement. Nous 
+            supervisons le bon fonctionnement des infrastructures techniques, incluant les serveurs, bases de données et environnements d'exécution, 
+            afin de garantir des performances optimales et une haute disponibilité des services. Une part importante de notre travail consiste à 
+            automatiser les traitements récurrents et à optimiser les performances des systèmes, en collaboration avec les équipes de développement 
+            et de support. Nous gérons également les incidents et pannes, en assurant un diagnostic rapide et efficace pour minimiser les 
+            interruptions de service. En résumé, en tant qu'intégrateur d'exploitation, je contribue directement à la fiabilité et à l'amélioration 
+            continue des applications informatiques du CTI d'Angers, garantissant ainsi leur bon fonctionnement au sein de l'Assurance Maladie.
             </p>
           </div>
         </div>
@@ -84,14 +86,14 @@
               <pre>
 
 <strong>- Gérer le patrimoine informatique</strong>
-Recenser et identifier les ressources nimériques
+Recenser et identifier les ressources numériques
 Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
 Mettre en place et vérifier les niveaux d'habilitation associés à un service
 Vérifier les conditions de la continuité d'un service informatique
 Gérer les sauvegardes
 <strong>- Répondre aux incidents et aux demandes d'assistance et d'évolution</strong>
 Collecter, suivre et orienter des demandes
-Traiter des demandes concernant les services réseau et système applicatifs
+Traiter des demandes concernant les services réseau et systèmes applicatifs
 Traiter des demandes concernant les applications
 <strong>- Travailler en mode projet</strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
@@ -102,7 +104,7 @@ Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
 <strong>- Organiser son développement professionnel</strong>
 Mettre en place son environnement d'apprentissage personnel
-Gérer son identité professionnel
+Gérer son identité professionnelle
 Développer son projet professionnel
               </pre>
             </p>
