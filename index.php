@@ -16,7 +16,7 @@
                   <div class="detail-box">
                     <h1>
                       Justin Gestiere <br>
-                      Portfolio
+                      Portfoli
                     </h1>
                     <!-- <div class="btn-box">
                       <a href="" class="btn1">
