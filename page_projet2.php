@@ -160,9 +160,9 @@ Période : Du 15 Octobre 2024 au 31 Décembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/Web_Formation/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://web-formation.justingestiere.com/files/login.php" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/Web_Formation/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://web-formation.justingestiere.com/files/login.php" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">

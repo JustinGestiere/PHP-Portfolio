@@ -157,6 +157,12 @@ Période : Du 06 Janvier 2025 au 09 Janvier 2025
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
+              <a href="https://api-meteo-react.justingestiere.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
+            </div>
+            <a href="https://api-meteo-react.justingestiere.com" target="_blank"><p>Adresse du site web</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
               <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
             <a href="https://github.com/JustinGestiere/REACT-API-METEO" target="_blank"><p>Repository GitHub</p></a>

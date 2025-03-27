@@ -73,11 +73,11 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/s3.png" alt="">
+                <img src="images/logo_clickneat.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Projet Laravel
+                  Click'n Eat
                 </h5>
                 <p>
                   Projet 4 MyDigitalSchool

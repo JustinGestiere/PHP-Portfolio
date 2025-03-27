@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Projet Laravel
+                Click'n Eat
             </h1>
           </div>
         </div>
@@ -143,9 +143,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://clickneat.justingestiere.com/login" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://justingestiere.github.io/Calculette_Immobiliere/" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
