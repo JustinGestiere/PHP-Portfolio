@@ -391,7 +391,7 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    width: 80%;
+    width: 90%;
     height: 50px;
     box-sizing: border-box;
   }
