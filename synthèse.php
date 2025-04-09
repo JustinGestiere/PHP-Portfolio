@@ -303,7 +303,7 @@
         </div>
       </div>
       <div class="pdf-download-container">
-        <a href="images/synthesePDF.pdf" target="_blank" class="pdf-download-btn">
+        <a href="images/Tableau-synthese-competences.pdf" target="_blank" class="pdf-download-btn">
           <i class="fa fa-file-pdf-o"></i> PDF du tableau de synthèse
         </a>
       </div>
