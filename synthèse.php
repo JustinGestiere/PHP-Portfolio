@@ -273,7 +273,6 @@
     display: flex;
     border-bottom: 1px solid #ddd;
     align-items: stretch;
-    min-height: 80px;
   }
   
   .synthese-row:nth-child(even) {
@@ -324,8 +323,8 @@
   
   .competence-list {
     display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
+    flex-direction: column;
+    gap: 3px;
   }
   
   .competence-list details {
@@ -333,8 +332,6 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    flex: 1 1 calc(33.33% - 5px);
-    min-width: 150px;
   }
   
   .competence-list summary {
@@ -343,10 +340,7 @@
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    font-size: 14px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    font-size: 15px;
   }
   
   .competence-list summary:hover {
@@ -372,12 +366,9 @@
     padding: 2px 5px;
     border-radius: 3px;
     border: 1px solid #eee;
-    flex: 1 1 auto;
-    font-size: 13px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 150px;
+    font-size: 14px;
+    display: inline-block;
+    margin-right: 3px;
   }
   
   /* Correction de l'alignement des en-têtes */
