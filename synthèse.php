@@ -302,6 +302,11 @@
           
         </div>
       </div>
+      <div class="pdf-download-container">
+        <a href="images/Tableau_Synthese.pdf" target="_blank" class="pdf-download-btn">
+          <i class="fa fa-file-pdf-o"></i> Télécharger la fiche de synthèse
+        </a>
+      </div>
     </div>
   </div>
 </section>
@@ -391,7 +396,7 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    width: 90%;
+    width: 95%;
     height: 50px;
     box-sizing: border-box;
   }
@@ -431,6 +436,34 @@
   .synthese-header .header-cell:last-child {
     flex: 2;
     text-align: center;
+  }
+  
+  .pdf-download-container {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .pdf-download-btn {
+    display: inline-block;
+    background-color: #00bbf0;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pdf-download-btn:hover {
+    background-color: #0f054c;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .pdf-download-btn i {
+    margin-right: 8px;
   }
   
   @media (max-width: 768px) {
