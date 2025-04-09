@@ -15,8 +15,8 @@
       <div class="synthese-container">
         <div class="synthese-table">
           <div class="synthese-header">
-            <div class="synthese-cell header-cell">Projets</div>
-            <div class="synthese-cell header-cell">Compétences</div>
+            <div class="synthese-cell header-cell" style="flex: 1; text-align: center;">Projets</div>
+            <div class="synthese-cell header-cell" style="flex: 2; text-align: center;">Compétences</div>
           </div>
           
           <!-- Projet 1 -->
@@ -222,7 +222,7 @@
   
   .synthese-header {
     display: flex;
-    background-color: #f7444e;
+    background-color: #0f054c;
     color: white;
     font-weight: bold;
   }
@@ -260,7 +260,7 @@
   
   .projet-cell h4 {
     margin: 0 0 10px 0;
-    color: #f7444e;
+    color: #00bbf0;
   }
   
   .projet-cell p {
@@ -281,6 +281,7 @@
     background-color: #f1f1f1;
     cursor: pointer;
     font-weight: bold;
+    color: #0f054c;
   }
   
   .competence-list summary:hover {
@@ -297,6 +298,23 @@
     font-size: 14px;
   }
   
+  /* Correction de l'alignement des en-têtes */
+  .synthese-header .header-cell:first-child {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .synthese-header .header-cell:last-child {
+    flex: 2;
+    text-align: center;
+  }
+  
+  /* Ajout d'un style pour les détails ouverts */
+  .competence-list details[open] summary {
+    background-color: #00bbf0;
+    color: white;
+  }
+  
   @media (max-width: 768px) {
     .synthese-row {
       flex-direction: column;
@@ -305,6 +323,10 @@
     .projet-cell {
       border-right: none;
       border-bottom: 1px solid #ddd;
+    }
+    
+    .synthese-header {
+      display: none;
     }
   }
 </style>
