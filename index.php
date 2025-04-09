@@ -39,7 +39,7 @@
                   Le monde de l'informatique est vaste et son évolution ne s'arrête jamais. 
                   Le BTS SIO option SLAM permet d'améliorer mes compétences sur ce secteur. 
                   Vous pouvez avoir plus d'informations sur mon parcours en consultant mon <span><a href="images/CV Word Justin Gestière 2025.pdf" target="_blank">C.V </a></span>
-                  et avoir un aperçu de mes projets sur <span><a href="https://justingestiere.com" target="_blank">mon site !</a></span>
+                  et avoir un aperçu de <span><a href="https://justingestiere.com" target="_blank">mon site !</a></span>
                 </p>
               </div>
             </div>

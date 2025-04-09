@@ -68,9 +68,9 @@
               <li class="nav-item <?php if ($currentPage == 'synthèse.php') echo 'active'; ?>"><a class="nav-link" href="synthèse.php">Fiche de synthèse</a></li>
               <li class="nav-item <?php if ($currentPage == 'entreprise.php') echo 'active'; ?>"><a class="nav-link" href="entreprise.php">ENTREPRISE</a></li>
               <li class="nav-item <?php if ($currentPage == 'veille.php') echo 'active'; ?>"><a class="nav-link" href="veille.php">VEILLE</a></li>
-              <li class="nav-item <?php if ($currentPage == 'missions.php') echo 'active'; ?>"><a class="nav-link" href="missions.php">MISSIONS</a></li>
               <li class="nav-item <?php if ($currentPage == 'projets.php') echo 'active'; ?>"><a class="nav-link" href="projets.php">PROJETS</a></li>
               <li class="nav-item <?php if ($currentPage == 'competences.php') echo 'active'; ?>"><a class="nav-link" href="competences.php">COMPETENCES</a></li>
+              <li class="nav-item <?php if ($currentPage == 'missions.php') echo 'active'; ?>"><a class="nav-link" href="missions.php">EXERCICES</a></li>
               <!-- <form class="form-inline">
                 <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
                   <i class="fa fa-search" aria-hidden="true"></i>

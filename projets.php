@@ -23,7 +23,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Calculette prêt immobilier
+                  Calculatrice immobiliere
                 </h5>
                 <p>
                   Projet 1 MyDigitalSchool
@@ -55,11 +55,11 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/icone_meteo.png" alt="">
+                <img src="images/portfolio.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  React API Meteo 
+                  PORTFOLIO
                 </h5>
                 <p>
                   Projet 3 MyDigitalSchool
@@ -83,6 +83,42 @@
                   Projet 4 MyDigitalSchool
                 </p>
                 <a href="page_projet4.php">
+                  Voir Plus
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/projet_entreprise1.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Collecteur de données VIP
+                </h5>
+                <p>
+                  Projet 1 Entreprise
+                </p>
+                <a href="page_projet5.php">
+                  Voir Plus
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/projet_entreprise2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Mise à jour calendriers ordonnanceur
+                </h5>
+                <p>
+                  Projet 2 Entreprise
+                </p>
+                <a href="page_projet6.php">
                   Voir Plus
                 </a>
               </div>

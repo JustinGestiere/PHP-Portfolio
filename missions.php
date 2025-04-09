@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 ">
+          <!-- <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
                 <img src="images/apple.png" alt="">
@@ -80,6 +80,24 @@
               <div class="detail-box">
                 <h5>
                   Intégration Apple
+                </h5>
+                <p>
+                  Mission 4
+                </p>
+                <a href="page_missionbonus.php">
+                  Voir Plus
+                </a>
+              </div>
+            </div>
+          </div> -->
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/icone_meteo.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  React API Meteo 
                 </h5>
                 <p>
                   Mission 4
