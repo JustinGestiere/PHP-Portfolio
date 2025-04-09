@@ -35,7 +35,6 @@
                     <ul class="inline-list">
                       <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
                       <li>Planifier les activités</li>
-                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
                     </ul>
                   </div>
                 </details>
@@ -54,7 +53,6 @@
                   <div class="sous-competence">
                     <ul class="inline-list">
                       <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
                     </ul>
                   </div>
                 </details>
@@ -76,8 +74,8 @@
                   <summary>Gérer le patrimoine informatique</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
-                      <li>Recenser et identifier les ressources numériques</li>
-                      <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
+                      <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
+                      <li>Gérer des sauvegardes</li>
                     </ul>
                   </div>
                 </details>
@@ -85,8 +83,8 @@
                   <summary>Développer la présence en ligne de l'organisation</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
-                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
                       <li>Participer à la valorisation de l'image de l'organisation sur les médias numériques</li>
+                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
                     </ul>
                   </div>
                 </details>
@@ -96,6 +94,26 @@
                     <ul class="inline-list">
                       <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
                       <li>Planifier les activités</li>
+                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                      <li>Déployer un service</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Organiser son développement professionnel</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Mettre en place son environnement d'apprentissage personnel</li>
+                      <li>Gérer son identité professionnelle</li>
+                      <li>Développer son projet professionnel</li>
                     </ul>
                   </div>
                 </details>
@@ -123,11 +141,22 @@
                   </div>
                 </details>
                 <details>
+                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Déployer un service</li>
+                      <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
                   <summary>Organiser son développement professionnel</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
                       <li>Mettre en place son environnement d'apprentissage personnel</li>
                       <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
+                      <li>Gérer son identité professionnelle</li>
+                      <li>Développer son projet professionnel</li>
                     </ul>
                   </div>
                 </details>
@@ -146,6 +175,25 @@
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
                 <details>
+                  <summary>Gérer le patrimoine informatique</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Recenser et identifier les ressources numériques</li>
+                      <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
+                      <li>Gérer des sauvegardes</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Développer la présence en ligne de l'organisation</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
+                      <li>Participer à la valorisation de l'image de l'organisation sur les médias numériques</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
                   <summary>Travailler en mode projet</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
@@ -161,6 +209,16 @@
                     <ul class="inline-list">
                       <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
                       <li>Déployer un service</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Organiser son développement professionnel</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Mettre en place son environnement d'apprentissage personnel</li>
+                      <li>Gérer son identité professionnelle</li>
+                      <li>Développer son projet professionnel</li>
                     </ul>
                   </div>
                 </details>
@@ -344,7 +402,7 @@
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    width: 100%;
+    width: 90%;
     box-sizing: border-box;
     height: 50px;
     display: flex;
