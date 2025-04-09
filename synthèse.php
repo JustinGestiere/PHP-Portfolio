@@ -273,6 +273,7 @@
     display: flex;
     border-bottom: 1px solid #ddd;
     align-items: stretch;
+    min-height: 80px;
   }
   
   .synthese-row:nth-child(even) {
@@ -284,13 +285,13 @@
   }
   
   .synthese-cell {
-    padding: 10px;
+    padding: 5px;
   }
   
   .header-cell {
     font-size: 18px;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
   }
   
   .projet-cell {
@@ -307,6 +308,7 @@
   
   .competence-cell {
     flex: 2;
+    padding: 5px 10px;
   }
   
   .projet-cell h4 {
@@ -323,25 +325,28 @@
   .competence-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 5px;
   }
   
   .competence-list details {
-    margin-bottom: 5px;
+    margin-bottom: 0;
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    flex: 1 1 calc(50% - 8px);
-    min-width: 200px;
+    flex: 1 1 calc(33.33% - 5px);
+    min-width: 150px;
   }
   
   .competence-list summary {
-    padding: 8px;
+    padding: 3px 8px;
     background-color: #f1f1f1;
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    font-size: 13px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   
   .competence-list summary:hover {
@@ -349,14 +354,14 @@
   }
   
   .sous-competence {
-    padding: 8px;
+    padding: 3px;
     background-color: #fff;
   }
   
   .sous-competence ul.inline-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 3px;
     padding-left: 0;
     list-style-type: none;
     margin: 0;
@@ -364,11 +369,15 @@
   
   .sous-competence ul.inline-list li {
     background-color: #f9f9f9;
-    padding: 4px 8px;
+    padding: 2px 5px;
     border-radius: 3px;
     border: 1px solid #eee;
-    flex: 1 1 180px;
-    font-size: 12px;
+    flex: 1 1 auto;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
   }
   
   /* Correction de l'alignement des en-têtes */
