@@ -402,7 +402,7 @@
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    width: 90%;
+    width: 80%;
     box-sizing: border-box;
     height: 50px;
     display: flex;
@@ -445,6 +445,39 @@
     
     .synthese-header {
       display: none;
+    }
+    
+    .competence-list summary {
+      width: 100%;
+    }
+    
+    .synthese-container {
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .synthese-container {
+      padding: 5px;
+    }
+    
+    .competence-list details {
+      height: auto;
+    }
+    
+    .competence-list summary {
+      font-size: 14px;
+      padding: 2px 5px;
+      height: auto;
+      min-height: 40px;
+    }
+    
+    .projet-content h4 {
+      font-size: 16px;
+    }
+    
+    .projet-content p {
+      font-size: 12px;
     }
   }
 </style>
