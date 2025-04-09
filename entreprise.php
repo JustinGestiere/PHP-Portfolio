@@ -80,32 +80,35 @@
         <div class="box">
           <div class="detail-box">
             <h5>
-              Compétences mises en oeuvre 
+              Activités réalisées et savoir-faire développés en entreprise
             </h5>
             <p>
               <pre>
 
-<strong>- Gérer le patrimoine informatique</strong>
-Recenser et identifier les ressources numériques
-Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
-Mettre en place et vérifier les niveaux d'habilitation associés à un service
-Vérifier les conditions de la continuité d'un service informatique
-Gérer les sauvegardes
-<strong>- Répondre aux incidents et aux demandes d'assistance et d'évolution</strong>
-Collecter, suivre et orienter des demandes
-Traiter des demandes concernant les services réseau et systèmes applicatifs
-Traiter des demandes concernant les applications
-<strong>- Travailler en mode projet</strong>
-Analyser les objectifs et les modalités d'organisation d'un projet
-Planifier les activités
-<strong>- Mettre à disposition des utilisateurs un service informatique</strong>
-Réaliser les tests d'intégration et d'acceptation d'un service
-Déployer un service
-Accompagner les utilisateurs dans la mise en place d'un service
-<strong>- Organiser son développement professionnel</strong>
-Mettre en place son environnement d'apprentissage personnel
-Gérer son identité professionnelle
-Développer son projet professionnel
+              <strong>- Assurer la gestion du parc informatique</strong>
+Réaliser un inventaire structuré des ressources numériques de l'entreprise  
+Utiliser les référentiels, normes et standards internes pour optimiser la gestion des systèmes  
+Définir, appliquer et contrôler les droits d'accès selon les rôles utilisateurs  
+Veiller à la mise en œuvre des conditions garantissant la continuité des services informatiques  
+
+<strong>- Gérer les incidents et accompagner les utilisateurs</strong>
+Prendre en charge les demandes d'assistance en assurant leur suivi jusqu'à résolution  
+Diagnostiquer et intervenir sur les incidents liés aux infrastructures réseau et aux systèmes applicatifs  
+Assurer le support technique concernant les logiciels métiers et applicatifs utilisés  
+
+<strong>- Participer activement aux projets informatiques</strong>
+Étudier les besoins et les objectifs du projet afin de structurer sa mise en œuvre  
+Élaborer un planning opérationnel des tâches à réaliser  
+Mesurer l'avancement via des indicateurs clés et proposer des ajustements si nécessaire  
+
+<strong>- Déployer des services numériques pour les utilisateurs</strong>
+Effectuer les tests techniques d'intégration et de validation des services à livrer  
+Assurer un déploiement maîtrisé des solutions au sein de l'environnement de production  
+Former et accompagner les utilisateurs lors de la prise en main des nouveaux services  
+
+<strong>- Développer ses compétences et construire son parcours professionnel</strong>
+Mettre en place une veille technologique et un environnement propice à l'apprentissage continu  
+Définir une trajectoire professionnelle en lien avec les besoins du secteur et ses aspirations
               </pre>
             </p>
           </div>
