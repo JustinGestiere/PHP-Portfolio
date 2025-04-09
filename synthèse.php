@@ -325,6 +325,7 @@
     display: flex;
     flex-direction: column;
     gap: 3px;
+    width: 100%;
   }
   
   .competence-list details {
@@ -332,6 +333,7 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
+    width: 100%;
   }
   
   .competence-list summary {
@@ -341,6 +343,8 @@
     font-weight: bold;
     color: #0f054c;
     font-size: 15px;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .competence-list summary:hover {
