@@ -391,7 +391,7 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    width: 100%;
+    width: 80%;
     height: 50px;
     box-sizing: border-box;
   }
@@ -402,7 +402,7 @@
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    width: 80%;
+    width: 100%;
     box-sizing: border-box;
     height: 50px;
     display: flex;
@@ -447,7 +447,7 @@
       display: none;
     }
     
-    .competence-list summary {
+    .competence-list details {
       width: 100%;
     }
     
