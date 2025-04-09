@@ -342,10 +342,39 @@
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
-    font-size: 15px;
-    width: 100%;
-    box-sizing: border-box;
-  }
+    widt.competence-list details {
+      margin-bottom: 0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      overflow: hidden;
+      width: 100%;
+      height: 50px;
+      box-sizing: border-box;
+    }
+    
+    .competence-list summary {
+      padding: 3px 8px;
+      background-color: #f1f1f1;
+      cursor: pointer;
+      font-weight: bold;
+      color: #0f054c;
+      width: 100%;
+      box-sizing: border-box;
+      height: 50px;
+      line-height: 44px; /* 50px - 2 * 3px padding */
+      display: flex;
+      align-items: center;
+    }
+    
+    /* Pour que les détails s'ouvrent correctement quand on clique */
+    .competence-list details[open] {
+      height: auto;
+    }
+    
+    .competence-list details[open] summary {
+      height: auto;
+      line-height: normal;
+    }
   
   .competence-list summary:hover {
     background-color: #e1e1e1;
