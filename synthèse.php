@@ -303,8 +303,8 @@
         </div>
       </div>
       <div class="pdf-download-container">
-        <a href="images/Tableau_Synthese.pdf" target="_blank" class="pdf-download-btn">
-          <i class="fa fa-file-pdf-o"></i> Télécharger la fiche de synthèse
+        <a href="images/synthesePDF.pdf" target="_blank" class="pdf-download-btn">
+          <i class="fa fa-file-pdf-o"></i> PDF du tableau de synthèse
         </a>
       </div>
     </div>
