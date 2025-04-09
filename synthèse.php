@@ -242,16 +242,25 @@
                     <ul class="inline-list">
                       <li>Collecter, suivre et orienter des demandes</li>
                       <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
+                      <li>Traiter des demandes concernant les applications</li>
                     </ul>
                   </div>
                 </details>
                 <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                  <summary>Travailler en mode projet</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
-                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                      <li>Déployer un service</li>
-                      <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
+                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                      <li>Planifier les activités</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Organiser son développement professionnel</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Mettre en place son environnement d'apprentissage personnel</li>
+                      <li>Développer son projet professionnel</li>
                     </ul>
                   </div>
                 </details>
@@ -274,7 +283,9 @@
                   <div class="sous-competence">
                     <ul class="inline-list">
                       <li>Recenser et identifier les ressources numériques</li>
+                      <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
                       <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
+                      <li>Vérifier les conditions de la continuité d'un service informatique</li>
                     </ul>
                   </div>
                 </details>
@@ -282,8 +293,29 @@
                   <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
-                      <li>Collecter, suivre et orienter des demandes</li>
+                    <li>Collecter, suivre et orienter des demandes</li>
+                      <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
                       <li>Traiter des demandes concernant les applications</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Travailler en mode projet</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
+                      <li>Planifier les activités</li>
+                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
+                    </ul>
+                  </div>
+                </details>
+                <details>
+                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
+                  <div class="sous-competence">
+                    <ul class="inline-list">
+                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
+                      <li>Déployer un service</li>
+                      <li>Accompagner l'installation et la mise en œuvre d'un service</li>
                     </ul>
                   </div>
                 </details>
@@ -291,8 +323,8 @@
                   <summary>Organiser son développement professionnel</summary>
                   <div class="sous-competence">
                     <ul class="inline-list">
-                      <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                      <li>Gérer son identité professionnelle</li>
+                      <li>Mettre en place son environnement d'apprentissage personnel</li>
+                      <li>Développer son projet professionnel</li>
                     </ul>
                   </div>
                 </details>
