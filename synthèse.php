@@ -22,8 +22,10 @@
           <!-- Projet 1 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>Calculatrice immobilière</h4>
-              <p>Projet 1 MyDigitalSchool</p>
+              <div class="projet-content">
+                <h4>Calculatrice immobilière</h4>
+                <p>Projet 1 MyDigitalSchool</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -63,8 +65,10 @@
           <!-- Projet 2 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>WEB FORMATION</h4>
-              <p>Projet 2 MyDigitalSchool</p>
+              <div class="projet-content">
+                <h4>WEB FORMATION</h4>
+                <p>Projet 2 MyDigitalSchool</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -102,8 +106,10 @@
           <!-- Projet 3 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>PORTFOLIO</h4>
-              <p>Projet 3 MyDigitalSchool</p>
+              <div class="projet-content">
+                <h4>PORTFOLIO</h4>
+                <p>Projet 3 MyDigitalSchool</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -132,8 +138,10 @@
           <!-- Projet 4 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>Click'n Eat</h4>
-              <p>Projet 4 MyDigitalSchool</p>
+              <div class="projet-content">
+                <h4>Click'n Eat</h4>
+                <p>Projet 4 MyDigitalSchool</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -163,8 +171,10 @@
           <!-- Projet 5 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>Collecteur de données VIP</h4>
-              <p>Projet 1 Entreprise</p>
+              <div class="projet-content">
+                <h4>Collecteur de données VIP</h4>
+                <p>Projet 1 Entreprise</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -194,8 +204,10 @@
           <!-- Projet 6 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
-              <h4>Mise à jour calendriers ordonnanceur</h4>
-              <p>Projet 2 Entreprise</p>
+              <div class="projet-content">
+                <h4>Mise à jour calendriers ordonnanceur</h4>
+                <p>Projet 2 Entreprise</p>
+              </div>
             </div>
             <div class="synthese-cell competence-cell">
               <div class="competence-list">
@@ -260,6 +272,7 @@
   .synthese-row {
     display: flex;
     border-bottom: 1px solid #ddd;
+    align-items: stretch;
   }
   
   .synthese-row:nth-child(even) {
@@ -271,17 +284,25 @@
   }
   
   .synthese-cell {
-    padding: 15px;
+    padding: 10px;
   }
   
   .header-cell {
     font-size: 18px;
     text-align: center;
+    padding: 15px;
   }
   
   .projet-cell {
     flex: 1;
     border-right: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .projet-content {
+    text-align: center;
   }
   
   .competence-cell {
@@ -289,7 +310,7 @@
   }
   
   .projet-cell h4 {
-    margin: 0 0 10px 0;
+    margin: 0 0 5px 0;
     color: #00bbf0;
   }
   
@@ -302,24 +323,25 @@
   .competence-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 8px;
   }
   
   .competence-list details {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     border: 1px solid #ddd;
     border-radius: 5px;
     overflow: hidden;
-    flex: 1 1 calc(50% - 10px);
-    min-width: 250px;
+    flex: 1 1 calc(50% - 8px);
+    min-width: 200px;
   }
   
   .competence-list summary {
-    padding: 10px;
+    padding: 8px;
     background-color: #f1f1f1;
     cursor: pointer;
     font-weight: bold;
     color: #0f054c;
+    font-size: 13px;
   }
   
   .competence-list summary:hover {
@@ -327,14 +349,14 @@
   }
   
   .sous-competence {
-    padding: 10px;
+    padding: 8px;
     background-color: #fff;
   }
   
   .sous-competence ul.inline-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 6px;
     padding-left: 0;
     list-style-type: none;
     margin: 0;
@@ -342,11 +364,11 @@
   
   .sous-competence ul.inline-list li {
     background-color: #f9f9f9;
-    padding: 5px 10px;
+    padding: 4px 8px;
     border-radius: 3px;
     border: 1px solid #eee;
-    flex: 1 1 200px;
-    font-size: 13px;
+    flex: 1 1 180px;
+    font-size: 12px;
   }
   
   /* Correction de l'alignement des en-têtes */
