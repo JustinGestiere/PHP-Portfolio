@@ -334,6 +334,8 @@
     border-radius: 5px;
     overflow: hidden;
     width: 100%;
+    height: 50px;
+    box-sizing: border-box;
   }
   
   .competence-list summary {
@@ -344,34 +346,22 @@
     color: #0f054c;
     width: 100%;
     box-sizing: border-box;
-  }
-  
-  .competence-list summary:hover {
-    background-color: #e1e1e1;
-  }
-  
-  .sous-competence {
-    padding: 3px;
-    background-color: #fff;
-  }
-  
-  .sous-competence ul.inline-list {
+    height: 50px;
     display: flex;
-    flex-wrap: wrap;
-    gap: 3px;
-    padding-left: 0;
-    list-style-type: none;
-    margin: 0;
+    align-items: center;
   }
   
-  .sous-competence ul.inline-list li {
-    background-color: #f9f9f9;
-    padding: 2px 5px;
-    border-radius: 3px;
-    border: 1px solid #eee;
-    font-size: 14px;
-    display: inline-block;
-    margin-right: 3px;
+  .competence-list details[open] {
+    height: auto;
+  }
+  
+  .competence-list details[open] summary {
+    height: auto;
+  }
+  
+  .competence-list details[open] summary {
+    background-color: #00bbf0;
+    color: white;
   }
   
   /* Correction de l'alignement des en-têtes */
@@ -383,12 +373,6 @@
   .synthese-header .header-cell:last-child {
     flex: 2;
     text-align: center;
-  }
-  
-  /* Ajout d'un style pour les détails ouverts */
-  .competence-list details[open] summary {
-    background-color: #00bbf0;
-    color: white;
   }
   
   @media (max-width: 768px) {
