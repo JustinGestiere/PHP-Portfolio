@@ -33,10 +33,10 @@
             <p>
               <pre>
 
-<strong><a href="competences.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
-<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
+<strong><a href="synthèse.php">- Organiser son développement professionnel</a></strong>
 Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>

@@ -33,19 +33,19 @@
             <p>
               <pre>
 
-<strong><a href="competences.php">- Gérer le patrimoine informatique</a></strong>
+<strong><a href="synthèse.php">- Gérer le patrimoine informatique</a></strong>
 Mettre en place et vérifier les niveaux d'habilitation associés à un service
 Gérer des sauvegardes
-<strong><a href="competences.php">- Développer la présence en ligne de l'organisation</a></strong>
+<strong><a href="synthèse.php">- Développer la présence en ligne de l'organisation</a></strong>
 Participer à l'évolution d'un site Web exploitant les données de l'organisation
-<strong><a href="competences.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
-<strong><a href="competences.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
+<strong><a href="synthèse.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
-<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
+<strong><a href="synthèse.php">- Organiser son développement professionnel</a></strong>
 Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>

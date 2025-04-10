@@ -33,7 +33,7 @@
             <p>
               <pre>
 
-<strong><a href="competences.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
               </pre>

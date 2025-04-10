@@ -33,10 +33,10 @@
             <p>
               <pre>
 
-<strong><a href="competences.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
-<strong><a href="competences.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
+<strong><a href="synthèse.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
