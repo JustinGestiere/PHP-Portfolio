@@ -15,16 +15,16 @@
       <div class="synthese-container">
         <div class="synthese-table">
           <div class="synthese-header">
-            <div class="synthese-cell header-cell" style="flex: 1; text-align: center;">Projets</div>
+            <div class="synthese-cell header-cell" style="flex: 1; text-align: center;">Réalisations</div>
             <div class="synthese-cell header-cell" style="flex: 2; text-align: center;">Compétences</div>
           </div>
           
-          <!-- Projet 1 -->
+          <!-- Réalisation 1 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>Calculatrice immobilière</h4>
-                <p>Projet 1 MyDigitalSchool</p>
+                <p>Réalisation 1 MyDigitalSchool</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
@@ -60,12 +60,12 @@
             </div>
           </div>
           
-          <!-- Projet 2 -->
+          <!-- Réalisation 2 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>WEB FORMATION</h4>
-                <p>Projet 2 MyDigitalSchool</p>
+                <p>Réalisation 2 MyDigitalSchool</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
@@ -121,12 +121,12 @@
             </div>
           </div>
           
-          <!-- Projet 3 -->
+          <!-- Réalisation 3 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>PORTFOLIO</h4>
-                <p>Projet 3 MyDigitalSchool</p>
+                <p>Réalisation 3 MyDigitalSchool</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
@@ -164,12 +164,12 @@
             </div>
           </div>
           
-          <!-- Projet 4 -->
+          <!-- Réalisation 4 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>Click'n Eat</h4>
-                <p>Projet 4 MyDigitalSchool</p>
+                <p>Réalisation 4 MyDigitalSchool</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
@@ -226,12 +226,12 @@
             </div>
           </div>
           
-          <!-- Projet 5 -->
+          <!-- Réalisation 5 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>Collecteur de données VIP</h4>
-                <p>Projet 1 Entreprise</p>
+                <p>Réalisation 1 Entreprise</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
@@ -268,12 +268,12 @@
             </div>
           </div>
           
-          <!-- Projet 6 -->
+          <!-- Réalisation 6 -->
           <div class="synthese-row">
             <div class="synthese-cell projet-cell">
               <div class="projet-content">
                 <h4>Mise à jour calendriers ordonnanceur</h4>
-                <p>Projet 2 Entreprise</p>
+                <p>Réalisation 2 Entreprise</p>
               </div>
             </div>
             <div class="synthese-cell competence-cell">
