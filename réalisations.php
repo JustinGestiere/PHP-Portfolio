@@ -28,7 +28,7 @@
                 <p>
                   Réalisation 1 MyDigitalSchool
                 </p>
-                <a href="page_projet1.php">
+                <a href="page_réalisation1.php">
                   Voir Plus
                 </a>
               </div>
@@ -46,7 +46,7 @@
                 <p>
                   Réalisation 2 MyDigitalSchool
                 </p>
-                <a href="page_projet2.php">
+                <a href="page_réalisation2.php">
                   Voir Plus
                 </a>
               </div>
@@ -64,7 +64,7 @@
                 <p>
                   Réalisation 3 MyDigitalSchool
                 </p>
-                <a href="page_projet3.php">
+                <a href="page_réalisation3.php">
                   Voir Plus
                 </a>
               </div>
@@ -82,7 +82,7 @@
                 <p>
                   Réalisation 4 MyDigitalSchool
                 </p>
-                <a href="page_projet4.php">
+                <a href="page_réalisation4.php">
                   Voir Plus
                 </a>
               </div>
@@ -100,7 +100,7 @@
                 <p>
                   Réalisation 1 Entreprise
                 </p>
-                <a href="page_projet5.php">
+                <a href="page_réalisation5.php">
                   Voir Plus
                 </a>
               </div>
@@ -118,7 +118,7 @@
                 <p>
                   Réalisation 2 Entreprise
                 </p>
-                <a href="page_projet6.php">
+                <a href="page_réalisation6.php">
                   Voir Plus
                 </a>
               </div>
