@@ -9,7 +9,7 @@
       <div class="container ">
         <div class="heading_container heading_center">
           <h2>
-            Mes <span>Projets</span>
+            Mes <span>Réalisations</span>
           </h2>
           <!-- <p>
             There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
@@ -26,7 +26,7 @@
                   Calculatrice immobiliere
                 </h5>
                 <p>
-                  Projet 1 MyDigitalSchool
+                  Réalisation 1 MyDigitalSchool
                 </p>
                 <a href="page_projet1.php">
                   Voir Plus
@@ -44,7 +44,7 @@
                   WEB FORMATION
                 </h5>
                 <p>
-                  Projet 2 MyDigitalSchool
+                  Réalisation 2 MyDigitalSchool
                 </p>
                 <a href="page_projet2.php">
                   Voir Plus
@@ -62,7 +62,7 @@
                   PORTFOLIO
                 </h5>
                 <p>
-                  Projet 3 MyDigitalSchool
+                  Réalisation 3 MyDigitalSchool
                 </p>
                 <a href="page_projet3.php">
                   Voir Plus
@@ -80,7 +80,7 @@
                   Click'n Eat
                 </h5>
                 <p>
-                  Projet 4 MyDigitalSchool
+                  Réalisation 4 MyDigitalSchool
                 </p>
                 <a href="page_projet4.php">
                   Voir Plus
@@ -98,7 +98,7 @@
                   Collecteur de données VIP
                 </h5>
                 <p>
-                  Projet 1 Entreprise
+                  Réalisation 1 Entreprise
                 </p>
                 <a href="page_projet5.php">
                   Voir Plus
@@ -116,7 +116,7 @@
                   Mise à jour calendriers ordonnanceur
                 </h5>
                 <p>
-                  Projet 2 Entreprise
+                  Réalisation 2 Entreprise
                 </p>
                 <a href="page_projet6.php">
                   Voir Plus

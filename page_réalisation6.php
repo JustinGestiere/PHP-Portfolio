@@ -8,7 +8,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          PROJET 1<span></span>
+          RÉALISATION 6<span></span>
         </h2>
       </div>
       <div class="why_container">
@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Calculette prêt immobilier
+                Click'n Eat
             </h1>
           </div>
         </div>
@@ -27,9 +27,6 @@
             <img src="images/projet1.png" alt="">
           </div>
           <div class="detail-box">
-            <pre>
-              
-            </pre>
             <h5>
               Compétences mises en oeuvre 
             </h5>
@@ -43,8 +40,6 @@ Planifier les activités
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
-<strong><a href="competences.php">- Organiser son développement professionnel</a></strong>
-Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>
           </div>
@@ -76,7 +71,6 @@ Mettre en place son environnement d'apprentissage personnel
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage de nouvelle méthode du langage JavaScript pour répondre au attente du projet
 - Étude de la maquette Figma
 - Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
 - Réalisation de la partie JavaScript pour rendre la page dynamique
@@ -149,9 +143,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://calculatrice-immobiliere.justingestiere.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://clickneat.justingestiere.com/login" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://calculatrice-immobiliere.justingestiere.com" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
@@ -161,15 +155,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="gantt_projet1.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+              <a href="gantt_projet4.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
-            <a href="gantt_projet1.php" target=""><p>GANTT</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><img src="images/figma.png" alt=""></a>
-            </div>
-            <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><p>Maquette Figma</p></a>
+            <a href="gantt_projet4.php" target=""><p>GANTT</p></a>
           </div>
         </div>
       </div>
