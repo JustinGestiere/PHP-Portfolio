@@ -21,9 +21,15 @@
         </div>
         <div class="box">
           <div class="detail-box">
+            <h5>
+                Contexte
+            </h5>
             <p>
-                <strong>Contexte :</strong> PHP 8.4 introduit des fonctionnalités comme les améliorations asynchrones et l'optimisation 
-                des API REST, renforçant la vitesse et la capacité des applications à gérer des tâches multiples en parallèle.
+              La version PHP 8.4 introduit des fonctionnalités avancées d'asynchronisme ainsi que des 
+              optimisations ciblées pour les API REST, renforçant à la fois la vitesse d'exécution et la 
+              gestion parallèle des tâches. Ces améliorations positionnent PHP comme un langage encore 
+              plus pertinent pour les architectures modernes, comme les microservices et les applications 
+              temps réel.
             </p>
           </div>
         </div>
@@ -32,12 +38,21 @@
             <h5>
                 Détails Techniques
             </h5>
-            <p>
-                PHP 8.4 apporte des fonctionnalités asynchrones, qui permettent aux développeurs de gérer des appels multiples 
-                sans bloquer le serveur. Ces améliorations incluent aussi des optimisations pour les performances des API REST, 
-                facilitant les connexions simultanées et la gestion efficace des requêtes, rendant PHP plus adapté aux architectures 
-                modernes et aux services web exigeants.
-            </p>
+            <pre>
+            PHP 8.4 propose des capacités asynchrones améliorées via l'évolution des Fibers, permettant de 
+            traiter plusieurs tâches en parallèle sans bloquer le serveur. Cela facilite notamment :
+            L'exécution concurrente d'appels HTTP
+            Le traitement asynchrone de flux de données
+            Une meilleure gestion des entrées/sorties (I/O)
+
+            De plus, les performances des API REST sont optimisées grâce à :
+            Une meilleure gestion des connexions simultanées
+            Une réduction de la latence
+            Une exécution plus fluide des requêtes réseau
+
+            Ces nouveautés rapprochent PHP du niveau de réactivité offert par des environnements comme Node.js, 
+            tout en conservant sa simplicité d'utilisation.
+            </pre>
           </div>
         </div>
         <div class="box">
@@ -45,11 +60,19 @@
             <h5>
                 Avantages et Applications Pratiques
             </h5>
-            <p>
-                Les nouvelles fonctionnalités permettent de concevoir des applications réactives et rapides, comme les services 
-                de streaming et les plateformes interactives. Les développeurs peuvent désormais créer des applications capables 
-                de traiter des tâches complexes sans alourdir les ressources serveur.
-            </p>
+            <pre>
+              Les nouvelles capacités de PHP 8.4 permettent de créer des applications plus réactives, 
+              rapides et robustes, idéales pour :
+              Les services de streaming audio/vidéo
+              Les plateformes interactives (chat, collaboration en temps réel)
+              Les dashboards dynamiques
+              Les services API qui doivent gérer un grand nombre de requêtes simultanées
+
+              Les développeurs bénéficient ainsi :
+              D'une meilleure utilisation des ressources serveur
+              D'un code plus propre, grâce à une programmation asynchrone facilitée
+              D'un temps de réponse réduit, même sous forte charge
+            </pre>
           </div>
         </div>
         <div class="box">

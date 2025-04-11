@@ -13,44 +13,50 @@
       </div>
       <div class="why_container">
         <div class="box">
+        <div class="box">
           <div class="detail-box">
             <h1>
-                HTML5 et l'intégration blockchain dans les jeux
+              Optimisation Web : Convertir des GIFs en vidéos HTML5
             </h1>
           </div>
         </div>
-        <div class="box">
-          <div class="detail-box">
-            <p>
-                <strong>Contexte :</strong> La blockchain est de plus en plus utilisée dans l'industrie du jeu pour assurer la propriété 
-                et la rareté des actifs numériques. Cette technologie permet de créer des jeux où les joueurs peuvent posséder réellement 
-                les éléments du jeu, comme des personnages, des objets ou des terrains, sous forme de tokens non fongibles (NFT).
-            </p>
-          </div>
-        </div>
+
         <div class="box">
           <div class="detail-box">
             <h5>
-                Détails Techniques
+              Contexte
             </h5>
             <p>
-                HTML5, en tant que technologie de base pour le développement de jeux en ligne, permet aux développeurs de créer des 
-                expériences immersives et interactives. Les jeux basés sur blockchain utilisent souvent des bibliothèques JavaScript, 
-                comme Web3.js, pour interagir avec les smart contracts sur des réseaux comme Ethereum. Cela rend possible des 
-                fonctionnalités telles que les transactions en temps réel et la vérification de l'authenticité des actifs numériques.
+              Sur le web, la vitesse de chargement d'une page est devenue un critère essentiel pour offrir une bonne expérience 
+              utilisateur et améliorer son référencement. Les GIFs animés, bien qu'attrayants, sont souvent lourds et ralentissent les performances. Une solution 
+              consiste à les convertir en vidéos MP4 légères et les intégrer via HTML5, comme le fait déjà le site Giphy.
             </p>
           </div>
         </div>
+
         <div class="box">
           <div class="detail-box">
             <h5>
-                Avantages et Applications Pratiques
+              Détails Techniques
             </h5>
             <p>
-                L'intégration de la blockchain dans les jeux peut révolutionner l'industrie en permettant une nouvelle forme de 
-                monétisation, où les joueurs peuvent acheter, vendre ou échanger des actifs numériques. Cela crée un écosystème de jeu 
-                plus équitable, où les joueurs sont réellement récompensés pour leurs efforts. De plus, la transparence de la blockchain 
-                peut renforcer la confiance des joueurs envers les développeurs.
+              Contrairement aux fichiers GIF, les vidéos au format MP4 sont en moyenne 80 à 90 % plus légères. Grâce à HTML5, on peut intégrer ces vidéos 
+              en utilisant la balise <code>&lt;video&gt;</code> avec les attributs <code>autoplay</code>, <code>loop</code> et <code>muted</code> pour reproduire 
+              le comportement d'un GIF. Des outils en ligne comme <a href="https://ezgif.com/gif-to-mp4" target="_blank">ezgif.com</a> permettent de faire la conversion facilement, 
+              ou via ligne de commande avec <code>ffmpeg</code>.
+            </p>
+          </div>
+        </div>
+
+        <div class="box">
+          <div class="detail-box">
+            <h5>
+              Avantages et Applications Pratiques
+            </h5>
+            <p>
+              En remplaçant les GIFs par des vidéos MP4, on améliore drastiquement le temps de chargement des pages. Cela a un impact positif sur le 
+              référencement (SEO) et sur l'expérience utilisateur. Cette méthode est idéale pour les sites e-commerce, blogs, ou portfolios 
+              qui utilisent régulièrement des animations visuelles.
             </p>
           </div>
         </div>
@@ -64,17 +70,9 @@
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://lerepairedessciences.fr/2024/la-programmation-et-la-mise-en-place-dun-site-de-casino-en-ligne/" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://www.leptidigital.fr/webmarketing/convertir-gifs-videos-mp4-html5-optimiser-temps-chargement-17049/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://lerepairedessciences.fr/2024/la-programmation-et-la-mise-en-place-dun-site-de-casino-en-ligne/" target="_blank"><p>Adresse du site (Le repaire des sciences)</p></a>
-          </div>
-        </div>
-        <div class="boxe">
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://medium.com/@mytchall.b/using-games-with-nfts-and-web3-js-610fd5fbd562" target="_blank"><img src="images/lien_site.png" alt=""></a>
-            </div>
-            <a href="https://medium.com/@mytchall.b/using-games-with-nfts-and-web3-js-610fd5fbd562" target="_blank"><p>Adresse de l'article du site (Medium)</p></a>
+            <a href="https://www.leptidigital.fr/webmarketing/convertir-gifs-videos-mp4-html5-optimiser-temps-chargement-17049/" target="_blank"><p>Adresse de l'article du site (Leptidigital)</p></a>
           </div>
         </div>
       </div>

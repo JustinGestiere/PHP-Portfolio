@@ -21,9 +21,13 @@
         </div>
         <div class="box">
           <div class="detail-box">
-            <p>
-                <strong>Contexte :</strong> TypeScript ajoute des fonctionnalités de typage statique à JavaScript, permettant une 
-                écriture de code plus sûre, une meilleure lisibilité, et une maintenance accrue des projets complexes.
+            <h5>
+                Contexte
+            </h5>
+            <p> 
+                TypeScript étend JavaScript en y ajoutant des fonctionnalités de 
+                typage statique. Cela permet d'écrire un code plus sûr, d'améliorer sa lisibilité et d'en 
+                faciliter la maintenance, en particulier pour les projets complexes et de grande envergure.
             </p>
           </div>
         </div>
@@ -33,10 +37,12 @@
                 Détails Techniques
             </h5>
             <p>
-                TypeScript est un sur-ensemble de JavaScript qui introduit le typage statique et une syntaxe plus rigoureuse, ce qui 
-                permet d'éviter des erreurs courantes de programmation. Les éditeurs de code modernes supportent TypeScript avec des 
-                fonctionnalités comme l'intellisense, qui apporte des suggestions et des validations en temps réel, ce qui améliore 
-                grandement la productivité des développeurs.
+              TypeScript est un sur-ensemble de JavaScript qui introduit un système de typage statique et 
+              une syntaxe plus rigoureuse. Cette approche permet de détecter à l'avance des erreurs courantes 
+              de programmation lors de la phase de compilation. Grâce au support natif dans les éditeurs de 
+              code modernes, TypeScript bénéficie d'outils d'intellisense, qui offrent des suggestions 
+              contextuelles et des validations en temps réel. Ces fonctionnalités améliorent considérablement 
+              la productivité et la qualité du code produit.
             </p>
           </div>
         </div>
@@ -45,11 +51,25 @@
             <h5>
                 Avantages et Applications Pratiques
             </h5>
-            <p>
-                Dans les grands projets, où des équipes multiples travaillent sur des bases de code étendues, TypeScript contribue à 
-                réduire les erreurs, à améliorer la lisibilité, et facilite les intégrations avec des bibliothèques et frameworks comme 
-                Angular. Cela aide aussi dans le refactoring de code et la gestion de projets sur le long terme.
-            </p>
+            <pre>
+              Réduction des erreurs : Grâce au typage statique, des erreurs de type sont détectées avant 
+              l'exécution, ce qui diminue le risque de bugs en production.
+
+              Lisibilité et maintenabilité : La déclaration explicite des types et la structure plus 
+              rigoureuse rendent le code plus facile à comprendre, surtout dans des projets collaboratifs 
+              impliquant de larges équipes.
+
+              Facilité de refactoring : Le système de types aide à identifier rapidement les incohérences 
+              lors de la refactorisation, assurant une meilleure gestion des évolutions du code dans le temps.
+
+              Intégration avec des frameworks : TypeScript s'intègre parfaitement avec des bibliothèques et 
+              frameworks modernes, notamment Angular, ce qui permet de bénéficier de fonctionnalités avancées 
+              tout en assurant une base de code robuste.
+              
+              Productivité accrue : Les fonctionnalités d'intellisense et de complétion automatique dans les 
+              IDE améliorent le flux de travail des développeurs, facilitant ainsi le développement et la 
+              maintenance continue du projet.
+            </pre>
           </div>
         </div>
         <div class="box">

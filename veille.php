@@ -222,7 +222,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  HTML5 et l'intégration blockchain dans les jeux
+                  Optimisation Web : Convertir des GIFs en vidéos HTML5
                 </h5>
                 <p>
              

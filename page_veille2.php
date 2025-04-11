@@ -21,10 +21,16 @@
         </div>
         <div class="box">
           <div class="detail-box">
+            <h5>
+                Contexte
+            </h5>
             <p>
-                <strong>Contexte :</strong> L'ajout d'animations 3D en CSS, combiné aux transformations et transitions, permet de rendre 
-                les interfaces web plus interactives et captivantes, sans nécessiter de scripts complexes. Les effets comme les rotations 
-                et les perspectives en CSS améliorent considérablement l'aspect visuel des pages web.
+                L'intégration d'effets 3D en CSS, combinés aux transformations 
+                et transitions, révolutionne la manière dont les interfaces web interagissent avec les 
+                utilisateurs. Sans recourir à JavaScript ou à des bibliothèques lourdes, il est désormais 
+                possible de créer des expériences visuelles dynamiques, immersives et hautement performantes. 
+                Ces animations apportent un réalisme subtil et une profondeur visuelle qui attirent le regard 
+                et enrichissent l'expérience utilisateur.
             </p>
           </div>
         </div>
@@ -34,10 +40,14 @@
                 Détails Techniques
             </h5>
             <p>
-                Les animations 3D en CSS s'appuient sur les transformations telles que `rotateX`, `rotateY`, et `perspective`. 
-                Ces effets ajoutent de la profondeur et du mouvement aux éléments HTML en utilisant uniquement du CSS, permettant aux 
-                développeurs de créer des animations fluides et légères, sans ralentir la page. Les keyframes, en combinaison avec ces 
-                propriétés, ouvrent des possibilités pour des animations en boucle, des transitions naturelles, et des effets immersifs.
+            Les animations 3D reposent principalement sur des propriétés CSS avancées comme :
+            "transform: rotateX(), rotateY(), rotateZ()" pour manipuler les objets sur les trois axes,
+            "perspective" pour créer un effet de profondeur réaliste,
+            "transform-style: preserve-3d" pour conserver la structure tridimensionnelle,
+            "transition" et "@keyframes" pour orchestrer les animations fluides et naturelles.
+            Un exemple typique est l'effet de brillance animée (shine) ou de parallax 3D, qui ne nécessitent 
+            qu'un simple <img> et tirent parti des masques CSS (mask) et des dégradés animés pour simuler 
+            la lumière et le mouvement.
             </p>
           </div>
         </div>
@@ -47,10 +57,29 @@
                 Avantages et Applications Pratiques
             </h5>
             <p>
-                Les animations 3D en CSS sont particulièrement populaires dans les portfolios créatifs, les sites de branding et les 
-                produits interactifs où l'effet visuel est un critère clé. Cela permet de transmettre un style unique, captiver 
-                l'attention de l'utilisateur et créer des interfaces engageantes, tout en assurant des performances optimales sans 
-                utilisation excessive de JavaScript.
+            Les effets CSS 3D sont idéaux pour :
+            Les portfolios créatifs : attirer l'attention par des effets subtils.
+            Les pages d'accueil de marques : renforcer l'identité visuelle avec du mouvement contrôlé.
+            Les interfaces interactives : rendre les interactions plus engageantes sans compromettre les 
+            performances.
+            Parmi leurs avantages principaux :
+            Aucun besoin de JavaScript : performances optimisées et compatibilité améliorée.
+            Une grande légèreté du code HTML, souvent limité à un simple <img>.
+            Une expérience utilisateur enrichie grâce à des effets visuels élégants, sans surcharge visuelle.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="detail-box">
+            <h5>
+                Conclusion
+            </h5>
+            <p>
+            Les animations 3D en CSS ne sont pas seulement un gadget visuel. Elles représentent un outil 
+            puissant pour moderniser les interfaces web, améliorer l'engagement utilisateur et exprimer une 
+            identité visuelle forte, tout en conservant un chargement rapide et une architecture simple. 
+            Elles témoignent de l'évolution constante du CSS, qui ne se contente plus de "styliser", mais 
+            devient un véritable moteur d'animation graphique.
             </p>
           </div>
         </div>

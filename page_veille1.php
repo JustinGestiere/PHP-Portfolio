@@ -21,10 +21,15 @@
         </div>
         <div class="box">
           <div class="detail-box">
+            <h5>
+                Contexte
+            </h5>
             <p>
-                <strong>Contexte :</strong> La Paint Timing API est une initiative de Google qui vise à optimiser le chargement des pages 
-                en identifiant les moments clés de rendu, comme le "First Paint" (FP) et le "First Contentful Paint" (FCP), afin 
-                d'améliorer l'expérience utilisateur en fournissant des données précises pour analyser et améliorer les temps de chargement.
+                La Paint Timing API, développée par Google, fait partie des APIs 
+                de performance du navigateur. Elle vise à optimiser le chargement des pages web en 
+                identifiant des moments clés du rendu visuel, comme le First Paint (FP) et le First 
+                Contentful Paint (FCP). Ces métriques permettent d'analyser précisément l'affichage initial 
+                d'une page afin d'améliorer l'expérience utilisateur.
             </p>
           </div>
         </div>
@@ -34,10 +39,15 @@
                 Détails Techniques
             </h5>
             <p>
-                La Paint Timing API fait partie des performances APIs de HTML et offre aux développeurs des mesures précises sur la 
-                manière dont les éléments sont rendus sur la page. Le "First Paint" signale le premier pixel rendu par le navigateur, 
-                tandis que le "First Contentful Paint" indique le premier contenu visuel. Cette distinction permet de mieux cerner les 
-                goulots d'étranglement et d'ajuster le contenu pour des chargements plus rapides et fluides.
+            La Paint Timing API fournit aux développeurs des données précises sur la manière dont le contenu 
+            d'une page commence à être affiché :
+            Le First Paint correspond au premier pixel visible rendu par le navigateur, même s'il ne s'agit 
+            que d'un changement de fond.
+            Le First Contentful Paint marque le premier contenu significatif affiché, comme du texte ou une 
+            image.
+            Cette distinction est importante car elle permet de mieux détecter les blocages dans le processus 
+            de rendu et d'ajuster la structure ou la hiérarchie du contenu pour accélérer le temps de 
+            chargement perçu.
             </p>
           </div>
         </div>
@@ -49,8 +59,10 @@
             <p>
                 Cette API améliore significativement l'expérience utilisateur en identifiant les ralentissements éventuels qui nuisent 
                 à la première impression de la page. Cela aide les développeurs à prioriser le rendu des éléments essentiels, améliorant 
-                ainsi l'engagement utilisateur. Par exemple, dans des applications e-commerce, une meilleure performance de chargement 
-                peut se traduire par un taux de conversion plus élevé.
+                ainsi l'engagement utilisateur. Par exemple, dans une application e-commerce, un affichage 
+                rapide des visuels et des informations produit peut encourager davantage les visiteurs à 
+                finaliser leurs achats, en réduisant le risque qu'ils quittent la page avant qu'elle soit 
+                complètement affichée.
             </p>
           </div>
         </div>

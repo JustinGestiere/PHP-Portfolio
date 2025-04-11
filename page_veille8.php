@@ -21,36 +21,37 @@
         </div>
         <div class="box">
           <div class="detail-box">
+            <h5>Contexte</h5>
             <p>
-                <strong>Contexte :</strong> Les systèmes de gestion de contenu (CMS) headless séparent le backend du frontend, 
-                permettant aux développeurs de créer des expériences utilisateur sur différentes plateformes. Cette séparation 
-                permet aux entreprises de s'adapter plus rapidement aux changements de technologies et aux tendances du marché.
+              Les systèmes de gestion de contenu (CMS) headless séparent le backend du frontend, 
+              permettant aux développeurs de créer des expériences utilisateur sur différentes plateformes. 
+              Cette séparation permet aux entreprises de s'adapter plus rapidement aux évolutions technologiques 
+              et aux tendances du marché.
             </p>
           </div>
         </div>
+
         <div class="box">
           <div class="detail-box">
-            <h5>
-                Détails Techniques
-            </h5>
+            <h5>Détails Techniques</h5>
             <p>
-                PHP peut être utilisé pour créer des API RESTful qui fournissent du contenu aux applications frontales. 
-                Des frameworks comme Laravel facilitent la création de ces API, offrant des outils robustes pour gérer les requêtes, 
-                l'authentification et la sécurité. Cela signifie que les développeurs peuvent utiliser le meilleur des technologies 
-                côté client, tout en gardant un système de gestion de contenu puissant derrière les coulisses.
+              PHP peut être utilisé pour créer des API RESTful qui fournissent du contenu aux applications frontales. 
+              Des frameworks comme Laravel facilitent la création de ces API en offrant des outils robustes pour 
+              gérer les requêtes, l'authentification et la sécurité. Cela signifie que les développeurs peuvent exploiter 
+              le meilleur des technologies côté client tout en conservant un système de gestion de contenu performant 
+              en arrière-plan.
             </p>
           </div>
         </div>
+
         <div class="box">
           <div class="detail-box">
-            <h5>
-                Avantages et Applications Pratiques
-            </h5>
+            <h5>Avantages et Applications Pratiques</h5>
             <p>
-                L'intégration d'un CMS headless avec PHP permet une plus grande flexibilité et scalabilité. Les développeurs peuvent 
-                choisir les meilleures technologies pour le frontend tout en profitant des capacités de gestion de contenu du CMS. 
-                Cela facilite également le déploiement sur plusieurs canaux, comme les applications mobiles et les sites web, avec 
-                une seule base de contenu, améliorant ainsi la cohérence de la marque.
+              L'intégration d'un CMS headless avec PHP offre une flexibilité et une scalabilité accrues. Les développeurs 
+              peuvent choisir les meilleures technologies pour le frontend tout en profitant des capacités de gestion de contenu 
+              du CMS. De plus, cette approche facilite le déploiement sur plusieurs canaux (applications mobiles, sites web, etc.), 
+              en utilisant une seule base de contenu, ce qui améliore la cohérence de la marque.
             </p>
           </div>
         </div>
