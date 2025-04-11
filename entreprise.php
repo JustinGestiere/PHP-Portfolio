@@ -85,30 +85,30 @@
             <p>
               <pre>
 
-              <strong>- Assurer la gestion du parc informatique</strong>
-Réaliser un inventaire structuré des ressources numériques de l'entreprise  
-Utiliser les référentiels, normes et standards internes pour optimiser la gestion des systèmes  
-Définir, appliquer et contrôler les droits d'accès selon les rôles utilisateurs  
-Veiller à la mise en œuvre des conditions garantissant la continuité des services informatiques  
+<strong>Assurer la gestion du parc informatique</strong>
+Lors de mon alternance j'ai dû réalisé un inventaire de tous les serveurs ainsi que les trier en fonction de leurs accès.
+J'ai également utilisé des documentation technique ainsi que des modes opératoires pour réalisé différentes tâches comme des installations, mises à jour ou encore maintenance de serveurs.
+Lorsque j'ai créé des scripts j'ai dû appliquer des droits d'accès en fonction des rôles utilisateurs.
+Et tous les matins je vérifie à l'aide d'un ordonnanceur si les applications mises à disposition des clients sont disponibles.
 
-<strong>- Gérer les incidents et accompagner les utilisateurs</strong>
-Prendre en charge les demandes d'assistance en assurant leur suivi jusqu'à résolution  
-Diagnostiquer et intervenir sur les incidents liés aux infrastructures réseau et aux systèmes applicatifs  
-Assurer le support technique concernant les logiciels métiers et applicatifs utilisés  
+<strong>Gérer les incidents et accompagner les utilisateurs</strong>
+Mon entreprise utilise l'outil ICD comme outil de ticketing, cela me permet de gérer les demandes, activités et incidents des différents utilisateurs pour différentes tâches comme des passages de scripts.
+Nous utilisons également les mails pour certaines demandes comme celle interne à l'entreprise.
+Cela nous permet de gérer les logiciels métiers et applicatifs utilisés.
 
-<strong>- Participer activement aux projets informatiques</strong>
-Étudier les besoins et les objectifs du projet afin de structurer sa mise en œuvre  
-Élaborer un planning opérationnel des tâches à réaliser  
-Mesurer l'avancement via des indicateurs clés et proposer des ajustements si nécessaire  
+<strong>Participer activement aux projets informatiques</strong>
+Pour répondre à un besoin de mon entreprise, j'ai réalisé un script que j'ai séparé en plusieurs parties afin de structurer sa mise en œuvre et son exécution. 
+Pour cela je me suis préparé un planning pour connaitre l'avancement du projet et respecter la date de livraison.
+Pour finir j'indiquais mon avancé et communiquais avec mon supérieur, sur les différents problèmes rencontrés aisni que les ajustements à mettre en place.
 
-<strong>- Déployer des services numériques pour les utilisateurs</strong>
-Effectuer les tests techniques d'intégration et de validation des services à livrer  
-Assurer un déploiement maîtrisé des solutions au sein de l'environnement de production  
-Former et accompagner les utilisateurs lors de la prise en main des nouveaux services  
+<strong>Déployer des services numériques pour les utilisateurs</strong>
+Pour effectuer l'intégration des services ainsi que tester le bon fonctionnement de nos applications nous utilisons un autre environnement que la production qui est directement en lien avec les utilisateurs, en effet nous utilisons l'environnement de recette fonctionnelle qui a pour objectif de vérifier le bon fonctionnement des nouvelles fonctionnalités.
+Une fois les différents tests effectuer sur les différents environnements, nous effectuons le déploiement des solutions au sein de l'environnement de production.
+Pour finir lors d'une installation et meme après la création d'un script nous utilisons et mettons en place des documentations techniques pour aider les utilisateurs.
 
-<strong>- Développer ses compétences et construire son parcours professionnel</strong>
-Mettre en place une veille technologique et un environnement propice à l'apprentissage continu  
-Définir une trajectoire professionnelle en lien avec les besoins du secteur et ses aspirations
+<strong>Développer ses compétences et construire son parcours professionnel</strong>
+Pour apprendre le métier de développeur mais également celui d'intégrateur d'exploitation, j'ai dû mettre en place une veille technologique mais aussi un environnement d'apprentissage pour comprendre et utiliser des langages comme le shell pour les scripts. 
+Cela m'a permis de monter en compétence pour répondre aux besoins de l'entreprise.
               </pre>
             </p>
           </div>

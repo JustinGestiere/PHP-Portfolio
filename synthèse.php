@@ -13,324 +13,89 @@
     </div>
     <div class="why_container">
       <div class="synthese-container">
-        <div class="synthese-table">
-          <div class="synthese-header">
-            <div class="synthese-cell header-cell" style="flex: 1; text-align: center;">Réalisations</div>
-            <div class="synthese-cell header-cell" style="flex: 2; text-align: center;">Compétences</div>
-          </div>
-          
-          <!-- Réalisation 1 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>Calculatrice immobilière</h4>
-                <p>Réalisation 1 MyDigitalSchool</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Travailler en mode projet</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                      <li>Planifier les activités</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                      <li>Déployer un service</li>
-                      <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Réalisation 2 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>WEB FORMATION</h4>
-                <p>Réalisation 2 MyDigitalSchool</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Gérer le patrimoine informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
-                      <li>Gérer des sauvegardes</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Développer la présence en ligne de l'organisation</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Participer à la valorisation de l'image de l'organisation sur les médias numériques</li>
-                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Travailler en mode projet</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                      <li>Planifier les activités</li>
-                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                      <li>Déployer un service</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Gérer son identité professionnelle</li>
-                      <li>Développer son projet professionnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Réalisation 3 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>PORTFOLIO</h4>
-                <p>Réalisation 3 MyDigitalSchool</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Développer la présence en ligne de l'organisation</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
-                      <li>Participer à la valorisation de l'image de l'organisation sur les médias numériques</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Déployer un service</li>
-                      <li>Accompagner les utilisateurs dans la mise en place d'un service</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Mettre en œuvre des outils et stratégies de veille informationnelle</li>
-                      <li>Gérer son identité professionnelle</li>
-                      <li>Développer son projet professionnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Réalisation 4 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>Click'n Eat</h4>
-                <p>Réalisation 4 MyDigitalSchool</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Gérer le patrimoine informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Recenser et identifier les ressources numériques</li>
-                      <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
-                      <li>Gérer des sauvegardes</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Développer la présence en ligne de l'organisation</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Participer à l'évolution d'un site Web exploitant les données de l'organisation</li>
-                      <li>Participer à la valorisation de l'image de l'organisation sur les médias numériques</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Travailler en mode projet</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                      <li>Planifier les activités</li>
-                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                      <li>Déployer un service</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Gérer son identité professionnelle</li>
-                      <li>Développer son projet professionnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Réalisation 5 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>Collecteur de données VIP</h4>
-                <p>Réalisation 1 Entreprise</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Collecter, suivre et orienter des demandes</li>
-                      <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                      <li>Traiter des demandes concernant les applications</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Travailler en mode projet</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                      <li>Planifier les activités</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Développer son projet professionnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Réalisation 6 -->
-          <div class="synthese-row">
-            <div class="synthese-cell projet-cell">
-              <div class="projet-content">
-                <h4>Mise à jour calendriers ordonnanceur</h4>
-                <p>Réalisation 2 Entreprise</p>
-              </div>
-            </div>
-            <div class="synthese-cell competence-cell">
-              <div class="competence-list">
-                <details>
-                  <summary>Gérer le patrimoine informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Recenser et identifier les ressources numériques</li>
-                      <li>Exploiter des référentiels, normes et standards adoptés par le prestataire informatique</li>
-                      <li>Mettre en place et vérifier les niveaux d'habilitation associés à un service</li>
-                      <li>Vérifier les conditions de la continuité d'un service informatique</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Répondre aux incidents et aux demandes d'assistance et d'évolution</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                    <li>Collecter, suivre et orienter des demandes</li>
-                      <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
-                      <li>Traiter des demandes concernant les applications</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Travailler en mode projet</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Analyser les objectifs et les modalités d'organisation d'un projet</li>
-                      <li>Planifier les activités</li>
-                      <li>Évaluer les indicateurs de suivi d'un projet et analyser les écarts</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Mettre à disposition des utilisateurs un service informatique</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-                      <li>Déployer un service</li>
-                      <li>Accompagner l'installation et la mise en œuvre d'un service</li>
-                    </ul>
-                  </div>
-                </details>
-                <details>
-                  <summary>Organiser son développement professionnel</summary>
-                  <div class="sous-competence">
-                    <ul class="inline-list">
-                      <li>Mettre en place son environnement d'apprentissage personnel</li>
-                      <li>Développer son projet professionnel</li>
-                    </ul>
-                  </div>
-                </details>
-              </div>
-            </div>
-          </div>
+        <div class="table-responsive">
+          <table class="synthese-table">
+            <thead>
+              <tr>
+                <th class="empty-header"></th>
+                <th colspan="6" class="competences-header">Compétences</th>
+              </tr>
+              <tr>
+                <th class="realisation-header">Réalisations</th>
+                <th>Gérer le patrimoine informatique</th>
+                <th>Répondre aux incidents</th>
+                <th>Développer la présence en ligne</th>
+                <th>Travailler en mode projet</th>
+                <th>Mettre à disposition un service</th>
+                <th>Organiser son développement</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Réalisations MyDigitalSchool -->
+              <tr class="section-header">
+                <td colspan="7">Réalisations MyDigitalSchool</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation1.php">Calculatrice prêt immobilier</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation2.php">WEB FORMATION</a></td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation4.php">CLICK'N EAT</a></td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation3.php">PORTFOLIO</a></td>
+                <td></td>
+                <td></td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+                <td>✓</td>
+              </tr>
+              
+              <!-- Réalisations Entreprise -->
+              <tr class="section-header">
+                <td colspan="7">Réalisations Entreprise</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation5.php">Collecteur de données VIP</a></td>
+                <td></td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+              </tr>
+              <tr>
+                <td class="projet-cell"><a href="page_réalisation6.php">Mise à jour calendriers ordonnanceur</a></td>
+                <td>✓</td>
+                <td>✓</td>
+                <td></td>
+                <td>✓</td>
+                <td>✓</td>
+                <td>✓</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
       <div class="pdf-download-container">
@@ -415,47 +180,90 @@
     color: #666;
   }
   
-  .competence-list {
-    display: flex;
-    flex-direction: column;
-    gap: 3px;
-    width: 100%;
-  }
-  
-  .competence-list details {
-    margin-bottom: 0;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    overflow: hidden;
-    width: 95%;
+  .synthese-table th {
+    background-color: #0f054c;
+    color: white;
+    padding: 12px;
+    text-align: center;
     height: 50px;
-    box-sizing: border-box;
-  }
-  
-  .competence-list summary {
-    padding: 3px 8px;
-    background-color: #f1f1f1;
-    cursor: pointer;
+    vertical-align: middle;
     font-weight: bold;
-    color: #0f054c;
-    width: 100%;
-    box-sizing: border-box;
-    height: 50px;
-    display: flex;
-    align-items: center;
+    border: 1px solid #ddd;
   }
   
-  .competence-list details[open] {
-    height: auto;
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-bottom: 20px;
   }
   
-  .competence-list details[open] summary {
-    height: auto;
+  .empty-header {
+    background-color: white !important;
+    border: 1px solid #ddd;
+    color: #333;
   }
   
-  .competence-list details[open] summary {
+  .realisation-header {
+    background-color: #0f054c !important;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    min-width: 150px;
+    border-right: 8px solid white;
+  }
+  
+  .competences-header {
     background-color: #00bbf0;
     color: white;
+    font-size: 18px;
+  }
+  
+  .section-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    color: #0f054c;
+    text-align: left;
+    padding: 10px;
+    font-size: 16px;
+    border-right: none;
+  }
+  
+  .section-header td {
+    border: 1px solid #ddd;
+  }
+  
+  .synthese-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+    vertical-align: middle;
+  }
+  
+  .synthese-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .synthese-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .projet-cell {
+    text-align: left;
+    font-weight: bold;
+    background-color: #f1f1f1;
+    border-right: 4px solid #00bbf0;
+    min-width: 150px;
+  }
+  
+  .projet-cell a {
+    color: #00bbf0;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .projet-cell a:hover {
+    color: #0f054c;
+    text-decoration: underline;
   }
   
   /* Correction de l'alignement des en-têtes */
@@ -498,50 +306,98 @@
   }
   
   @media (max-width: 768px) {
-    .synthese-row {
-      flex-direction: column;
-    }
-    
-    .projet-cell {
-      border-right: none;
-      border-bottom: 1px solid #ddd;
-    }
-    
-    .synthese-header {
-      display: none;
-    }
-    
-    .competence-list details {
+    .synthese-table {
+      font-size: 14px;
       width: 100%;
+      overflow-x: auto;
+      display: block;
     }
     
     .synthese-container {
-      padding: 10px;
+      overflow-x: auto;
+      padding: 0 10px;
+    }
+    
+    .synthese-table th {
+      padding: 8px 4px;
+      height: 40px;
+    }
+    
+    .synthese-table td {
+      padding: 6px 4px;
+    }
+    
+    .projet-header, .realisation-header {
+      min-width: 120px;
+    }
+    
+    .pdf-download-btn {
+      padding: 8px 16px;
+      font-size: 14px;
+      margin-top: 20px;
+    }
+    
+    .section-header td {
+      font-size: 14px;
+      padding: 8px 4px;
+    }
+    
+    .realisation-header {
+      border-right: 6px solid white;
     }
   }
   
   @media (max-width: 480px) {
+    .synthese-table {
+      font-size: 11px;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+    }
+    
     .synthese-container {
-      padding: 5px;
+      overflow-x: auto;
+      padding: 0 5px;
+      max-width: 100%;
     }
     
-    .competence-list details {
-      height: auto;
+    .synthese-table th {
+      padding: 6px 2px;
+      font-size: 10px;
+      height: 35px;
     }
     
-    .competence-list summary {
-      font-size: 14px;
-      padding: 2px 5px;
-      height: auto;
-      min-height: 40px;
+    .synthese-table td {
+      padding: 4px 2px;
     }
     
-    .projet-content h4 {
-      font-size: 16px;
+    .projet-cell a {
+      font-size: 11px;
     }
     
-    .projet-content p {
+    .projet-cell {
+      min-width: 100px;
+    }
+    
+    .pdf-download-btn {
+      padding: 6px 12px;
       font-size: 12px;
+      margin-top: 15px;
+      width: 100%;
+      text-align: center;
+    }
+    
+    .section-header td {
+      font-size: 12px;
+      padding: 6px 2px;
+    }
+    
+    .realisation-header {
+      border-right: 4px solid white;
+    }
+    
+    .competences-header {
+      font-size: 10px;
     }
   }
 </style>

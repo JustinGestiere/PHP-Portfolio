@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Calculette prêt immobilier
+                Calculatrice prêt immobilier
             </h1>
           </div>
         </div>

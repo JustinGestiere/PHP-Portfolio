@@ -23,7 +23,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Calculatrice immobiliere
+                  Calculatrice prêt immobilier
                 </h5>
                 <p>
                   Réalisation 1 MyDigitalSchool
