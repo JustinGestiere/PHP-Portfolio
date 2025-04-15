@@ -60,9 +60,9 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Réalisation du HTML pour avoir le corps de la page
-- Réalisation d'un script JavaScript pour les sections dépliable
-- Puis mise en place du CSS pour rendre la page plus agréable visuellement
+Réalisation du HTML pour avoir le corps de la page
+Réalisation d'un script JavaScript pour les sections dépliable
+Puis mise en place du CSS pour rendre la page plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -73,8 +73,8 @@ Planifier les activités
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours de HTML, CSS et JavaScript
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours de HTML, CSS et JavaScript
               </pre>
             </p>
           </div>

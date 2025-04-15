@@ -8,7 +8,7 @@
   <div class="container">
     <div class="heading_container heading_center">
       <h2>
-        Tableau et graphique de <span>GANTT</span>
+        Tableau et graphique de <span>GANTT</span> pour le site Click'n Eat
       </h2>
     </div>
     <div class="why_container">

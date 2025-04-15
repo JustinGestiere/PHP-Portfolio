@@ -60,9 +60,9 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage des matrices et de leur fonctionnement
-- Réalisation d'un script permettant le calcul de matrice
-- Puis mise en place du graphisme pour rendre le calcul plus agréable visuellement
+Apprentissage des matrices et de leur fonctionnement
+Réalisation d'un script permettant le calcul de matrice
+Puis mise en place du graphisme pour rendre le calcul plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -73,9 +73,9 @@ Planifier les activités
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours de Python
-- Cours de Python en mathématiques
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours de Python
+Cours de Python en mathématiques
               </pre>
             </p>
           </div>

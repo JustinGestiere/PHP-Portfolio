@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Click'n Eat
+                Portfolio
             </h1>
           </div>
         </div>
@@ -28,15 +28,15 @@
           </div>
           <div class="detail-box">
             <h5>
-              Compétences mises en oeuvre 
+              Compétences mises en œuvre 
             </h5>
             <p>
               <pre>
 
-<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
-<strong><a href="synthèse.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
+<strong><a href="synthèse.php">Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
@@ -71,11 +71,11 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
-- Étude de la maquette Figma
-- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-- Réalisation de la partie JavaScript pour rendre la page dynamique
-- Mise en place d'un bouton PDF
-- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Étude de la maquette Figma
+Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
+Réalisation de la partie JavaScript pour rendre la page dynamique
+Mise en place d'un bouton PDF
+Rendre la page responsive pour que les appareils portables puissent avoir accès au site
             </pre>
           </div>
         </div>
@@ -89,9 +89,9 @@ Accompagner les utilisateurs dans la mise en place d'un service
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML, CSS et JavaScript
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours HTML, CSS et JavaScript
+Editeur graphique Figma permettant l'affichage du modèle à suivre
               </pre>
             </p>
           </div>

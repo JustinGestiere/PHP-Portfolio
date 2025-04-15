@@ -55,11 +55,11 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/portfolio.png" alt="">
+                <img src="images/logo_clickneat.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  PORTFOLIO
+                  Click'n Eat
                 </h5>
                 <p>
                   Réalisation 3 MyDigitalSchool
@@ -73,11 +73,11 @@
           <div class="col-md-4 ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/logo_clickneat.png" alt="">
+                <img src="images/portfolio.png" alt="">
               </div>
               <div class="detail-box">
                 <h5>
-                  Click'n Eat
+                  PORTFOLIO
                 </h5>
                 <p>
                   Réalisation 4 MyDigitalSchool

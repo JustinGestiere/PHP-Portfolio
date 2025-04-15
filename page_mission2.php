@@ -67,10 +67,10 @@ Mettre en place son environnement d'apprentissage personnel
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage des bases du langage Python
-- Réalisation du script fonctionnelle du jeu
-- Puis mise en place du graphisme pour rendre le jeu plus agréable visuellement
-- Mise en place d'un fichier CSV pour stocker les scores ainsi que les noms des joueurs.
+Apprentissage des bases du langage Python
+Réalisation du script fonctionnelle du jeu
+Puis mise en place du graphisme pour rendre le jeu plus agréable visuellement
+Mise en place d'un fichier CSV pour stocker les scores ainsi que les noms des joueurs.
             </pre>
           </div>
         </div>
@@ -81,9 +81,9 @@ Mettre en place son environnement d'apprentissage personnel
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours de Python.
-- Cours de Python en mathématiques
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours de Python.
+Cours de Python en mathématiques
               </pre>
             </p>
           </div>

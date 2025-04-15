@@ -60,8 +60,8 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Réalisation d'un script permettant les différents calculs
-- Puis mise en place du graphisme pour rendre les calculs plus agréable visuellement
+Réalisation d'un script permettant les différents calculs
+Puis mise en place du graphisme pour rendre les calculs plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -72,9 +72,9 @@ Planifier les activités
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours de Python
-- Cours de Python en mathématiques
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours de Python
+Cours de Python en mathématiques
               </pre>
             </p>
           </div>

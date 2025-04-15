@@ -62,9 +62,9 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Étude de la maquette Figma
-- Réalisation de la partie HTML pour avoir le corps du site 
-- Puis mise en place du CSS pour rendre le tout plus agréable visuellement
+Étude de la maquette Figma
+Réalisation de la partie HTML pour avoir le corps du site 
+Puis mise en place du CSS pour rendre le tout plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -75,9 +75,9 @@ Planifier les activités
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML et CSS
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours HTML et CSS
+Editeur graphique Figma permettant l'affichage du modèle à suivre
               </pre>
             </p>
           </div>

@@ -59,11 +59,11 @@ Mettre en place son environnement d'apprentissage personnel
               Le projet a nécessité l'utilisation de plusieurs langages, 
               chacun jouant un rôle spécifique dans la construction et l'intégration des fonctionnalités :
 
-              - React a été utilisé comme librairie pour créer une interface réactive, facilitant l'affichage des données météo 
+              React a été utilisé comme librairie pour créer une interface réactive, facilitant l'affichage des données météo 
               et leur mise à jour en fonction des requêtes des utilisateurs.
-              - JavaScript a permis de réaliser les appels vers l'API météo, de manipuler les données et de gérer les interactions utilisateur, 
+              JavaScript a permis de réaliser les appels vers l'API météo, de manipuler les données et de gérer les interactions utilisateur, 
               comme la recherche par ville ou l'affichage des prévisions.
-              - CSS a servi à donner vie à l'application en définissant un design clair, fluide et adapté à différents écrans pour garantir 
+              CSS a servi à donner vie à l'application en définissant un design clair, fluide et adapté à différents écrans pour garantir 
               une expérience utilisateur optimale.
               
               L'application s'appuie sur une API météo externe (OpenWeather) pour récupérer des informations telles que la température, 
@@ -81,15 +81,15 @@ Mettre en place son environnement d'apprentissage personnel
               Description des différentes tâches  
             </h5>
             <pre>
-- Installer NodeJS
-- Initialiser REACT
-- Apprentissage des bases du langage React, de sa syntaxe et de ses spécificités
-- Création des composants
+Installer NodeJS
+Initialiser REACT
+Apprentissage des bases du langage React, de sa syntaxe et de ses spécificités
+Création des composants
  . Composant Jour
         . Composant Semaine
           . Composant Compteur
-- Affichage graphique
-- Mise en page de Mypages sur GitHub
+Affichage graphique
+Mise en page de Mypages sur GitHub
             </pre>
           </div>
         </div>

@@ -64,9 +64,9 @@ Planifier les activités
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage de la solution pour résoudre le jeu
-- Réalisation du script fonctionnelle du jeu
-- Puis mise en place du graphisme pour rendre le jeu plus agréable visuellement
+Apprentissage de la solution pour résoudre le jeu
+Réalisation du script fonctionnelle du jeu
+Puis mise en place du graphisme pour rendre le jeu plus agréable visuellement
             </pre>
           </div>
         </div>
@@ -77,8 +77,8 @@ Planifier les activités
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours de Python
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours de Python
               </pre>
             </p>
           </div>

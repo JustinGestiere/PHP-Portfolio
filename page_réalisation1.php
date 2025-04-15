@@ -36,14 +36,14 @@
             <p>
               <pre>
 
-<strong><a href="synthèse.php">- Travailler en mode projet</a></strong>
+<strong><a href="synthèse.php">Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
-<strong><a href="synthèse.php">- Mettre à disposition des utilisateurs un service informatique</a></strong>
+<strong><a href="synthèse.php">Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
-<strong><a href="synthèse.php">- Organiser son développement professionnel</a></strong>
+<strong><a href="synthèse.php">Organiser son développement professionnel</a></strong>
 Mettre en place son environnement d'apprentissage personnel
               </pre>
             </p>
@@ -64,6 +64,12 @@ Mettre en place son environnement d'apprentissage personnel
               Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
               Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
               les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              Cependant, pour transformer cette application en un logiciel client lourd, Electron a été 
+              utilisé pour empaqueter l'application web en une application de bureau autonome. Electron a 
+              permis de créer une version déployable de la calculatrice immobilière, tout en conservant les 
+              technologies web standard, rendant ainsi l'application accessible sans dépendance à un 
+              navigateur. Ce choix a permis d'offrir une expérience utilisateur fluide et indépendante de 
+              l'environnement web classique.
             </p>
           </div>
         </div>
@@ -76,12 +82,13 @@ Mettre en place son environnement d'apprentissage personnel
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage de nouvelle méthode du langage JavaScript pour répondre au attente du projet
-- Étude de la maquette Figma
-- Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-- Réalisation de la partie JavaScript pour rendre la page dynamique
-- Mise en place d'un bouton PDF
-- Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Apprentissage de nouvelle méthode du langage JavaScript pour répondre au attente du projet
+Étude de la maquette Figma
+Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
+Réalisation de la partie JavaScript pour rendre la page dynamique
+Mise en place d'un bouton PDF
+Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Electron pour empaqueter l'application web en une application de bureau autonome
             </pre>
           </div>
         </div>
@@ -95,9 +102,9 @@ Mettre en place son environnement d'apprentissage personnel
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours HTML, CSS et JavaScript
-- Editeur graphique Figma permettant l'affichage du modèle à suivre
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours HTML, CSS et JavaScript
+Editeur graphique Figma permettant l'affichage du modèle à suivre
               </pre>
             </p>
           </div>

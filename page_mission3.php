@@ -61,9 +61,9 @@ Mettre en place son environnement d'apprentissage personnel
               Description des différentes tâches  
             </h5>
             <pre>
-- Apprentissage du langage PHP
-- Réalisation du Sapin en PHP
-- Refactorisation du code.
+Apprentissage du langage PHP
+Réalisation du Sapin en PHP
+Refactorisation du code.
             </pre>
           </div>
         </div>
@@ -74,8 +74,8 @@ Mettre en place son environnement d'apprentissage personnel
             </h5>
             <p>
               <pre>
-- Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-- Site internet Microlead pour les cours PHP.
+Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
+Site internet Microlead pour les cours PHP.
               </pre>
             </p>
           </div>
