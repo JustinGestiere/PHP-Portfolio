@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/accueil_Portfolio.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -53,12 +53,15 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              L'objectif de ce projet était de concevoir un portfolio professionnel pour présenter mes compétences, réalisations et expériences 
+              dans le domaine du développement web. Ce portfolio a été développé en utilisant PHP pour la structure backend, permettant une 
+              organisation modulaire et une maintenance simplifiée du contenu.
+              
+              Pour la conception, j'ai utilisé HTML5 et CSS3 pour créer une interface utilisateur responsive et moderne, adaptée à tous les 
+              appareils. Le JavaScript a été intégré pour ajouter des éléments interactifs et améliorer l'expérience utilisateur. 
+              
+              Une attention particulière a été portée à l'accessibilité et à l'ergonomie du site, avec une navigation intuitive et une 
+              présentation claire des projets et compétences, notamment à travers la page de synthèse des compétences.
             </p>
           </div>
         </div>
@@ -71,11 +74,12 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
-Étude de la maquette Figma
-Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-Réalisation de la partie JavaScript pour rendre la page dynamique
-Mise en place d'un bouton PDF
-Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Création de la structure du site en PHP avec système de templates (header, footer)
+Développement des pages de présentation des réalisations et compétences
+Mise en place d'une page de synthèse interactive pour visualiser les compétences par projet
+Optimisation du responsive design pour tous les formats d'écran
+Intégration des liens vers les projets externes (GitHub, sites web déployés)
+Déploiement sur un hébergement web avec configuration du serveur Apache
             </pre>
           </div>
         </div>
@@ -89,9 +93,11 @@ Rendre la page responsive pour que les appareils portables puissent avoir accès
             </h5>
             <p>
               <pre>
-Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-Site internet Microlead pour les cours HTML, CSS et JavaScript
-Editeur graphique Figma permettant l'affichage du modèle à suivre
+Visual Studio Code avec extensions PHP, HTML, CSS et JavaScript
+XAMPP pour l'environnement de développement local (Apache, MySQL, PHP)
+GitHub pour le versionnement du code
+Bootstrap pour le framework CSS responsive
+OVH VPS pour l'hébergement du site en production
               </pre>
             </p>
           </div>
@@ -121,7 +127,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : De Mai 2024 à Avril 2025
               </pre>
             </p>
           </div>
@@ -143,21 +149,21 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://clickneat.justingestiere.com/login" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://portfolio.justingestiere.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://portfolio.justingestiere.com" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/PHP-Portfolio" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/PHP-Portfolio" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="gantt_projet4.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+              <a href="gantt_projet_portfolio.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
-            <a href="gantt_projet4.php" target=""><p>GANTT</p></a>
+            <a href="gantt_projet_portfolio.php" target=""><p>GANTT</p></a>
           </div>
         </div>
       </div>
