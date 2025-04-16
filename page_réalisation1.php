@@ -105,6 +105,7 @@ Electron pour empaqueter l'application web en une application de bureau autonome
 Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
 Site internet Microlead pour les cours HTML, CSS et JavaScript
 Editeur graphique Figma permettant l'affichage du modèle à suivre
+Electron pour la conversion de l'application web en application de bureau
               </pre>
             </p>
           </div>
