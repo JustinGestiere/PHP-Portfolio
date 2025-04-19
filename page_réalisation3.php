@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/projet3.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -33,13 +33,25 @@
             <p>
               <pre>
 
+<strong><a href="synthèse.php">Gérer le patrimoine informatique</a></strong>
+Recenser et identifier les resources numériques
+Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
+Mettre en place et vérifier les niveaux d'habilitation associés à un service
+Gérer des sauvegardes
+<strong><a href="synthèse.php">Développer la présence en ligne de l'organisation</a></strong>
+Participer à la valorisation de l'image de l'organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques
+Participer à l'évolution d'un site Web exploitant les données de l'organisation
 <strong><a href="synthèse.php">Travailler en mode projet</a></strong>
 Analyser les objectifs et les modalités d'organisation d'un projet
 Planifier les activités
+Évaluer les indicateurs de suivi d'un projet et analyser les écarts
 <strong><a href="synthèse.php">Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="synthèse.php">Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage personnel
+Développer son projet professionnel
               </pre>
             </p>
           </div>
@@ -53,12 +65,16 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              L'objectif du projet Click'n Eat était de développer une application web de commande de nourriture en ligne permettant aux utilisateurs 
+              de commander des repas auprès de différents restaurants partenaires. Ce projet a été réalisé en utilisant une architecture 
+              moderne combinant un backend robuste et une interface utilisateur intuitive.
+              
+              Pour le développement backend, j'ai utilisé PHP et MySQL pour gérer la base de données des restaurants, des menus, des utilisateurs 
+              et des commandes. L'architecture MVC (Modèle-Vue-Contrôleur) a été implémentée pour assurer une structure de code maintainable 
+              et évolutive.
+              
+              Côté frontend, HTML5, CSS3 et JavaScript ont été utilisés pour créer une interface responsive et interactive. Bootstrap a été 
+              intégré pour garantir une expérience utilisateur cohérente sur tous les appareils, des ordinateurs de bureau aux smartphones.
             </p>
           </div>
         </div>
@@ -71,11 +87,13 @@ Accompagner les utilisateurs dans la mise en place d'un service
               Description des différentes tâches  
             </h5>
             <pre>
-Étude de la maquette Figma
-Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-Réalisation de la partie JavaScript pour rendre la page dynamique
-Mise en place d'un bouton PDF
-Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Conception de l'architecture de la base de données (restaurants, menus, utilisateurs, commandes)
+Développement du système d'authentification et de gestion des utilisateurs
+Création de l'interface de navigation et de recherche des restaurants
+Mise en place du système de panier et de commande
+Intégration d'un système de paiement sécurisé
+Développement d'un tableau de bord pour les restaurants partenaires
+Optimisation des performances et tests de sécurité
             </pre>
           </div>
         </div>
@@ -89,9 +107,12 @@ Rendre la page responsive pour que les appareils portables puissent avoir accès
             </h5>
             <p>
               <pre>
-Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-Site internet Microlead pour les cours HTML, CSS et JavaScript
-Editeur graphique Figma permettant l'affichage du modèle à suivre
+Visual Studio Code avec extensions PHP, MySQL, HTML, CSS et JavaScript
+XAMPP pour l'environnement de développement local (Apache, MySQL, PHP)
+GitHub pour le versionnement du code et la collaboration
+Bootstrap pour le framework CSS responsive
+Stripe API pour l'intégration du système de paiement
+OVH VPS pour l'hébergement du site en production
               </pre>
             </p>
           </div>
@@ -121,7 +142,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : De Septembre 2024 à Décembre 2024
               </pre>
             </p>
           </div>
@@ -149,15 +170,15 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/ClicknEat" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/ClicknEat" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="gantt_projet4.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+              <a href="gantt_projet_clickn'eat.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
-            <a href="gantt_projet4.php" target=""><p>GANTT</p></a>
+            <a href="gantt_projet_clickn'eat.php" target=""><p>GANTT</p></a>
           </div>
         </div>
       </div>
