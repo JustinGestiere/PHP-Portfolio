@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Click'n Eat
+                Mise à jour calendriers ordonnanceur
             </h1>
           </div>
         </div>
@@ -33,13 +33,28 @@
             <p>
               <pre>
 
+<strong><a href="synthèse.php">Gérer le patrimoine informatique</a></strong>
+Recenser et identifier les resources numériques
+Exploiter des référentiels, normes et standards adoptés par le prestataire informatique
+Mettre en place et vérifier les niveaux d'habilitation associés à un service
+Vérifier les conditions de la continuité d'un service informatique
+Gérer des sauvegardes
+<strong><a href="synthèse.php">Répondre aux incidents et aux demandes d'assistance et d'évolution</a></strong>
+Collecter, suivre et orienter des demandes
+Traiter des demandes concernant les services réseau et système, applicatifs
+Traiter des demandes concernant les applications
 <strong><a href="synthèse.php">Travailler en mode projet</a></strong>
-Analyser les objectifs et les modalités d'organisation d'un projet
+Analyser les objectifs et modalités d'organisation d'un projet
 Planifier les activités
+Évaluer les indicateurs de suivi d'un projet et analyser les écarts
 <strong><a href="synthèse.php">Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
 Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="synthèse.php">Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage professionnel
+Mettre en œuvre des outils et stratégies de veille informationnelle
+Développer son projet professionnel
               </pre>
             </p>
           </div>

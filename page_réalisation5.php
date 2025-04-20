@@ -18,7 +18,7 @@
           </div> -->
           <div class="detail-box">
             <h1>
-                Click'n Eat
+                Collecteur de données VIP
             </h1>
           </div>
         </div>
@@ -33,13 +33,15 @@
             <p>
               <pre>
 
-<strong><a href="synthèse.php">Travailler en mode projet</a></strong>
-Analyser les objectifs et les modalités d'organisation d'un projet
-Planifier les activités
+<strong><a href="synthèse.php">Répondre aux incidents et aux demandes d'assistance et d'évolution</a></strong>
+Collecter, suivre et orienter des demandes
+Traiter des demandes concernant les applications
 <strong><a href="synthèse.php">Mettre à disposition des utilisateurs un service informatique</a></strong>
 Réaliser les tests d'intégration et d'acceptation d'un service
 Déployer un service
-Accompagner les utilisateurs dans la mise en place d'un service
+<strong><a href="synthèse.php">Organiser son développement professionnel</a></strong>
+Mettre en place son environnement d'apprentissage professionnel
+Développer son projet professionnel
               </pre>
             </p>
           </div>
