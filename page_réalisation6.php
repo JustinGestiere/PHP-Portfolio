@@ -136,7 +136,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : Du 20 Novembre 2024 au 30 Janvier 2025
               </pre>
             </p>
           </div>
@@ -170,9 +170,9 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="gantt_projet4.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
+              <a href="gantt_projet2_entreprise.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
-            <a href="gantt_projet4.php" target=""><p>GANTT</p></a>
+            <a href="gantt_projet2_entreprise.php" target=""><p>GANTT</p></a>
           </div>
         </div>
       </div>

@@ -123,7 +123,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : Du 15 Juin 2024 au 1er Septembre 2024
+Période : Du 01 octobre 2024 au 30 octobre 2024
               </pre>
             </p>
           </div>
