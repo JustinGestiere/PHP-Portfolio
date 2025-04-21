@@ -142,37 +142,71 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
+          <div class="detail-box">
+            <h5>
+              Documentation utilisateur
+            </h5>
+            <p>
+              La documentation utilisateur pour la mise à jour des calendriers d'ordonnanceur fournit toutes les informations nécessaires pour comprendre et utiliser le système. Elle inclut une présentation du projet, les procédures d'utilisation et les fonctionnalités principales de l'outil de gestion des calendriers.
+            </p>
+            <div class="btn-box">
+              <a href="documentation_calendriers.php">
+                Voir la documentation
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="box">
           <div class="detail-box">
             <h5>
               Documents
             </h5>
-            <!-- <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, anticonstitutionnellementanticonstitutionnellement nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
-            </p> -->
           </div>
         </div>
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://clickneat.justingestiere.com/login" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://calendriers-ordonnanceur.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://calendriers-ordonnanceur.entreprise.com" target="_blank"><p>Adresse du site web (accès interne uniquement)</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/Calendriers_Ordonnanceur" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/Calendriers_Ordonnanceur" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="gantt_projet2_entreprise.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet2_entreprise.php" target=""><p>GANTT</p></a>
+          </div>
+          
+          <div class="box">
+            <div class="detail-box">
+              <h5>
+                Schémas et Tests
+              </h5>
+            </div>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Calendriers/Architecture_Systeme.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Calendriers/Architecture_Systeme.pdf" target="_blank"><p>Architecture Système</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Calendriers/Diagramme_Processus.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Calendriers/Diagramme_Processus.pdf" target="_blank"><p>Diagramme de Processus</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Calendriers/Plan_Tests_Validation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Calendriers/Plan_Tests_Validation.pdf" target="_blank"><p>Plan de Tests de Validation</p></a>
           </div>
         </div>
       </div>

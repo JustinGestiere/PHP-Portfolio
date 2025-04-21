@@ -141,17 +141,25 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
+          <div class="detail-box">
+            <h5>
+              Documentation technique
+            </h5>
+            <p>
+              La documentation technique de la calculatrice de prêt immobilier fournit toutes les informations nécessaires pour comprendre l'architecture et le fonctionnement de l'application. Elle inclut les détails sur les algorithmes de calcul financier, la structure du code et les choix techniques.
+            </p>
+            <div class="btn-box">
+              <a href="documentation_calculatrice.php">
+                Voir la documentation
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="box">
           <div class="detail-box">
             <h5>
               Documents
             </h5>
-            <!-- <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, anticonstitutionnellementanticonstitutionnellement nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
-            </p> -->
           </div>
         </div>
         <div class="boxe">

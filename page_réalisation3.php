@@ -149,17 +149,25 @@ Période : De Février 2025 à Avril 2025
           </div>
         </div>
         <div class="box">
-          <!-- <div class="img-box">
-            <img src="images/w4.png" alt="">
-          </div> -->
+          <div class="detail-box">
+            <h5>
+              Documentation utilisateur
+            </h5>
+            <p>
+              La documentation utilisateur de Click'n Eat fournit toutes les informations nécessaires pour comprendre et utiliser l'application. Elle inclut une présentation du projet, les guides d'utilisation pour chaque type d'utilisateur (client, restaurateur, administrateur) et les fonctionnalités principales.
+            </p>
+            <div class="btn-box">
+              <a href="documentation_clickneat.php">
+                Voir la documentation
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="box">
           <div class="detail-box">
             <h5>
               Documents
             </h5>
-            <!-- <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, anticonstitutionnellementanticonstitutionnellement nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
-            </p> -->
           </div>
         </div>
         <div class="boxe">
@@ -180,6 +188,32 @@ Période : De Février 2025 à Avril 2025
               <a href="gantt_projet_clickn'eat.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet_clickn'eat.php" target=""><p>GANTT</p></a>
+          </div>
+          
+          <div class="box">
+            <div class="detail-box">
+              <h5>
+                Schémas et Tests
+              </h5>
+            </div>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_ClicknEat/MCD_ClicknEat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_ClicknEat/MCD_ClicknEat.pdf" target="_blank"><p>Modèle Conceptuel de Données</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_ClicknEat/Diagramme_Cas_Utilisation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_ClicknEat/Diagramme_Cas_Utilisation.pdf" target="_blank"><p>Diagramme de Cas d'Utilisation</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_ClicknEat/Plan_Tests_ClicknEat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_ClicknEat/Plan_Tests_ClicknEat.pdf" target="_blank"><p>Plan de Tests</p></a>
           </div>
         </div>
       </div>
