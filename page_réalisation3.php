@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet3.png" alt="">
+            <img src="images/realisation3.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -65,16 +65,16 @@ Développer son projet professionnel
               Contexte  
             </h5>
             <p>
-              L'objectif du projet Click'n Eat était de développer une application web de commande de nourriture en ligne permettant aux utilisateurs 
-              de commander des repas auprès de différents restaurants partenaires. Ce projet a été réalisé en utilisant une architecture 
-              moderne combinant un backend robuste et une interface utilisateur intuitive.
-              
-              Pour le développement backend, j'ai utilisé PHP et MySQL pour gérer la base de données des restaurants, des menus, des utilisateurs 
-              et des commandes. L'architecture MVC (Modèle-Vue-Contrôleur) a été implémentée pour assurer une structure de code maintainable 
-              et évolutive.
-              
-              Côté frontend, HTML5, CSS3 et JavaScript ont été utilisés pour créer une interface responsive et interactive. Bootstrap a été 
-              intégré pour garantir une expérience utilisateur cohérente sur tous les appareils, des ordinateurs de bureau aux smartphones.
+              L'objectif du projet Click'n Eat était de développer une application web de commande de nourriture 
+              en ligne permettant aux utilisateurs de commander des repas auprès de différents restaurants partenaires. 
+              Ce projet a été réalisé en utilisant le framework Laravel, offrant une architecture moderne et robuste.
+              Pour le développement backend, j'ai utilisé Laravel (PHP) avec une base de données MySQL pour gérer les 
+              restaurants, les catégories de menu, les items, les utilisateurs et les commandes. L'architecture MVC 
+              (Modèle-Vue-Contrôleur) de Laravel a été exploitée pour assurer une structure de code maintainable et 
+              évolutive, avec un système de contrôle d'accès basé sur les rôles (administrateur, restaurateur, employé, client).
+              Côté frontend, j'ai utilisé Blade (le moteur de templates de Laravel) combiné avec HTML5, 
+              CSS3 et JavaScript pour créer une interface responsive et interactive. Bootstrap a été 
+              intégré pour garantir une expérience utilisateur cohérente sur tous les appareils.
             </p>
           </div>
         </div>
@@ -87,13 +87,15 @@ Développer son projet professionnel
               Description des différentes tâches  
             </h5>
             <pre>
-Conception de l'architecture de la base de données (restaurants, menus, utilisateurs, commandes)
-Développement du système d'authentification et de gestion des utilisateurs
-Création de l'interface de navigation et de recherche des restaurants
-Mise en place du système de panier et de commande
-Intégration d'un système de paiement sécurisé
-Développement d'un tableau de bord pour les restaurants partenaires
-Optimisation des performances et tests de sécurité
+Création de la structure de la base de données pour stocker les restaurants, menus et utilisateurs
+Mise en place d'un système de connexion avec différents types d'utilisateurs (admin, restaurateur, employé, client)
+Création de pages pour ajouter, modifier et supprimer des utilisateurs, accessible uniquement aux administrateurs
+Conception d'un menu latéral qui s'adapte selon le type d'utilisateur connecté
+Limitation pour que les employés ne voient que le restaurant où ils travaillent
+Développement des pages pour gérer les restaurants et leurs menus
+Création d'un tableau de bord simple avec des compteurs (nombre de restaurants, menus, etc.)
+Développement d'un système de commande pour les clients
+Ajout d'une fonctionnalité de réservation de table
             </pre>
           </div>
         </div>
@@ -111,7 +113,6 @@ Visual Studio Code avec extensions PHP, MySQL, HTML, CSS et JavaScript
 XAMPP pour l'environnement de développement local (Apache, MySQL, PHP)
 GitHub pour le versionnement du code et la collaboration
 Bootstrap pour le framework CSS responsive
-Stripe API pour l'intégration du système de paiement
 OVH VPS pour l'hébergement du site en production
               </pre>
             </p>
@@ -142,7 +143,7 @@ OVH VPS pour l'hébergement du site en production
               <pre>
 Effectué au sein de l'établissement : My Digital School à Angers
 Option : Services informatiques aux organisations
-Période : De Septembre 2024 à Décembre 2024
+Période : De Février 2025 à Avril 2025
               </pre>
             </p>
           </div>
@@ -170,9 +171,9 @@ Période : De Septembre 2024 à Décembre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/ClicknEat" target="_blank"><img src="images/logo_git.png" alt=""></a>
+              <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/ClicknEat" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
