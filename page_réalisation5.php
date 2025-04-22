@@ -155,53 +155,23 @@ Période : Du 01 octobre 2024 au 30 octobre 2024
             <div class="img-boxe">
               <a href="https://collecteur-vip.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://collecteur-vip.entreprise.com" target="_blank"><p>Adresse du site web (accès interne uniquement)</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Collecteur_VIP" target="_blank"><img src="images/logo_git.png" alt=""></a>
-            </div>
-            <a href="https://github.com/JustinGestiere/Collecteur_VIP" target="_blank"><p>Repository GitHub</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="gantt_projet1_entreprise.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
-            </div>
-            <a href="gantt_projet1_entreprise.php" target=""><p>GANTT</p></a>
-          </div>
-          
+            <a href="https://collecteur-vip.entreprise.com" target="_blank"><p>Présentation power point</p></a>
+          </div>          
           <div class="box">
             <div class="detail-box">
               <h5>
-                Schémas et Tests
+                Script SHELL
               </h5>
             </div>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Collecteur_VIP/Architecture_Technique.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/Script_$U_VIP_vers_autres_serveurs.sh" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Collecteur_VIP/Architecture_Technique.pdf" target="_blank"><p>Architecture Technique</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Collecteur_VIP/Diagramme_Flux_Donnees.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
-            </div>
-            <a href="images/DOCUMENTATION_Collecteur_VIP/Diagramme_Flux_Donnees.pdf" target="_blank"><p>Diagramme de Flux de Données</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Collecteur_VIP/Plan_Tests_Integration.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
-            </div>
-            <a href="images/DOCUMENTATION_Collecteur_VIP/Plan_Tests_Integration.pdf" target="_blank"><p>Plan de Tests d'Intégration</p></a>
+            <a href="images/Script_$U_VIP_vers_autres_serveurs.sh" target="_blank"><p>Script $U VIP</p></a>
           </div>
         </div>
       </div>
-      <!-- <div class="btn-box">
-        <a href=""> 
-          Read More
-        </a>
-      </div> -->
     </div>
   </section>
 
