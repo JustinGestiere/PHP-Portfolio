@@ -16,8 +16,35 @@ include 'header.php';
             <h5>Présentation du projet</h5>
             <p>
               Click'n Eat est une application web de commande de nourriture en ligne permettant aux utilisateurs de commander des repas auprès de différents restaurants partenaires. 
-              L'application offre une interface intuitive et responsive pour les clients, ainsi qu'un tableau de bord complet pour les restaurateurs et administrateurs.
+              L'application offre une interface intuitive pour les clients, ainsi qu'un tableau de bord pour les restaurateurs, employés et administrateurs, chacun avec des accès adaptés à leur rôle.
             </p>
+          </div>
+        </div>
+        
+        <div class="box">
+          <div class="detail-box">
+            <h5>Installation du projet</h5>
+            <p>
+              <strong>Prérequis :</strong>
+            </p>
+            <ul>
+              <li>PHP 8.0 ou supérieur</li>
+              <li>Composer (gestionnaire de dépendances PHP)</li>
+              <li>MySQL 5.7 ou supérieur</li>
+              <li>Serveur web (Apache, Nginx)</li>
+            </ul>
+            <p>
+              <strong>Étapes d'installation :</strong>
+            </p>
+            <ol>
+              <li>Cloner le dépôt Git : <code>git clone https://github.com/votre-compte/clickneat.git</code></li>
+              <li>Installer les dépendances : <code>composer install</code></li>
+              <li>Copier le fichier d'environnement : <code>cp .env.example .env</code></li>
+              <li>Générer la clé d'application : <code>php artisan key:generate</code></li>
+              <li>Configurer la base de données dans le fichier .env</li>
+              <li>Exécuter les migrations : <code>php artisan migrate</code></li>
+              <li>Lancer le serveur de développement : <code>php artisan serve</code></li>
+            </ol>
           </div>
         </div>
         
@@ -33,7 +60,7 @@ include 'header.php';
               <li>HTML5, CSS3, JavaScript pour le frontend</li>
               <li>Bootstrap pour le design responsive</li>
               <li>Blade comme moteur de templates</li>
-              <li>OVH VPS pour l'hébergement</li>
+              <li>XAMPP pour l'environnement de développement</li>
             </ul>
           </div>
         </div>
@@ -45,11 +72,11 @@ include 'header.php';
               La base de données est organisée autour des entités principales suivantes :
             </p>
             <ul>
-              <li><strong>Users</strong> : Stocke les informations des utilisateurs (clients, restaurateurs, administrateurs)</li>
-              <li><strong>Restaurants</strong> : Contient les informations sur les restaurants partenaires</li>
-              <li><strong>Categories</strong> : Catégories de plats (entrées, plats principaux, desserts, etc.)</li>
-              <li><strong>Items</strong> : Plats proposés par les restaurants</li>
-              <li><strong>Orders</strong> : Commandes passées par les utilisateurs</li>
+              <li><strong>Users</strong> : Stocke les informations des utilisateurs avec différents rôles (admin, restaurateur, employé, client)</li>
+              <li><strong>Restaurants</strong> : Contient les informations sur les restaurants avec relations vers les restaurateurs et employés</li>
+              <li><strong>Categories</strong> : Catégories de plats liées aux restaurants</li>
+              <li><strong>Items</strong> : Plats proposés par les restaurants, liés aux catégories</li>
+              <li><strong>Orders</strong> : Commandes passées par les utilisateurs (fonctionnalité à venir)</li>
               <li><strong>Order_items</strong> : Éléments individuels d'une commande</li>
               <li><strong>Reservations</strong> : Réservations de tables</li>
             </ul>
