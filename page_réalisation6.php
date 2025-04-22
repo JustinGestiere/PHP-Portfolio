@@ -194,7 +194,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script1_projet2.png" target="_blank"><img src="images/capture_script1_projet2.png" alt="Capture script 1"></a>
+                <a href="images/capture_script1_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 1"></a>
               </div>
               <a href="images/capture_script1_projet2.png" target="_blank"><p>Capture Script lance script vérification calendrier</p></a>
             </div>
@@ -207,7 +207,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script2_projet2.png" target="_blank"><img src="images/capture_script2_projet2.png" alt="Capture script 2"></a>
+                <a href="images/capture_script2_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 2"></a>
               </div>
               <a href="images/capture_script2_projet2.png" target="_blank"><p>Capture Script vérification calendrier</p></a>
             </div>
@@ -220,7 +220,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script3_projet2.png" target="_blank"><img src="images/capture_script3_projet2.png" alt="Capture script 3"></a>
+                <a href="images/capture_script3_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 3"></a>
               </div>
               <a href="images/capture_script3_projet2.png" target="_blank"><p>Capture Script lance compare règles</p></a>
             </div>
@@ -233,7 +233,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script4_projet2.png" target="_blank"><img src="images/capture_script4_projet2.png" alt="Capture script 4"></a>
+                <a href="images/capture_script4_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 4"></a>
               </div>
               <a href="images/capture_script4_projet2.png" target="_blank"><p>Capture Script compare règles</p></a>
             </div>
@@ -246,7 +246,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script5_projet2.png" target="_blank"><img src="images/capture_script5_projet2.png" alt="Capture script 5"></a>
+                <a href="images/capture_script5_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 5"></a>
               </div>
               <a href="images/capture_script5_projet2.png" target="_blank"><p>Capture Script maj calendrier production</p></a>
             </div>
@@ -259,7 +259,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </div>
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/capture_script6_projet2.png" target="_blank"><img src="images/capture_script6_projet2.png" alt="Capture script 6"></a>
+                <a href="images/capture_script6_projet2.png" target="_blank"><img src="images/schema.png" alt="Capture script 6"></a>
               </div>
               <a href="images/capture_script6_projet2.png" target="_blank"><p>Capture Script nettoyage script calendrier</p></a>
             </div>
