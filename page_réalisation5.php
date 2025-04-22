@@ -166,7 +166,7 @@ Période : Du 01 octobre 2024 au 30 octobre 2024
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/Script_$U_VIP_vers_autres_serveurs.sh" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/Script_$U_VIP_vers_autres_serveurs.sh" target="_blank"><img src="images/scriptlogo.png" alt=""></a>
             </div>
             <a href="images/Script_$U_VIP_vers_autres_serveurs.sh" target="_blank"><p>Script $U VIP</p></a>
           </div>

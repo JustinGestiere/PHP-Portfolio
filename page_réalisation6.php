@@ -188,7 +188,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 1 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/1-script_lance_script_verif_calendrier_$U.sh" target="_blank"><img src="images/schema.png" alt="Script 1"></a>
+                <a href="images/1-script_lance_script_verif_calendrier_$U.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 1"></a>
               </div>
               <a href="images/1-script_lance_script_verif_calendrier_$U.sh" target="_blank"><p>Script lance script vérification calendrier</p></a>
             </div>
@@ -201,7 +201,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 2 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/2-script_verif_calendrier.sh" target="_blank"><img src="images/schema.png" alt="Script 2"></a>
+                <a href="images/2-script_verif_calendrier.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 2"></a>
               </div>
               <a href="images/2-script_verif_calendrier.sh" target="_blank"><p>Script vérification calendrier</p></a>
             </div>
@@ -214,7 +214,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 3 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/3-script_lance_compare_regles.sh" target="_blank"><img src="images/schema.png" alt="Script 3"></a>
+                <a href="images/3-script_lance_compare_regles.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 3"></a>
               </div>
               <a href="images/3-script_lance_compare_regles.sh" target="_blank"><p>Script lance compare règles</p></a>
             </div>
@@ -227,7 +227,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 4 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/4-script_compare_regles.sh" target="_blank"><img src="images/schema.png" alt="Script 4"></a>
+                <a href="images/4-script_compare_regles.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 4"></a>
               </div>
               <a href="images/4-script_compare_regles.sh" target="_blank"><p>Script compare règles</p></a>
             </div>
@@ -240,7 +240,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 5 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/5-script_maj_calendrier_production.sh" target="_blank"><img src="images/schema.png" alt="Script 5"></a>
+                <a href="images/5-script_maj_calendrier_production.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 5"></a>
               </div>
               <a href="images/5-script_maj_calendrier_production.sh" target="_blank"><p>Script maj calendrier production</p></a>
             </div>
@@ -253,7 +253,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             <!-- Script 6 -->
             <div class="ligne-boxe">
               <div class="img-boxe">
-                <a href="images/6-script_nettoyage_script_calendrier.sh" target="_blank"><img src="images/schema.png" alt="Script 6"></a>
+                <a href="images/6-script_nettoyage_script_calendrier.sh" target="_blank"><img src="images/scriptlogo.png" alt="Script 6"></a>
               </div>
               <a href="images/6-script_nettoyage_script_calendrier.sh" target="_blank"><p>Script nettoyage script calendrier</p></a>
             </div>
