@@ -1,0 +1,7 @@
+DATE=$( date +%Y );
+touch /home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_PRODUCTION_$DATE.txt &&
+touch /home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_IR-IB_$DATE.txt &&
+touch /home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_FORMATION_$DATE.txt &&
+for SERVEUR in `cat /home/User_VIP/script/maj_calendrier_dollaru/liste_serveur.txt`; 
+	do scp -i /home/User_VIP/.ssh/id_rsa.nokey /home/User_VIP/script/maj_calendrier_dollaru/script_verif_calendrier.sh $SERVEUR:/tmp; ssh -i /home/User_VIP/.ssh/id_rsa.nokey ${SERVEUR} -- chmod 755 /tmp/script_verif_calendrier.sh; echo $SERVEUR && ssh -i /home/User_VIP/.ssh/id_rsa.nokey ${SERVEUR} -- sudo su - User_DollarU -c '/tmp/script_verif_calendrier.sh' | grep "#" | awk '/SOC_PRODUCTION/{print >> "/home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_PRODUCTION_"'$DATE'".txt"} /SOC_FORMATION/ {print >> "/home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_FORMATION_"'$DATE'".txt"} /SOC_IB/ {print >> "/home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_IR-IB_"'$DATE'".txt"} /SOC_IR/ {print >> "/home/User_VIP/script/maj_calendrier_dollaru/liste_machine_probleme_calendrier_IR-IB_"'$DATE'".txt"}';
+	done

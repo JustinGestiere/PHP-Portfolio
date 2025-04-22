@@ -166,47 +166,103 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
         <div class="boxe">
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="https://calendriers-ordonnanceur.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
+              <a href="https://collecteur-vip.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://calendriers-ordonnanceur.entreprise.com" target="_blank"><p>Adresse du site web (accès interne uniquement)</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://github.com/JustinGestiere/Calendriers_Ordonnanceur" target="_blank"><img src="images/logo_git.png" alt=""></a>
-            </div>
-            <a href="https://github.com/JustinGestiere/Calendriers_Ordonnanceur" target="_blank"><p>Repository GitHub</p></a>
-          </div>
+            <a href="https://collecteur-vip.entreprise.com" target="_blank"><p>Présentation power point</p></a>
+          </div>      
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="gantt_projet2_entreprise.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet2_entreprise.php" target=""><p>GANTT</p></a>
           </div>
-          
           <div class="box">
             <div class="detail-box">
               <h5>
-                Schémas et Tests
+                Scripts SHELL
               </h5>
             </div>
           </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Calendriers/Architecture_Systeme.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+          <!-- Boucle sur les 6 scripts et images associées -->
+          <div class="scripts-block">
+            <!-- Script 1 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/1-script_lance_script_verif_calendrier_$U.sh" target="_blank"><img src="images/schema.png" alt="Script 1"></a>
+              </div>
+              <a href="images/1-script_lance_script_verif_calendrier_$U.sh" target="_blank"><p>Script lance script vérification calendrier</p></a>
             </div>
-            <a href="images/DOCUMENTATION_Calendriers/Architecture_Systeme.pdf" target="_blank"><p>Architecture Système</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Calendriers/Diagramme_Processus.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script1_projet2.png" target="_blank"><img src="images/capture_script1_projet2.png" alt="Capture script 1"></a>
+              </div>
+              <a href="images/capture_script1_projet2.png" target="_blank"><p>Capture Script lance script vérification calendrier</p></a>
             </div>
-            <a href="images/DOCUMENTATION_Calendriers/Diagramme_Processus.pdf" target="_blank"><p>Diagramme de Processus</p></a>
-          </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Calendriers/Plan_Tests_Validation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            <!-- Script 2 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/2-script_verif_calendrier.sh" target="_blank"><img src="images/schema.png" alt="Script 2"></a>
+              </div>
+              <a href="images/2-script_verif_calendrier.sh" target="_blank"><p>Script vérification calendrier</p></a>
             </div>
-            <a href="images/DOCUMENTATION_Calendriers/Plan_Tests_Validation.pdf" target="_blank"><p>Plan de Tests de Validation</p></a>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script2_projet2.png" target="_blank"><img src="images/capture_script2_projet2.png" alt="Capture script 2"></a>
+              </div>
+              <a href="images/capture_script2_projet2.png" target="_blank"><p>Capture Script vérification calendrier</p></a>
+            </div>
+            <!-- Script 3 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/3-script_lance_compare_regles.sh" target="_blank"><img src="images/schema.png" alt="Script 3"></a>
+              </div>
+              <a href="images/3-script_lance_compare_regles.sh" target="_blank"><p>Script lance compare règles</p></a>
+            </div>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script3_projet2.png" target="_blank"><img src="images/capture_script3_projet2.png" alt="Capture script 3"></a>
+              </div>
+              <a href="images/capture_script3_projet2.png" target="_blank"><p>Capture Script lance compare règles</p></a>
+            </div>
+            <!-- Script 4 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/4-script_compare_regles.sh" target="_blank"><img src="images/schema.png" alt="Script 4"></a>
+              </div>
+              <a href="images/4-script_compare_regles.sh" target="_blank"><p>Script compare règles</p></a>
+            </div>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script4_projet2.png" target="_blank"><img src="images/capture_script4_projet2.png" alt="Capture script 4"></a>
+              </div>
+              <a href="images/capture_script4_projet2.png" target="_blank"><p>Capture Script compare règles</p></a>
+            </div>
+            <!-- Script 5 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/5-script_maj_calendrier_production.sh" target="_blank"><img src="images/schema.png" alt="Script 5"></a>
+              </div>
+              <a href="images/5-script_maj_calendrier_production.sh" target="_blank"><p>Script maj calendrier production</p></a>
+            </div>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script5_projet2.png" target="_blank"><img src="images/capture_script5_projet2.png" alt="Capture script 5"></a>
+              </div>
+              <a href="images/capture_script5_projet2.png" target="_blank"><p>Capture Script maj calendrier production</p></a>
+            </div>
+            <!-- Script 6 -->
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/6-script_nettoyage_script_calendrier.sh" target="_blank"><img src="images/schema.png" alt="Script 6"></a>
+              </div>
+              <a href="images/6-script_nettoyage_script_calendrier.sh" target="_blank"><p>Script nettoyage script calendrier</p></a>
+            </div>
+            <div class="ligne-boxe">
+              <div class="img-boxe">
+                <a href="images/capture_script6_projet2.png" target="_blank"><img src="images/capture_script6_projet2.png" alt="Capture script 6"></a>
+              </div>
+              <a href="images/capture_script6_projet2.png" target="_blank"><p>Capture Script nettoyage script calendrier</p></a>
+            </div>
           </div>
         </div>
       </div>
