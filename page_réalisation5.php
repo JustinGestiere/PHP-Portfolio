@@ -137,7 +137,7 @@ Période : Du 01 octobre 2024 au 30 octobre 2024
               La documentation utilisateur du Collecteur de données VIP fournit toutes les informations nécessaires pour comprendre et utiliser l'application. Elle inclut une présentation du projet, les procédures d'utilisation et les fonctionnalités principales du système de collecte de données.
             </p>
             <div class="btn-box">
-              <a href="images/DocTech – VIP – Récupération_données.pdf">
+              <a href="images/DocTech – VIP – Récupération_données.pdf" target="_blank">
                 Voir la documentation
               </a>
             </div>

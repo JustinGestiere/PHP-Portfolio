@@ -150,7 +150,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
               La documentation utilisateur pour la mise à jour des calendriers d'ordonnanceur fournit toutes les informations nécessaires pour comprendre et utiliser le système. Elle inclut une présentation du projet, les procédures d'utilisation et les fonctionnalités principales de l'outil de gestion des calendriers.
             </p>
             <div class="btn-box">
-              <a href="images/DocTech – $U – Explication_MAJ_Calendrier_$U_Ecole.pdf">
+              <a href="images/DocTech – $U – Explication_MAJ_Calendrier_$U_Ecole.pdf" target="_blank">
                 Voir la documentation
               </a>
             </div>
