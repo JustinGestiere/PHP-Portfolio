@@ -55,12 +55,13 @@ Développer son projet professionnel
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              Ce projet a été réalisé au sein du Centre de Traitement Informatique (CTI) d'Angers dans le 
+              but d'automatiser et de superviser la collecte de données sur un réseau de serveurs hétérogènes 
+              à l'aide de l'outil Dollar Universe. Contrairement à des serveurs classiques, l'infrastructure cible 
+              était configurée pour centraliser la gestion, la planification et le suivi de tâches critiques, 
+              permettant ainsi d'améliorer la fiabilité et la réactivité du système d'information. L'automatisation 
+              visait à faciliter la récupération, le traitement et la transmission de fichiers de résultats, tout 
+              en assurant la supervision de l'état des services et la gestion des alertes.
             </p>
           </div>
         </div>
@@ -73,11 +74,14 @@ Développer son projet professionnel
               Description des différentes tâches  
             </h5>
             <pre>
-Étude de la maquette Figma
-Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-Réalisation de la partie JavaScript pour rendre la page dynamique
-Mise en place d'un bouton PDF
-Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Analyse du besoin de supervision (Dollar Universe)
+Création et déploiement d'un script SHELL (Script_$U_VIP_vers_autres_serveurs.sh) permettant de :
+  - Récupérer la liste des serveurs à superviser (serveurs ayant un user Dollar Universe)
+  - Copier et exécuter automatiquement un script sur chaque serveur distant pour voir le nombre “UVC scripts” = scripts qui utilisent les commandes de Dollar Universe (uxadd, uxmod, etc.) permettant le CRUD des uprocs, sessions et taches
+  - Collecter les résultats générés et les rapatrier sur la machine VIP
+  - Archiver et transmettre les résultats par mail
+Documentation des procédures et des référentiels (machines, utilisateurs, scripts)
+Rédaction d'une documentation technique (DocTech – VIP – Récupération_données)
             </pre>
           </div>
         </div>
@@ -91,9 +95,11 @@ Rendre la page responsive pour que les appareils portables puissent avoir accès
             </h5>
             <p>
               <pre>
-Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-Site internet Microlead pour les cours HTML, CSS et JavaScript
-Editeur graphique Figma permettant l'affichage du modèle à suivre
+Dollar Universe (ordonnanceur et supervision)
+Script SHELL (bash)
+Serveurs Linux (VIP et serveurs distants)
+Référentiels internes (machines, utilisateurs)
+Documentation technique (DocTech – VIP – Récupération_données)
               </pre>
             </p>
           </div>
@@ -107,7 +113,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               Collaborateurs
             </h5>
             <p>
-              Travail réalisé individuellement avec l'assistance de notre professeur.
+              Travail réalisé individuellement avec l'assistance de mes collègues.
             </p>
           </div>
         </div>
@@ -121,7 +127,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
             </h5>
             <p>
               <pre>
-Effectué au sein de l'établissement : My Digital School à Angers
+Effectué au sein de l'établissement : Centre de traitement informatique (CTI) Angers
 Option : Services informatiques aux organisations
 Période : Du 01 octobre 2024 au 30 octobre 2024
               </pre>

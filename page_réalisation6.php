@@ -68,12 +68,14 @@ Développer son projet professionnel
               Contexte  
             </h5>
             <p>
-              L'objectif initial était de concevoir une calculatrice immobilière entièrement fonctionnelle, réalisée de A à Z, en mettant en œuvre 
-              des compétences en développement web. Pour ce faire, il a fallu combiner plusieurs langages de programmation et technologies, 
-              notamment HTML, CSS et JavaScript, chacun jouant un rôle clé dans le processus de création.
-              Le HTML a permis de structurer la calculatrice immobilière en définissant les éléments comme les boutons et champs d'entrée. 
-              Le CSS a servi à styliser l'interface, en ajustant la mise en page et en rendant l'application responsive. Le JavaScript a géré 
-              les fonctionnalités interactives, réalisant les calculs en temps réel et affichant les résultats.
+              Ce projet a été réalisé au sein du Centre de Traitement Informatique (CTI) d'Angers et portait 
+              sur la gestion, la vérification et la mise à jour automatisée des calendriers de l'ordonnanceur 
+              Dollar Universe ($U) sur l'ensemble des serveurs du parc. Les calendriers sont essentiels au 
+              bon fonctionnement des tâches planifiées sur chaque serveur, et leur maintenance nécessite de 
+              prendre en compte les intervalles de dates, les règles associées à chaque tâche, ainsi que les 
+              jours fériés. Plusieurs scripts ont été développés pour vérifier l'état des calendriers, détecter 
+              les problèmes potentiels, comparer les règles, effectuer les mises à jour et nettoyer les scripts 
+              temporaires, tout en assurant la traçabilité et la centralisation des résultats.
             </p>
           </div>
         </div>
@@ -86,11 +88,15 @@ Développer son projet professionnel
               Description des différentes tâches  
             </h5>
             <pre>
-Étude de la maquette Figma
-Réalisation de la partie HTML et CSS afin d'avoir l'aperçu de la page web
-Réalisation de la partie JavaScript pour rendre la page dynamique
-Mise en place d'un bouton PDF
-Rendre la page responsive pour que les appareils portables puissent avoir accès au site
+Analyse des spécificités des calendriers Dollar Universe (date de début/fin, règles, jours fériés)
+Développement et déploiement de plusieurs scripts SHELL pour :
+  - Vérifier les calendriers sur tous les serveurs (script_lance_script_verif_calendrier_$U.sh, script_verif_calendrier.sh)
+  - Identifier les machines présentant des problèmes de calendrier et générer des listes de suivi
+  - Comparer les règles de chaque tâche avec l'onglet Règles (script_lance_compare_regles.sh, script_compare_regles.sh)
+  - Mettre à jour les calendriers et notifier les résultats (script_maj_calendrier_<environnement>.sh)
+  - Nettoyer les scripts temporaires après traitement (script_nettoyage_script_calendrier.sh)
+Centralisation des résultats, archivage, et documentation technique
+Mise à jour et gestion des fichiers référentiels (liste_serveur, liste_machine_probleme_calendrier, temps_de_traitement_MAJ_calendrier)
             </pre>
           </div>
         </div>
@@ -104,9 +110,11 @@ Rendre la page responsive pour que les appareils portables puissent avoir accès
             </h5>
             <p>
               <pre>
-Logiciel Visual Studio Code ainsi que certaines extensions du logiciel
-Site internet Microlead pour les cours HTML, CSS et JavaScript
-Editeur graphique Figma permettant l'affichage du modèle à suivre
+Dollar Universe ($U) pour l'ordonnancement et la supervision
+Scripts SHELL (bash) pour l'automatisation
+Serveurs Linux (VIP, OMNISCIENT et serveurs distants)
+Fichiers référentiels internes (liste_serveur, User_DollarU, temps_de_traitement_MAJ_calendrier)
+Documentation technique (DocTech – $U – Explication_MAJ_Calendrier_$U)
               </pre>
             </p>
           </div>
@@ -120,7 +128,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
               Collaborateurs
             </h5>
             <p>
-              Travail réalisé individuellement avec l'assistance de notre professeur.
+              Travail réalisé individuellement avec l'assistance de mes collègues.
             </p>
           </div>
         </div>
@@ -134,7 +142,7 @@ Editeur graphique Figma permettant l'affichage du modèle à suivre
             </h5>
             <p>
               <pre>
-Effectué au sein de l'établissement : My Digital School à Angers
+Effectué au sein de l'établissement : Centre de traitement informatique (CTI) Angers
 Option : Services informatiques aux organisations
 Période : Du 20 Novembre 2024 au 30 Janvier 2025
               </pre>
