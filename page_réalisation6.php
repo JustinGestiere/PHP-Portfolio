@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/projet1.png" alt="">
+            <img src="images/image_dollaru.png" alt="">
           </div>
           <div class="detail-box">
             <h5>
@@ -266,11 +266,6 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
           </div>
         </div>
       </div>
-      <!-- <div class="btn-box">
-        <a href=""> 
-          Read More
-        </a>
-      </div> -->
     </div>
   </section>
 
