@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="img-box-page">
-            <img src="images/image_dollaru.png" alt="">
+            <img src="images/image_dollaru.jpg" alt="">
           </div>
           <div class="detail-box">
             <h5>
