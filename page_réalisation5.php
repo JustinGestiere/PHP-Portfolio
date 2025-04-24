@@ -172,20 +172,8 @@ Période : Du 01 octobre 2024 au 30 octobre 2024
             </div>
           </div>
         </div>
-        <div class="box">
-          <div class="detail-box">
-            <h5>
-              Documents
-            </h5>
-          </div>
-        </div>
-        <div class="boxe">
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://collecteur-vip.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
-            </div>
-            <a href="https://collecteur-vip.entreprise.com" target="_blank"><p>Présentation power point</p></a>
-          </div>          
+
+        <div class="boxe">       
           <div class="box">
             <div class="detail-box">
               <h5>

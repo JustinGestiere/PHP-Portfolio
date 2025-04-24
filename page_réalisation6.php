@@ -194,13 +194,7 @@ Période : Du 20 Novembre 2024 au 30 Janvier 2025
             </h5>
           </div>
         </div>
-        <div class="boxe">
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="https://collecteur-vip.entreprise.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
-            </div>
-            <a href="https://collecteur-vip.entreprise.com" target="_blank"><p>Présentation power point</p></a>
-          </div>      
+        <div class="boxe">  
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="gantt_projet2_entreprise.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
