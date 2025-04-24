@@ -168,13 +168,13 @@ Période : Du 15 Octobre 2024 au 31 Décembre 2024
             <div class="img-boxe">
               <a href="https://web-formation.justingestiere.com/files/login.php" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://web-formation.justingestiere.com/files/login.php" target="_blank"><p>Adresse du site web</p></a>
+            <a href="https://web-formation.justingestiere.com/files/login.php" target="_blank"><p>Adresse du site web : https://web-formation.justingestiere.com/files/login.php</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="https://github.com/JustinGestiere/Web_Formation" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Web_Formation" target="_blank"><p>Repository GitHub</p></a>
+            <a href="https://github.com/JustinGestiere/Web_Formation" target="_blank"><p>Repository GitHub : https://github.com/JustinGestiere/Web_Formation</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
@@ -186,7 +186,7 @@ Période : Du 15 Octobre 2024 au 31 Décembre 2024
             <div class="img-boxe">
               <a href="https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md" target="_blank"><p>ReadMe GitHub pour le cahier des charges</p></a>
+            <a href="https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md" target="_blank"><p>ReadMe GitHub pour le cahier des charges : https://github.com/kevinniel/MDS-2425-BTSSIO2-WelcomeTraining/blob/main/readme.md</p></a>
           </div>
           
           <div class="box">

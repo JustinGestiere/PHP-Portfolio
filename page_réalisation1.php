@@ -167,13 +167,13 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
             <div class="img-boxe">
               <a href="https://calculatrice-immobiliere.justingestiere.com" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://calculatrice-immobiliere.justingestiere.com" target="_blank"><p>Adresse du site web : https://calculatrice-immobiliere.justingestiere.com</p></a>
+            <a href="https://calculatrice-immobiliere.justingestiere.com" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub : https://github.com/JustinGestiere/Calculette_Immobiliere</p></a>
+            <a href="https://github.com/JustinGestiere/Calculette_Immobiliere" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
@@ -185,7 +185,7 @@ Période : Du 15 Juin 2024 au 1er Septembre 2024
             <div class="img-boxe">
               <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><img src="images/figma.png" alt=""></a>
             </div>
-            <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><p>Maquette Figma : https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)</p></a>
+            <a href="https://www.figma.com/design/LTqKcbzh8FAeXDfhNjl89j/Modelling_calculatrice_pret-(Copy)" target="_blank"><p>Maquette Figma</p></a>
           </div>
         </div>
       </div>
