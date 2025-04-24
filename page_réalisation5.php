@@ -71,9 +71,31 @@ Développer son projet professionnel
           </div> -->
           <div class="detail-box">
             <h5>
+              Gestion des tickets 
+            </h5>
+            <p>
+              L'outil de ticketing ICD (Incident and Change Database) est une plateforme dédiée à la gestion 
+              centralisée des incidents, des demandes de services et des changements au sein d'un système 
+              informatique. Conçu pour optimiser le support technique et améliorer la communication entre 
+              les équipes IT et les utilisateurs, ICD joue un rôle essentiel dans le bon fonctionnement des 
+              infrastructures informatiques.   
+              Il permet la création, le suivi et la priorisation des tickets, tout en assurant une traçabilité 
+              complète des actions. L'outil intègre également la gestion des changements, conformément aux 
+              bonnes pratiques ITIL. Grâce à son interface intuitive, il facilite le gain de temps, améliore 
+              la réactivité des équipes et offre une analyse fine des données pour anticiper les problèmes récurrents.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <!-- <div class="img-box-page">
+            <img src="images/projet1.png" alt="">
+          </div> -->
+          <div class="detail-box">
+            <h5>
               Description des différentes tâches  
             </h5>
             <pre>
+Prise en compte de la demande à l'aide de l'outil ICD
 Analyse du besoin de supervision (Dollar Universe)
 Création et déploiement d'un script SHELL (Script_$U_VIP_vers_autres_serveurs.sh) permettant de :
   - Récupérer la liste des serveurs à superviser (serveurs ayant un user Dollar Universe)
@@ -95,6 +117,7 @@ Rédaction d'une documentation technique (DocTech – VIP – Récupération_don
             </h5>
             <p>
               <pre>
+ICD (outil de ticketing pour la gestion des incidents et des demandes)
 Dollar Universe (ordonnanceur et supervision)
 Script SHELL (bash)
 Serveurs Linux (VIP et serveurs distants)
