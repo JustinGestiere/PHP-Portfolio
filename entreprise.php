@@ -125,7 +125,7 @@ Cela m'a permis de monter en compétence pour répondre aux besoins de l'entrepr
             <div class="img-boxe">
               <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><p>Adresse du site web : https://www.lasecurecrute.fr/cti-maine-et-loire</p></a>
+            <a href="https://www.lasecurecrute.fr/cti-maine-et-loire" target="_blank"><p>Adresse du site web</p></a>
           </div>
         </div>
         <div class="boxe">
@@ -133,7 +133,7 @@ Cela m'a permis de monter en compétence pour répondre aux besoins de l'entrepr
             <div class="img-boxe">
               <a href="https://www.linkedin.com/company/cti-angers/" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://www.linkedin.com/company/cti-angers/" target="_blank"><p>Linkedin : https://www.linkedin.com/company/cti-angers/</p></a>
+            <a href="https://www.linkedin.com/company/cti-angers/" target="_blank"><p>Linkedin</p></a>
           </div>
         </div>
       </div>
