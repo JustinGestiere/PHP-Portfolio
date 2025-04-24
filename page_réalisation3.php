@@ -197,23 +197,96 @@ Période : De Février 2025 à Avril 2025
               </h5>
             </div>
           </div>
-          <div class="ligne-boxe">
-            <div class="img-boxe">
-              <a href="images/DOCUMENTATION_ClicknEat/MCD_ClicknEat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+          <div class="box">
+            <div class="detail-box">
+              <h5>
+                Schémas et Tests
+              </h5>
             </div>
-            <a href="images/DOCUMENTATION_ClicknEat/MCD_ClicknEat.pdf" target="_blank"><p>Modèle Conceptuel de Données</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_ClicknEat/Diagramme_Cas_Utilisation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Cartographie Technique - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_ClicknEat/Diagramme_Cas_Utilisation.pdf" target="_blank"><p>Diagramme de Cas d'Utilisation</p></a>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Cartographie Technique - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Cartographie Technique</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_ClicknEat/Plan_Tests_ClicknEat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Packages - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_ClicknEat/Plan_Tests_ClicknEat.pdf" target="_blank"><p>Plan de Tests</p></a>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Packages - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Packages</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Authentification - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Authentification - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Authentification</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Classes - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Classes - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Restaurants</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Cours - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Cours - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Categories</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Matières - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Matières - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Items</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Utilisateurs - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Utilisateurs - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Utilisateurs</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Création Cours - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Création Cours - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme d'activité Création Restaurants</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Signature - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Signature - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme d'activité Commandes</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Diagramme de contexte - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Diagramme de contexte - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme de contexte</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/MCD - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/MCD - Web-Formation.drawio.pdf" target="_blank"><p>MCD - Clickn'eat</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/MPD - Web-Formation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/MPD - Web-Formation.pdf" target="_blank"><p>MPD - Clickn'eat</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Merise - Web-Formation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Merise - Web-Formation.pdf" target="_blank"><p>Merise - Clickn'eat</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="images/DOCUMENTATION_Web-Formation/Plan de test qualité en gestion de projet.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+            </div>
+            <a href="images/DOCUMENTATION_Web-Formation/Plan de test qualité en gestion de projet.pdf" target="_blank"><p>Plan de test fonctionnalités</p></a>
           </div>
         </div>
       </div>
