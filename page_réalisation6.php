@@ -88,6 +88,7 @@ Développer son projet professionnel
               Description des différentes tâches  
             </h5>
             <pre>
+
 Analyse des spécificités des calendriers Dollar Universe (date de début/fin, règles, jours fériés)
 Développement et déploiement de plusieurs scripts SHELL pour :
   - Vérifier les calendriers sur tous les serveurs (script_lance_script_verif_calendrier_$U.sh, script_verif_calendrier.sh)
