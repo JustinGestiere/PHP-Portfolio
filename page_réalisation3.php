@@ -197,13 +197,6 @@ Période : De Février 2025 à Avril 2025
               </h5>
             </div>
           </div>
-          <div class="box">
-            <div class="detail-box">
-              <h5>
-                Schémas et Tests
-              </h5>
-            </div>
-          </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="images/DOCUMENTATION_Web-Formation/Diagramme Cartographie Technique - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
