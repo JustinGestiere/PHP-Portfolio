@@ -175,19 +175,25 @@ Période : De Février 2025 à Avril 2025
             <div class="img-boxe">
               <a href="https://clickneat.justingestiere.com/login" target="_blank"><img src="images/lien_site.png" alt=""></a>
             </div>
-            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web : https://clickneat.justingestiere.com/login</p></a>
+            <a href="https://clickneat.justingestiere.com/login" target="_blank"><p>Adresse du site web</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant" target="_blank"><img src="images/logo_git.png" alt=""></a>
             </div>
-            <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant" target="_blank"><p>Repository GitHub : https://github.com/JustinGestiere/LARAVEL_Restaurant</p></a>
+            <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant" target="_blank"><p>Repository GitHub</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
               <a href="gantt_projet_clickn'eat.php" target=""><img src="images/gantt_tableau.png" alt=""></a>
             </div>
             <a href="gantt_projet_clickn'eat.php" target=""><p>GANTT</p></a>
+          </div>
+          <div class="ligne-boxe">
+            <div class="img-boxe">
+              <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant/blob/main/cahier_des_charges.md" target="_blank"><img src="images/logo_git.png" alt=""></a>
+            </div>
+            <a href="https://github.com/JustinGestiere/LARAVEL_Restaurant/blob/main/cahier_des_charges.md" target="_blank"><p>Cahier des charges</p></a>
           </div>
           
           <div class="box">
