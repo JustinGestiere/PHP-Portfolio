@@ -9,7 +9,7 @@
       <div class="container ">
         <div class="heading_container heading_center">
           <h2>
-            Mes <span>Missions</span>
+            Mes <span>Exercices</span>
           </h2>
           <!-- <p>
             There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
