@@ -217,33 +217,33 @@ Période : De Février 2025 à Avril 2025
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Authentification - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Authentification - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Authentification - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Authentification</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Authentification - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case Authentification</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Restaurant - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Restaurant - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Restaurant - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Restaurant</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Restaurant - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case Restaurant</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Categories - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Categories - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Categories - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Categories</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Categories - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case Categories</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Items - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Items - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Items - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Items</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Items - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case Items</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Utilisateurs - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Utilisateurs - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Utilisateurs - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Utilisateurs</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case Utilisateurs - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case Utilisateurs</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
