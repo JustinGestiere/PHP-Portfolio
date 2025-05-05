@@ -205,87 +205,87 @@ Période : De Février 2025 à Avril 2025
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Cartographie Technique - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Cartographie Technique - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Cartographie Technique - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Cartographie Technique</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Cartographie Technique - Clickn'Eat.pdf" target="_blank"><p>Diagramme Cartographie Technique</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Packages - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Packages - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Packages - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Packages</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Packages - Clickn'Eat.pdf" target="_blank"><p>Diagramme Packages</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Authentification - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Authentification - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Authentification - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Authentification</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Authentification - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Authentification</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Classes - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Restaurant - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Classes - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Restaurants</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Restaurant - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Restaurant</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Cours - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Categories - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Cours - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Categories</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Categories - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Categories</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Matières - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Items - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Matières - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Items</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Items - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Items</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Utilisateurs - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Utilisateurs - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme Use Case - Utilisateurs - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme Use Case - Utilisateurs</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme Use Case - Utilisateurs - Clickn'Eat.pdf" target="_blank"><p>Diagramme Use Case - Utilisateurs</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Création Cours - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme d'activité Création Restaurants - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Création Cours - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme d'activité Création Restaurants</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme d'activité Création Restaurants - Clickn'Eat.pdf" target="_blank"><p>Diagramme d'activité Création Restaurants</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Signature - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme d'activité Commandes - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme d'activité Signature - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme d'activité Commandes</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme d'activité Commandes - Clickn'Eat.pdf" target="_blank"><p>Diagramme d'activité Commandes</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Diagramme de contexte - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme de contexte - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Diagramme de contexte - Web-Formation.drawio.pdf" target="_blank"><p>Diagramme de contexte</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Diagramme de contexte - Clickn'Eat.pdf" target="_blank"><p>Diagramme de contexte</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/MCD - Web-Formation.drawio.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/MCD.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/MCD - Web-Formation.drawio.pdf" target="_blank"><p>MCD - Clickn'eat</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/MCD.pdf" target="_blank"><p>MCD - Clickn'eat</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/MPD - Web-Formation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/MPD.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/MPD - Web-Formation.pdf" target="_blank"><p>MPD - Clickn'eat</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/MPD.pdf" target="_blank"><p>MPD - Clickn'eat</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Merise - Web-Formation.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Merise - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Merise - Web-Formation.pdf" target="_blank"><p>Merise - Clickn'eat</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Merise - Clickn'Eat.pdf" target="_blank"><p>Merise - Clickn'eat</p></a>
           </div>
           <div class="ligne-boxe">
             <div class="img-boxe">
-              <a href="images/DOCUMENTATION_Web-Formation/Plan de test qualité en gestion de projet.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
+              <a href="images/DOCUMENTATION_Clickn'Eat/Tableau des tests - Clickn'Eat.pdf" target="_blank"><img src="images/schema.png" alt=""></a>
             </div>
-            <a href="images/DOCUMENTATION_Web-Formation/Plan de test qualité en gestion de projet.pdf" target="_blank"><p>Plan de test fonctionnalités</p></a>
+            <a href="images/DOCUMENTATION_Clickn'Eat/Tableau des tests - Clickn'Eat.pdf" target="_blank"><p>Tableau des tests</p></a>
           </div>
         </div>
       </div>
