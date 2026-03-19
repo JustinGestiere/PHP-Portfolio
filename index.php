@@ -15,7 +15,7 @@
                 <div class="col-md-6 ">
                   <div class="detail-box">
                     <h1>
-                      Justin Guuuestiere <br>
+                      Justin Gestiere <br>
                       Portfolio
                     </h1>
                     <!-- <div class="btn-box">
